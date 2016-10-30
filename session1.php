@@ -117,6 +117,10 @@
           <button type = "submit"> Download Team 4 </button>
         </form>
     </div>
+<div>
+  Click button to logout: <br/>
+  <a href="slogout.php">Logout</a> <br/>
+</div>
   </body>
 
 </html>
