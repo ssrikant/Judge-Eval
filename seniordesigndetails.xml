@@ -82,6 +82,56 @@
         <Political>0</Political>
         <Comments>segjio;wanoeignoiw4e;gokmwo4mgnoim4egklmes</Comments>
       </forms>
+      <forms>
+        <JudgeName>aegsges</JudgeName>
+        <TechnicalAccuracy>5</TechnicalAccuracy>
+        <CreativityandInnovation>5</CreativityandInnovation>
+        <SupportingAnalyticalWork>5</SupportingAnalyticalWork>
+        <MethodicalDesignProcessDemonstrated>5</MethodicalDesignProcessDemonstrated>
+        <AddressesProjectComplexityAppropriately>5</AddressesProjectComplexityAppropriately>
+        <ExpectationofCompletion>5</ExpectationofCompletion>
+        <DesignandAnalysisoftests>5</DesignandAnalysisoftests>
+        <QualityofResponseduringQA>5</QualityofResponseduringQA>
+        <Organization>5</Organization>
+        <UseofAllotedTime>5</UseofAllotedTime>
+        <VisualAids>5</VisualAids>
+        <ConfidenceandPoise>5</ConfidenceandPoise>
+        <Total>60</Total>
+        <Economic>0</Economic>
+        <Environmental>0</Environmental>
+        <Sustainability>0</Sustainability>
+        <Manufacturability>0</Manufacturability>
+        <Ethical>0</Ethical>
+        <HealthandSafety>1</HealthandSafety>
+        <Social>0</Social>
+        <Political>0</Political>
+        <Comments/>
+      </forms>
+      <forms>
+        <JudgeName>1q</JudgeName>
+        <TechnicalAccuracy>5</TechnicalAccuracy>
+        <CreativityandInnovation>5</CreativityandInnovation>
+        <SupportingAnalyticalWork>5</SupportingAnalyticalWork>
+        <MethodicalDesignProcessDemonstrated>5</MethodicalDesignProcessDemonstrated>
+        <AddressesProjectComplexityAppropriately>5</AddressesProjectComplexityAppropriately>
+        <ExpectationofCompletion>5</ExpectationofCompletion>
+        <DesignandAnalysisoftests>5</DesignandAnalysisoftests>
+        <QualityofResponseduringQA>5</QualityofResponseduringQA>
+        <Organization>5</Organization>
+        <UseofAllotedTime>5</UseofAllotedTime>
+        <VisualAids>5</VisualAids>
+        <ConfidenceandPoise>5</ConfidenceandPoise>
+        <Total>60</Total>
+        <Economic>0</Economic>
+        <Environmental>0</Environmental>
+        <Sustainability>0</Sustainability>
+        <Manufacturability>0</Manufacturability>
+        <Ethical>0</Ethical>
+        <HealthandSafety>0</HealthandSafety>
+        <Social>0</Social>
+        <Political>0</Political>
+        <Comments/>
+      </forms>
     </team>
     <team>
       <title>EoiB</title>
@@ -171,6 +221,31 @@
       <members>Kid N, Robot, R.O.B</members>
       <advisor>Professor Qwerty</advisor>
       <room>306</room>
+      <forms>
+        <JudgeName>bsbs</JudgeName>
+        <TechnicalAccuracy>5</TechnicalAccuracy>
+        <CreativityandInnovation>5</CreativityandInnovation>
+        <SupportingAnalyticalWork>5</SupportingAnalyticalWork>
+        <MethodicalDesignProcessDemonstrated>5</MethodicalDesignProcessDemonstrated>
+        <AddressesProjectComplexityAppropriately>5</AddressesProjectComplexityAppropriately>
+        <ExpectationofCompletion>5</ExpectationofCompletion>
+        <DesignandAnalysisoftests>5</DesignandAnalysisoftests>
+        <QualityofResponseduringQA>5</QualityofResponseduringQA>
+        <Organization>5</Organization>
+        <UseofAllotedTime>5</UseofAllotedTime>
+        <VisualAids>5</VisualAids>
+        <ConfidenceandPoise>5</ConfidenceandPoise>
+        <Total>60</Total>
+        <Economic>0</Economic>
+        <Environmental>0</Environmental>
+        <Sustainability>0</Sustainability>
+        <Manufacturability>0</Manufacturability>
+        <Ethical>0</Ethical>
+        <HealthandSafety>0</HealthandSafety>
+        <Social>0</Social>
+        <Political>0</Political>
+        <Comments/>
+      </forms>
     </team>
     <team>
       <title>EoiB</title>
