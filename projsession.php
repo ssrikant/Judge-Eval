@@ -11,7 +11,7 @@
   <a href = "session3.php">Session 3: Computer Engineering</a> <br/>
   <a href = "session4.php">Session 4: Electrical Engineering</a> <br/>
 
-  Click button to logout: <br/>
-  <a href="slogout.php">Logout</a> <br/>
+<br/>
+  <a href="index.php">Logout</a> <br/>
   </body>
 </html>

@@ -22,7 +22,7 @@
 
 <html>
     <body>
-      <form method = "post" action "slogin.php">
+      <form method = "post" action="projsession.php">
         Username: <br/>
         <input type = "text" name = "username"> <br/>
         Password: <br/>

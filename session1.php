@@ -1,12 +1,25 @@
+<?php
+session_start();
+
+	$details = simplexml_load_file("seniordesigndetails.xml") or die("Error: Cannot create object");
+    $title = $details->session[0]['category'];
+    $student = $details->session[0]->team[0]->members;
+    $advisor = $details->session[0]->team[0]->advisor;
+    $room = $details->session[0]->team[0]->room;
+    $sessionNumber = $details->session[0]->team[0]->sessionNumber;
+
+?>
+
 <!DOCTYPE html>
 
 <html>
   <h1>
-  Session 1: Bioengineering <br/>
+  Session <?php echo "$sessionNumber: ";  echo $details->session[0]['category']; ?>
   </h1>
   <body>
+  	  <a href="projsession.php">Back</a> <br/>
       <p>
-        Team 1: <!-- <?php echo $pin1[0]; ?> <br/> -->
+        Team 1: <?php echo $details->session[0]->team[0]->members; ?> <br/>
       <table style = "width:75%", border="1px, solid black">
         <thead>
         <tr>
@@ -20,41 +33,17 @@
       <tbody>
         <tr>
           <td>Total Scores</td>
-          <td> <!-- <?php echo $ts[0]; ?> <br/> --> </td>
-          <td> <!-- <?php echo $ts[1]; ?> <br/> --> </td>
-          <td> <!-- <?php echo $ts[2]; ?> <br/> --> </td>
-          <td> <!-- <?php echo $as[0]; ?> <br/> --> </td>
+          <td> <?php echo $details->session[0]->team[0]->forms[0]->Total; ?> <br/></td>
+          <td> <?php echo $details->session[0]->team[0]->forms[1]->Total; ?> <br/></td>
+          <td> <?php echo $details->session[0]->team[0]->forms[2]->Total; ?> <br/></td>
+          <td> <?php $k = 0; for($i = 0; $i < sizeof($details->session[0]->team[0]->forms); $i++){ $k += $details->session[0]->team[0]->forms[$i]->Total;} echo ($k/sizeof($details->session[0]->team[0]->forms)); ?> <br/></td>
         </tr>
       </tbody>
       </table>
     </p>
 
     <p>
-      Team 2: <!-- <?php echo $pin1[0]; ?> <br/> -->
-      <table style = "width:75%", border="1px, solid black">
-        <thead>
-          <tr>
-            <th>&nbsp </th>
-            <th>Judge 1</th>
-            <th>Judge 2</th>
-            <th>Judge 3</th>
-            <th>Average Score</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Total Scores</td>
-            <td> 3 <!-- <?php echo $ts[0]; ?> <br/> --> </td>
-            <td> 2<!-- <?php echo $ts[1]; ?> <br/> --> </td>
-            <td> 23<!-- <?php echo $ts[2]; ?> <br/> --> </td>
-            <td> 2<!-- <?php echo $as[0]; ?> <br/> --> </td>
-          </tr>
-      </tbody>
-      </table>
-    </p>
-
-    <p>
-      Team 3: <!-- <?php echo $pin1[0]; ?> <br/> -->
+      Team 2: <?php echo $details->session[0]->team[1]->members; ?> <br/>
       <table style = "width:75%", border="1px, solid black">
         <thead>
           <tr>
@@ -68,16 +57,17 @@
         <tbody>
         <tr>
           <td>Total Scores</td>
-          <td> 23<!-- <?php echo $ts[0]; ?> <br/> --> </td>
-          <td> 2<!-- <?php echo $ts[1]; ?> <br/> --> </td>
-          <td> 12<!-- <?php echo $ts[2]; ?> <br/> --> </td>
-          <td> 1<!-- <?php echo $as[0]; ?> <br/> --> </td>
-        </tbody>
+          <td> <?php echo $details->session[0]->team[1]->forms[0]->Total; ?> <br/></td>
+          <td> <?php echo $details->session[0]->team[1]->forms[1]->Total; ?> <br/></td>
+          <td> <?php echo $details->session[0]->team[1]->forms[2]->Total; ?> <br/></td>
+          <td> <?php $k = 0; for($i = 0; $i < sizeof($details->session[0]->team[1]->forms); $i++){ $k += $details->session[0]->team[1]->forms[$i]->Total;} echo ($k/sizeof($details->session[0]->team[1]->forms)); ?> <br/></td>
+        </tr>
+      </tbody>
       </table>
     </p>
 
     <p>
-      Team 4: <!-- <?php echo $pin1[0]; ?> <br/> -->
+      Team 3: <?php echo $details->session[0]->team[2]->members; ?> <br/>
       <table style = "width:75%", border="1px, solid black">
         <thead>
           <tr>
@@ -89,37 +79,54 @@
           </tr>
         </thead>
         <tbody>
+        <tr>
+          <td>Total Scores</td>
+          <td> <?php echo $details->session[0]->team[2]->forms[0]->Total; ?> <br/></td>
+          <td> <?php echo $details->session[0]->team[2]->forms[1]->Total; ?> <br/></td>
+          <td> <?php echo $details->session[0]->team[2]->forms[2]->Total; ?> <br/></td>
+          <td> <?php $k = 0; for($i = 0; $i < sizeof($details->session[0]->team[2]->forms); $i++){ $k += $details->session[0]->team[2]->forms[$i]->Total;} echo ($k/sizeof($details->session[0]->team[2]->forms)); ?> <br/></td>
+        </tr>
+      </tbody>
+      </table>
+    </p>
+
+    <p>
+      Team 4: <?php echo $details->session[0]->team[3]->members; ?> <br/>
+      <table style = "width:75%", border="1px, solid black">
+        <thead>
           <tr>
-            <td>Total Scores</td>
-            <td> 32<!-- <?php echo $ts[0]; ?> <br/> --> </td>
-            <td> 23<!-- <?php echo $ts[1]; ?> <br/> --> </td>
-            <td> 23<!-- <?php echo $ts[2]; ?> <br/> --> </td>
-            <td> 12<!-- <?php echo $as[0]; ?> <br/> --> </td>
+            <th>&nbsp </th>
+            <th>Judge 1</th>
+            <th>Judge 2</th>
+            <th>Judge 3</th>
+            <th>Average Score</th>
           </tr>
-       </tbody>
+        </thead>
+        <tbody>
+        <tr>
+          <td>Total Scores</td>
+          <td> <?php echo $details->session[0]->team[3]->forms[0]->Total; ?> <br/></td>
+          <td> <?php echo $details->session[0]->team[3]->forms[1]->Total; ?> <br/></td>
+          <td> <?php echo $details->session[0]->team[3]->forms[2]->Total; ?> <br/></td>
+          <td> <?php $k = 0; for($i = 0; $i < sizeof($details->session[0]->team[3]->forms); $i++){ $k += $details->session[0]->team[3]->forms[$i]->Total;} echo ($k/sizeof($details->session[0]->team[3]->forms)); ?> <br/></td>
+        </tr>
+      </tbody>
       </table>
     </p>
 
     <div class = "reports">
         <h2>
-          Click on download button to obtain an evaluation report for each team. <br/>
+          Click on view button to obtain an printable evaluation report for each team. <br/>
         </h2>
-        <form method = "get" action="t1report.pdf">
-          <button type = "submit"> Download Team 1 </button>
-        </form>
-        <form method = "get" action="t2report.pdf">
-          <button type = "submit"> Download Team 2 </button>
-        </form>
-        <form method = "get" action="t3report.pdf">
-          <button type = "submit"> Download Team 3 </button>
-        </form>
-        <form method = "get" action="t4report.pdf">
-          <button type = "submit"> Download Team 4 </button>
-        </form>
+        <?php
+          echo "<a href='convert.php?team=1&session=$sessionNumber'><button>  View Team 1 </button></a><br>";
+          echo "<a href='convert.php?team=2&session=$sessionNumber'><button>  View Team 2 </button></a><br>";
+          echo "<a href='convert.php?team=3&session=$sessionNumber'><button>  View Team 3 </button></a><br>";
+          echo "<a href='convert.php?team=4&session=$sessionNumber'><button>  View Team 4 </button></a><br>";
+        ?>
     </div>
-<div>
-  Click button to logout: <br/>
-  <a href="slogout.php">Logout</a> <br/>
+<div><br/>
+  <a href="index.php">Logout</a> <br/>
 </div>
   </body>
 
