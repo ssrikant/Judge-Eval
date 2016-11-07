@@ -11,14 +11,47 @@
 	if (isset($_GET['team']) && isset($_GET['session'])) {
     	$tn = $_GET['team'] - 1;
         $sn = $_GET['session'] - 1;
-    	$details = simplexml_load_file("seniordesigndetails.xml") or die("Error: Cannot create object");
-        $s = $details->session[$sn]->team[$tn];
-    	$title = $s->title;
-    	$student = $s->members;
-    	$advisor = $s->advisor;
-    	$room = $s->room;
-    	$sessionNumber = $s->sessionNumber;
-        $f = $s->forms;
+        
+		$details = simplexml_load_file("SDD.xml") or die("Error: Cannot create object");
+    
+    	$title = $details->team[$tn]->Title;
+    
+    	for($k = 0; $k < $details->team[$tn]->EngineeringSeniors; $k++){
+    	    if($k == 0){
+    	        $students[$k] = $details->team[$tn]->First1 . " " . $details->team[$tn]->Last1;
+    	        continue;
+    	    }
+    	    if($k == 1){
+    	        $students[$k] = $details->team[$tn]->First2 . " " . $details->team[$tn]->Last2;
+    	        continue;
+    	    }
+    	    if($k == 2){
+    	        $students[$k] = $details->team[$tn]->First3 . " " . $details->team[$tn]->Last3;
+    	        continue;
+    	    }
+    	    if($k == 3){
+    	        $students[$k] = $details->team[$tn]->First4 . " " . $details->team[$tn]->Last4;
+    	        continue;
+    	    }
+    	    if($k == 4){
+    	        $students[$k] = $details->team[$tn]->First5 . " " . $details->team[$tn]->Last5;
+    	        continue;
+    	    }
+    	    if($k == 5){
+    	        $students[$k] = $details->team[$tn]->First6 . " " . $details->team[$tn]->Last6;
+    	    }
+    	}
+    
+    	$session = $details->team[$tn]->Session;
+    	
+    	$room = $details->team[$tn]->Location;
+	
+		$advisor[0] = $details->team[$tn]->Faculty1;
+	    if(strcmp($details->team[$tn]->Faculty2, '') != 0){
+	        $advisor[1] = $details->team[$tn]->Faculty2;
+	    }
+        
+    	$f = $details->team[$tn]->forms;
         echo '<button style="height:50px; width:100px; font-size: 150%;" onclick="window.print();">Print</button>';
         echo '<br><a href="projsession.php" onclick="window.history.back();">Back</a> <br><hr>';
 
@@ -48,12 +81,26 @@
     		$Com = $f[$i]->Comments;
         
         	echo "<p>Project Title: $title</p>";
-        	echo "<p>Group Members: $student</p>";
-        	echo "<p>Session: $sessionNumber</p>";
+        	echo "<p>Group Members: ";
+        	for($k = 0; $k < $details->team[$tn]->EngineeringSeniors; $k++){
+                if($k == $details->team[$tn]->EngineeringSeniors-1){
+                    echo $students[$k];
+                }
+                else{
+                    echo $students[$k] . ", ";
+                }
+            };
+        	echo "</p><p>Session: $session</p>";
         	echo "<p>Room: $room</p>";
+        	echo "<p>Advisor: ";
+            if(sizeof($advisor) == 1){
+            	echo $advisor[0];
+            }
+            else{
+            	echo $advisor[0] . ", " . $advisor[1];
+            }
         	echo "<p>Judge Name: $JN</p>";
-        	echo "<p>Advisor: $advisor</p>";
-        	echo "<p>DESIGN PROJECT<br>";
+        	echo "</p><p>DESIGN PROJECT<br>";
         	echo "A. Technical Accuracy: $TA<br>";
         	echo "B. Creativity and Innovation: $CI<br>";
         	echo "C. Supporting Analytical Work: $SAW<br>";

@@ -8,6 +8,7 @@
  </head>
  <body>
 <?php
+	$tn = $_SESSION['teamNum'];
 	$JN = $_POST["JN"];
     $TA = $_POST["TA"];
     $CI = $_POST["CI"];
@@ -81,9 +82,9 @@
 	$xml = new DOMDocument('1.0', 'utf-8');
 	$xml->formatOutput = true;
 	$xml->preserveWhiteSpace = false;
-	$xml->load('seniordesigndetails.xml');
+	$xml->load('SDD.xml');
 
-	$element = $xml->getElementsByTagName('session')[0]->getElementsByTagName('team')[2];//edit this to change where for is saved
+	$element = $xml->getElementsByTagName('team')[$tn];//edit this to change where for is saved
 	$newItem = $xml->createElement('forms');
 	
     $newItem->appendChild($xml->createElement('JudgeName', $JN));
@@ -114,7 +115,7 @@
     
 	$element->appendChild($newItem);
 
-	$xml->save('seniordesigndetails.xml');
+	$xml->save('SDD.xml');
 
 	echo "Data has been written. You can logout now. <a href='index.php'>Logout</a>";
 ?>

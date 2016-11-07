@@ -1,0 +1,3524 @@
+<?xml version="1.0"?>
+<teams>
+  <team>
+    <Title>Electrochemical Detection of Nitrate</Title>
+    <Description>This project aims to develop a low cost, user friendly, accurate, and portable device for the electrochemical detection of nitrate in drinking water for use in developing countries where this problem is prevalent.</Description>
+    <Session>BIOE 1</Session>
+    <Time>2:15-2:45</Time>
+    <Location>Learning Commons 133, Viewing and Taping B</Location>
+    <Category>Bioengineering</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>$5,000 </EstimatedBudget>
+    <First1>Lillian</First1>
+    <Last1>Tatka</Last1>
+    <Phone1>(907)317-5987</Phone1>
+    <Email1>ltatka@scu.edu</Email1>
+    <Major1>Bioengineering</Major1>
+    <First2>Kristina</First2>
+    <Last2>Howard</Last2>
+    <Major2>Bioengineering</Major2>
+    <Phone2>(612)227-1744</Phone2>
+    <Email2>kvhoward@gmail.com</Email2>
+    <First3>Monica</First3>
+    <Last3>De Lazzari</Last3>
+    <Phone3>(408)300-4603</Phone3>
+    <Email3>mdelazzari@scu.edu</Email3>
+    <Major3>Bioengineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Mac</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel>2010 MacBook Pro</MacModel>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds>Table</ShowcasingNeeds>
+    <ShowcasingSpaceRequired>3ft x 1ft</ShowcasingSpaceRequired>
+    <Faculty1>Ashley Kim</Faculty1>
+    <FacultyDept1>Bioengineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>1/27/15 9:19</DateSubmitted>
+    <forms>
+      <JudgeName>Tester</JudgeName>
+      <TechnicalAccuracy>4</TechnicalAccuracy>
+      <CreativityandInnovation>4</CreativityandInnovation>
+      <SupportingAnalyticalWork>4</SupportingAnalyticalWork>
+      <MethodicalDesignProcessDemonstrated>4</MethodicalDesignProcessDemonstrated>
+      <AddressesProjectComplexityAppropriately>4</AddressesProjectComplexityAppropriately>
+      <ExpectationofCompletion>4</ExpectationofCompletion>
+      <DesignandAnalysisoftests>4</DesignandAnalysisoftests>
+      <QualityofResponseduringQA>4</QualityofResponseduringQA>
+      <Organization>4</Organization>
+      <UseofAllotedTime>4</UseofAllotedTime>
+      <VisualAids>4</VisualAids>
+      <ConfidenceandPoise>4</ConfidenceandPoise>
+      <Total>48</Total>
+      <Economic>1</Economic>
+      <Environmental>0</Environmental>
+      <Sustainability>0</Sustainability>
+      <Manufacturability>1</Manufacturability>
+      <Ethical>0</Ethical>
+      <HealthandSafety>0</HealthandSafety>
+      <Social>0</Social>
+      <Political>0</Political>
+      <Comments>Hello</Comments>
+    </forms>
+    <forms>
+      <JudgeName>Name</JudgeName>
+      <TechnicalAccuracy>4</TechnicalAccuracy>
+      <CreativityandInnovation>4</CreativityandInnovation>
+      <SupportingAnalyticalWork>4</SupportingAnalyticalWork>
+      <MethodicalDesignProcessDemonstrated>4</MethodicalDesignProcessDemonstrated>
+      <AddressesProjectComplexityAppropriately>4</AddressesProjectComplexityAppropriately>
+      <ExpectationofCompletion>4</ExpectationofCompletion>
+      <DesignandAnalysisoftests>4</DesignandAnalysisoftests>
+      <QualityofResponseduringQA>4</QualityofResponseduringQA>
+      <Organization>4</Organization>
+      <UseofAllotedTime>4</UseofAllotedTime>
+      <VisualAids>4</VisualAids>
+      <ConfidenceandPoise>5</ConfidenceandPoise>
+      <Total>49</Total>
+      <Economic>0</Economic>
+      <Environmental>0</Environmental>
+      <Sustainability>0</Sustainability>
+      <Manufacturability>0</Manufacturability>
+      <Ethical>0</Ethical>
+      <HealthandSafety>0</HealthandSafety>
+      <Social>0</Social>
+      <Political>0</Political>
+      <Comments/>
+    </forms>
+    <forms>
+      <JudgeName>L</JudgeName>
+      <TechnicalAccuracy>5</TechnicalAccuracy>
+      <CreativityandInnovation>5</CreativityandInnovation>
+      <SupportingAnalyticalWork>5</SupportingAnalyticalWork>
+      <MethodicalDesignProcessDemonstrated>5</MethodicalDesignProcessDemonstrated>
+      <AddressesProjectComplexityAppropriately>5</AddressesProjectComplexityAppropriately>
+      <ExpectationofCompletion>5</ExpectationofCompletion>
+      <DesignandAnalysisoftests>5</DesignandAnalysisoftests>
+      <QualityofResponseduringQA>5</QualityofResponseduringQA>
+      <Organization>5</Organization>
+      <UseofAllotedTime>5</UseofAllotedTime>
+      <VisualAids>5</VisualAids>
+      <ConfidenceandPoise>5</ConfidenceandPoise>
+      <Total>60</Total>
+      <Economic>1</Economic>
+      <Environmental>1</Environmental>
+      <Sustainability>1</Sustainability>
+      <Manufacturability>1</Manufacturability>
+      <Ethical>1</Ethical>
+      <HealthandSafety>1</HealthandSafety>
+      <Social>1</Social>
+      <Political>1</Political>
+      <Comments>...</Comments>
+    </forms>
+  </team>
+  <team>
+    <Title>Biological Applications of Scanning Thermal Microscopy</Title>
+    <Description>Our team is using AppNano Vertisense SThM probes to characterize gold nanoparticles, as well as other biologically relevant materials.</Description>
+    <Session>BIOE 1</Session>
+    <Time>2:50-3:15</Time>
+    <Location>Learning Commons 133, Viewing and Taping B</Location>
+    <Category>Bioengineering</Category>
+    <EngineeringSeniors>2</EngineeringSeniors>
+    <EstimatedBudget>500$</EstimatedBudget>
+    <First1>Warren</First1>
+    <Last1>Jolley</Last1>
+    <Phone1>(650)339-0503</Phone1>
+    <Email1>wrjolley@scu.edu</Email1>
+    <Major1>Bioengineering</Major1>
+    <First2>Amanda</First2>
+    <Last2>Brantner</Last2>
+    <Major2>Bioengineering</Major2>
+    <Phone2>(775)354-7170</Phone2>
+    <Email2>abrantner@scu.edu</Email2>
+    <First3/>
+    <Last3/>
+    <Phone3/>
+    <Email3/>
+    <Major3/>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop>PC</BringingOwnLaptop>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Jonathan Zhang</Faculty1>
+    <FacultyDept1>Bioengineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/2/15 22:17</DateSubmitted>
+  </team>
+  <team>
+    <Title>ASSURED Bacterial Detection towards Paper-Based Microfluidic Chip for Resource-Limited Areas</Title>
+    <Description>The World Health Organization estimates that over 3 million people die yearly from waterborne illnesses. To address this, we propose a preventative diagnostic device that utilizes a paper-based sandwich assay and smartphone application to detect the presence of bacterial pathogens in water samples.</Description>
+    <Session>BIOE 1</Session>
+    <Time>3:25-3:50</Time>
+    <Location>Learning Commons 133, Viewing and Taping B</Location>
+    <Category>Bioengineering</Category>
+    <EngineeringSeniors>2</EngineeringSeniors>
+    <EstimatedBudget>$8,000.00 </EstimatedBudget>
+    <First1>Mallory</First1>
+    <Last1>Williams</Last1>
+    <Phone1>(303)981-3516</Phone1>
+    <Email1>mewilliams@scu.edu</Email1>
+    <Major1>Bioengineering</Major1>
+    <First2>Willy</First2>
+    <Last2>Leineweber</Last2>
+    <Major2>Bioengineering</Major2>
+    <Phone2>(503)830-1727</Phone2>
+    <Email2>wleineweber@scu.edu</Email2>
+    <First3/>
+    <Last3/>
+    <Phone3/>
+    <Email3/>
+    <Major3/>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop/>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Ashley Kim</Faculty1>
+    <FacultyDept1>Bioengineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/4/15 15:40</DateSubmitted>
+  </team>
+  <team>
+    <Title>Redesigning Lp-PLA2 while Retaining Catalytic Function</Title>
+    <Description>Our project focuses on redesigning the enzyme lipoprotein-associated phospholipase A2 (Lp-PLA2) into a novel enzyme of peptide size. Successfully eliminating unnecessary amino acids from the structure of Lp-PLA2 will produce a smaller, functional enzyme. With this result, highly effective therapeutic protein drugs will gain feasibility.</Description>
+    <Session>BIOE 2</Session>
+    <Time>2:15-2:45</Time>
+    <Location>Learning Commons, Training and Instruction 203</Location>
+    <Category>Bioengineering</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>$1,500 </EstimatedBudget>
+    <First1>Stacie</First1>
+    <Last1>Lim</Last1>
+    <Phone1>(808)938-6428</Phone1>
+    <Email1>slim@scu.edu</Email1>
+    <Major1>Bioengineering</Major1>
+    <First2>Eddy</First2>
+    <Last2>Liu</Last2>
+    <Major2>Bioengineering</Major2>
+    <Phone2>(650)396-0047</Phone2>
+    <Email2>eyliu@scu.edu</Email2>
+    <First3>Kevin</First3>
+    <Last3>Cronin</Last3>
+    <Phone3>(520)975-6385</Phone3>
+    <Email3>kdcronin@scu.edu</Email3>
+    <Major3>Bioengineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel>MacBook Pro 2011</MacModel>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Jonathan Zhang</Faculty1>
+    <FacultyDept1>Bioengineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/3/15 16:58</DateSubmitted>
+  </team>
+  <team>
+    <Title>Anti-tumor efficacy study in CT26 tumor model</Title>
+    <Description>The goal of this project is to evaluate the therapeutic benefit of combining an approved drug, compound A, and a drug candidate, compound B,in a murinae colon tumor model.</Description>
+    <Session>BIOE 2</Session>
+    <Time>2:50-3:15</Time>
+    <Location>Learning Commons, Training and Instruction 203</Location>
+    <Category>Bioengineering</Category>
+    <EngineeringSeniors>2</EngineeringSeniors>
+    <EstimatedBudget>2,500</EstimatedBudget>
+    <First1>Caroline</First1>
+    <Last1>Brooke</Last1>
+    <Phone1>(406)853-0033</Phone1>
+    <Email1>cbrooke@scu.edu</Email1>
+    <Major1>Bioengineering</Major1>
+    <First2>Sophie</First2>
+    <Last2>Biencourt</Last2>
+    <Major2>Bioengineering</Major2>
+    <Phone2>(206)422-2822</Phone2>
+    <Email2/>
+    <First3/>
+    <Last3/>
+    <Phone3/>
+    <Email3/>
+    <Major3/>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop/>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Jonathan Zhang</Faculty1>
+    <FacultyDept1>Bioengineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/3/15 21:32</DateSubmitted>
+  </team>
+  <team>
+    <Title>A TALE of Two Nucleases: Using TALENs to Edit the Genome of C.elegans</Title>
+    <Description>TALENs is an exciting technology which can be used for targeted genome editing.  By using TALENs to mutate the genome of C. elegans we aim to advance the understanding of TALENs as a genetic engineering tool and contribute to the research on a transcription factor in the Ras/MAPK signaling pathway.</Description>
+    <Session>BIOE 2</Session>
+    <Time>3:25-3:55</Time>
+    <Location>Learning Commons, Training and Instruction 203</Location>
+    <Category>Bioengineering</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>1,211</EstimatedBudget>
+    <First1>Erin</First1>
+    <Last1>Root</Last1>
+    <Phone1>(720)982-9789</Phone1>
+    <Email1>eroot@scu.edu</Email1>
+    <Major1>Bioengineering</Major1>
+    <First2>Kriszten</First2>
+    <Last2>Kocmond</Last2>
+    <Major2>Bioengineering</Major2>
+    <Phone2>(650)823-0017</Phone2>
+    <Email2>kkocmond@scu.edu</Email2>
+    <First3>Clare</First3>
+    <Last3>Bartlett</Last3>
+    <Phone3>(303)902-0966</Phone3>
+    <Email3>cbartlett@scu.edu</Email3>
+    <Major3>Bioengineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Mac</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop/>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Leilani Miller</Faculty1>
+    <FacultyDept1>Biology</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>1/29/15 16:57</DateSubmitted>
+  </team>
+  <team>
+    <Title>Engineering a Cell as a Biosensor</Title>
+    <Description>This project involves using the mammalian two hybrid system (trM2H) to detect protein-protein interactions in mammalian cells. The trM2H system works by outputting a green fluorescent protein (GFP) signal, with an intensity proportional to the binding affinity of the two proteins.</Description>
+    <Session>BIOE 2</Session>
+    <Time>4:05-4:35</Time>
+    <Location>Learning Commons, Training and Instruction 203</Location>
+    <Category>Bioengineering</Category>
+    <EngineeringSeniors>2</EngineeringSeniors>
+    <EstimatedBudget>$2,000 </EstimatedBudget>
+    <First1>Connor</First1>
+    <Last1>Lynch</Last1>
+    <Phone1>(805)722-5808</Phone1>
+    <Email1>clynch@scu.edu</Email1>
+    <Major1>Bioengineering</Major1>
+    <First2>Alex</First2>
+    <Last2>Lehmann</Last2>
+    <Major2>Bioengineering</Major2>
+    <Phone2>(206)371-5275</Phone2>
+    <Email2>alehmann@scu.edu</Email2>
+    <First3/>
+    <Last3/>
+    <Phone3/>
+    <Email3/>
+    <Major3/>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop/>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Jonathan Zhang</Faculty1>
+    <FacultyDept1>Bioengineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/6/15 11:57</DateSubmitted>
+  </team>
+  <team>
+    <Title>Insulin Pump Housing Modification Project</Title>
+    <Description>In collaboration with Asante Solutions, the Insulin Pump Housing team is working to change the method in which Asante Solution's insulin pump bodies are sealed. This will streamline the manufacturing process as well as increase the consistency of sealing the insulin pump bodies.</Description>
+    <Session>BIOE 3</Session>
+    <Time>2:15-2:45</Time>
+    <Location>Learning Commons 129, Viewing and Taping A</Location>
+    <Category>Bioengineering</Category>
+    <EngineeringSeniors>4</EngineeringSeniors>
+    <EstimatedBudget>1500</EstimatedBudget>
+    <First1>John</First1>
+    <Last1>Tidwell</Last1>
+    <Phone1>(707)775-5448</Phone1>
+    <Email1>jtidwell@scu.edu</Email1>
+    <Major1>Bioengineering</Major1>
+    <First2>Kurt</First2>
+    <Last2>Holloway</Last2>
+    <Major2>Bioengineering</Major2>
+    <Phone2/>
+    <Email2>ktholloway@scu.edu</Email2>
+    <First3>Steven</First3>
+    <Last3>Long</Last3>
+    <Phone3/>
+    <Email3>slong1@scu.edu</Email3>
+    <Major3>Bioengineering</Major3>
+    <First4>Matthew</First4>
+    <Last4>Coleman</Last4>
+    <Phone4/>
+    <Email4>mdcoleman@scu.edu</Email4>
+    <Major4>Bioengineering</Major4>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop/>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Prashanth Asuri</Faculty1>
+    <FacultyDept1>Bioengineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/3/15 14:51</DateSubmitted>
+  </team>
+  <team>
+    <Title>Tongue Suspension Suture for Obstructive Sleep Apnea Patients</Title>
+    <Description>Our goal is to create an elastic, biocompatible tongue suspension implant for obstructive sleep apnea patients (OSA), one that eliminates the need to be tethered to the mandible and incorporates Siesta Medical&#x2019;s Encore Tongue Suspension System.</Description>
+    <Session>BIOE 3</Session>
+    <Time>2:50-3:20</Time>
+    <Location>Learning Commons 129, Viewing and Taping A</Location>
+    <Category>Bioengineering</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>$0 </EstimatedBudget>
+    <First1>Erin</First1>
+    <Last1>Araj</Last1>
+    <Phone1>(510 )853-4757</Phone1>
+    <Email1>earaj@scu.edu</Email1>
+    <Major1>Bioengineering</Major1>
+    <First2>Leah</First2>
+    <Last2>Karlsen</Last2>
+    <Major2>Bioengineering</Major2>
+    <Phone2>(425)478-3856</Phone2>
+    <Email2>lkarlsen</Email2>
+    <First3>Abby</First3>
+    <Last3>Kilkenny</Last3>
+    <Phone3>(303)916-6208</Phone3>
+    <Email3>akilkenny@scu.edu</Email3>
+    <Major3>Bioengineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel>MacBook Air 2014</MacModel>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds>Table</ShowcasingNeeds>
+    <ShowcasingSpaceRequired>Room for a poster board</ShowcasingSpaceRequired>
+    <Faculty1>Ashley Kim</Faculty1>
+    <FacultyDept1>Bioengineering</FacultyDept1>
+    <Faculty2>Erik van der Burg</Faculty2>
+    <FacultyDept2>External Advisor</FacultyDept2>
+    <DateSubmitted>1/9/15 14:52</DateSubmitted>
+  </team>
+  <team>
+    <Title>Micro Motion Controller</Title>
+    <Description>We are developing a 2-D-of-freedom controller for micro-surgical procedures including neurosurgery, retinal surgery, and vascular surgery. This is intended to be further developed so that it may be used by da Vinci robotic surgeons in micro-surgical procedures.</Description>
+    <Session>BIOE 3</Session>
+    <Time>3:25-3:55</Time>
+    <Location>Learning Commons 129, Viewing and Taping A</Location>
+    <Category>Bioengineering</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>$1,500 </EstimatedBudget>
+    <First1>Karan</First1>
+    <Last1>Kapoor</Last1>
+    <Phone1>(408)603-1451</Phone1>
+    <Email1>kkapoor@scu.edu</Email1>
+    <Major1>Bioengineering</Major1>
+    <First2>Cameron</First2>
+    <Last2>Chu</Last2>
+    <Major2>Bioengineering</Major2>
+    <Phone2/>
+    <Email2>cchu@scu.edu</Email2>
+    <First3>Sandeep</First3>
+    <Last3>Adem</Last3>
+    <Phone3>(408)892-4170</Phone3>
+    <Email3>sadem@scu.edu</Email3>
+    <Major3>Bioengineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop>PC</BringingOwnLaptop>
+    <MacModel>Toshiba 2010</MacModel>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Jonathan Zhang</Faculty1>
+    <FacultyDept1>Bioengineering</FacultyDept1>
+    <Faculty2>Rajeev Kelkar</Faculty2>
+    <FacultyDept2>External Advisor</FacultyDept2>
+    <DateSubmitted>1/29/15 18:03</DateSubmitted>
+  </team>
+  <team>
+    <Title>Micro-Controller: Part 2</Title>
+    <Description>Our goal is to allow paralyzed children and adults the ability to play chess.  This requires additional construction of a micro-controller adding a motorized third axis and a finger gripper to pick up chess pieces.</Description>
+    <Session>BIOE 3</Session>
+    <Time>4:05-4:35</Time>
+    <Location>Learning Commons 129, Viewing and Taping A</Location>
+    <Category>Bioengineering</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>500</EstimatedBudget>
+    <First1>Bergren</First1>
+    <Last1>Antell</Last1>
+    <Phone1>(650)678-9678</Phone1>
+    <Email1>bantell@scu.edu</Email1>
+    <Major1>Bioengineering</Major1>
+    <First2>Steve</First2>
+    <Last2>Shushnar</Last2>
+    <Major2>Bioengineering</Major2>
+    <Phone2>(818)395-9052</Phone2>
+    <Email2>sshushnar@scu.edu</Email2>
+    <First3>Michael</First3>
+    <Last3>McNaul</Last3>
+    <Phone3>(970)231-3419</Phone3>
+    <Email3>mmcnaul@scu.edu</Email3>
+    <Major3>Bioengineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel>Macbook Pro Retina 2014</MacModel>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds>Table,Power,PC Laptop,MAC Laptop</ShowcasingNeeds>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Ashley Kim</Faculty1>
+    <FacultyDept1>Bioengineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/4/15 12:18</DateSubmitted>
+  </team>
+  <team>
+    <Title>Sustainable Design in Ghana</Title>
+    <Description>Our project explored the replacement of a roof in Ghana using the Nubian Vault construction method. While La Voute Nubienne Association currently builds physically stable structures, we aim to provide the technical data needed for international support of this method to further expand the NGO's capabilities.</Description>
+    <Session>CENG 1</Session>
+    <Time>2:15-2:45</Time>
+    <Location>Bannan Engineering 105</Location>
+    <Category>Civil Engineering</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>$8,812 </EstimatedBudget>
+    <First1>Amanda</First1>
+    <Last1>Laufer</Last1>
+    <Phone1>(916)494-3413</Phone1>
+    <Email1>alaufer4@gmail.com</Email1>
+    <Major1>Civil Engineering</Major1>
+    <First2>Theresa</First2>
+    <Last2>McArdle</Last2>
+    <Major2>Civil Engineering</Major2>
+    <Phone2>(707)337-6472</Phone2>
+    <Email2>tmcardle@scu.edu</Email2>
+    <First3>Anthony</First3>
+    <Last3>DeCosta</Last3>
+    <Phone3>(925)451-0159</Phone3>
+    <Email3>adecosta@scu.edu</Email3>
+    <Major3>Civil Engineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel>2011</MacModel>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds>Table</ShowcasingNeeds>
+    <ShowcasingSpaceRequired>5x5</ShowcasingSpaceRequired>
+    <Faculty1>Mark Aschheim</Faculty1>
+    <FacultyDept1>Civil Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>1/9/15 16:58</DateSubmitted>
+  </team>
+  <team>
+    <Title>Structural Housing Improvements in Oaxaca, Mexico Utilizing Arundo Donax</Title>
+    <Description>The scope of this project has been to conduct research on Arundo Donax in order to examine its ability to be used as a viable structural building material. This, used along with other traditional building methods, would help to find new technologies for housing in developing countries.</Description>
+    <Session>CENG 1</Session>
+    <Time>2:50-3:15</Time>
+    <Location>Bannan Engineering 105</Location>
+    <Category>Civil Engineering</Category>
+    <EngineeringSeniors>2</EngineeringSeniors>
+    <EstimatedBudget>$4,000 </EstimatedBudget>
+    <First1>Jonathan</First1>
+    <Last1>Tadros</Last1>
+    <Phone1>(925)658-2672</Phone1>
+    <Email1>jtadros@scu.edu</Email1>
+    <Major1>Civil Engineering</Major1>
+    <First2>Gregory</First2>
+    <Last2>O'Neill</Last2>
+    <Major2>Civil Engineering</Major2>
+    <Phone2>(760)650-5788</Phone2>
+    <Email2>goneill@scu.edu</Email2>
+    <First3/>
+    <Last3/>
+    <Phone3/>
+    <Email3/>
+    <Major3/>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop/>
+    <MacModel/>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired>6'x4'</ShowcasingSpaceRequired>
+    <Faculty1>Tonya Nilsson</Faculty1>
+    <FacultyDept1>Civil Engineering</FacultyDept1>
+    <Faculty2>Mark Aschheim</Faculty2>
+    <FacultyDept2>Civil Engineering</FacultyDept2>
+    <DateSubmitted>1/22/15 17:54</DateSubmitted>
+  </team>
+  <team>
+    <Title>Interlocking CMU Geometry Design</Title>
+    <Description>This project consists of the design of interlocking voided concrete block and the evaluation of block wall strengths. We aim to find an inexpensive solution for wall construction that can be tailored to work in different wind and seismic environments.</Description>
+    <Session>CENG 1</Session>
+    <Time>3:25-3:50</Time>
+    <Location>Bannan Engineering 105</Location>
+    <Category>Civil Engineering</Category>
+    <EngineeringSeniors>2</EngineeringSeniors>
+    <EstimatedBudget>$600 </EstimatedBudget>
+    <First1>Nick</First1>
+    <Last1>Jensen</Last1>
+    <Phone1>(650)391-8241</Phone1>
+    <Email1>njjensen@scu.edu</Email1>
+    <Major1>Civil Engineering</Major1>
+    <First2>Raquel</First2>
+    <Last2>Avila</Last2>
+    <Major2>Civil Engineering</Major2>
+    <Phone2/>
+    <Email2>rlavila@scu.edu</Email2>
+    <First3/>
+    <Last3/>
+    <Phone3/>
+    <Email3/>
+    <Major3/>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop/>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Mark Aschheim</Faculty1>
+    <FacultyDept1>Civil Engineering</FacultyDept1>
+    <Faculty2>Tracy Abbott</Faculty2>
+    <FacultyDept2>Civil Engineering</FacultyDept2>
+    <DateSubmitted>1/31/15 21:57</DateSubmitted>
+  </team>
+  <team>
+    <Title>Designing With Bamboo: Frames and Connections in Underdeveloped Areas</Title>
+    <Description>Our project focuses on the construction and testing of specific components of a proposed structural system utilizing bamboo and concrete masonry block that incorporates a plastic hinge mechanism. This structure would primarily be used in Haiti and other developing countries that are prone to seismic activity.</Description>
+    <Session>CENG 1</Session>
+    <Time>4:05-4:30</Time>
+    <Location>Bannan Engineering 105</Location>
+    <Category>Civil Engineering</Category>
+    <EngineeringSeniors>2</EngineeringSeniors>
+    <EstimatedBudget>$1,300.00 </EstimatedBudget>
+    <First1>Andrew</First1>
+    <Last1>Spencer</Last1>
+    <Phone1>(510)342-6741</Phone1>
+    <Email1>amspencer@scu.edu</Email1>
+    <Major1>Civil Engineering</Major1>
+    <First2>Bryson</First2>
+    <Last2>Kam</Last2>
+    <Major2>Civil Engineering</Major2>
+    <Phone2/>
+    <Email2>bkam@scu.edu</Email2>
+    <First3/>
+    <Last3/>
+    <Phone3/>
+    <Email3/>
+    <Major3/>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop/>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Tonya Nilsson</Faculty1>
+    <FacultyDept1>Civil Engineering</FacultyDept1>
+    <Faculty2>Mark Aschheim</Faculty2>
+    <FacultyDept2>Civil Engineering</FacultyDept2>
+    <DateSubmitted>2/3/15 17:40</DateSubmitted>
+  </team>
+  <team>
+    <Title>Preliminary Design and Construction Planning of a New Santa Clara University Student Fitness and Recreational Center</Title>
+    <Description>Our team developed a preliminary proposal for a new fitness and recreational center for Santa Clara University, a plan which included spatial programming, structural design and construction planning. Spatial programming provided additional building square-footage. Structural design included steel frames and foundation design. Finally, the construction planning included project estimating, scheduling and logistics.</Description>
+    <Session>CENG 2</Session>
+    <Time>2:15-2:45</Time>
+    <Location>Bannan Engineering 325</Location>
+    <Category>Civil Engineering</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>0</EstimatedBudget>
+    <First1>Alex</First1>
+    <Last1>Sarr</Last1>
+    <Phone1>(314)973-8244</Phone1>
+    <Email1>asarr@scu.edu</Email1>
+    <Major1>Civil Engineering</Major1>
+    <First2>Steven</First2>
+    <Last2>Sakamoto</Last2>
+    <Major2>Civil Engineering</Major2>
+    <Phone2>(808)237-0296</Phone2>
+    <Email2>ssakamoto@scu.edu</Email2>
+    <First3>Justin</First3>
+    <Last3>Matoi</Last3>
+    <Phone3>(808)223-2604</Phone3>
+    <Email3>jmatoi@scu.edu</Email3>
+    <Major3>Civil Engineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop/>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Hisham Said</Faculty1>
+    <FacultyDept1>Civil Engineering</FacultyDept1>
+    <Faculty2>Tracy Abbott</Faculty2>
+    <FacultyDept2>Civil Engineering</FacultyDept2>
+    <DateSubmitted>1/17/15 22:51</DateSubmitted>
+  </team>
+  <team>
+    <Title>Bannan Pedestrian Bridge</Title>
+    <Description>The proposed pedestrian footbridge design is a project that aims to develop and improve the quality of student life at Santa Clara University. Construction design includes estimating, scheduling, and logistical analysis of the project, and structural design includes design calculations and computer analysis of the columns.</Description>
+    <Session>CENG 2</Session>
+    <Time>2:50-3:20</Time>
+    <Location>Bannan Engineering 325</Location>
+    <Category>Civil Engineering</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>$0.00 </EstimatedBudget>
+    <First1>Chris</First1>
+    <Last1>Banaga</Last1>
+    <Phone1>(858)208-6683</Phone1>
+    <Email1>cbanaga@scu.edu</Email1>
+    <Major1>Civil Engineering</Major1>
+    <First2>Tim</First2>
+    <Last2>Mort</Last2>
+    <Major2>Civil Engineering</Major2>
+    <Phone2>(408)348-4704</Phone2>
+    <Email2>tmort@scu.edu</Email2>
+    <First3>Kevin</First3>
+    <Last3>Delos Santos</Last3>
+    <Phone3>(650)454-0726</Phone3>
+    <Email3>kdelossantos@scu.edu</Email3>
+    <Major3>Civil Engineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>Yes</SoftwareRequired>
+    <BringingOwnLaptop/>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Hisham Said</Faculty1>
+    <FacultyDept1>Civil Engineering</FacultyDept1>
+    <Faculty2>Tracy Abbott</Faculty2>
+    <FacultyDept2>Civil Engineering</FacultyDept2>
+    <DateSubmitted>2/3/15 16:12</DateSubmitted>
+  </team>
+  <team>
+    <Title>Seismic Retrofit of Soft Story Building in San Francisco</Title>
+    <Description>This project aims to analyze the existing conditions of a soft story residential building located in San Francisco to determine the effectiveness of available soft story retrofit methods and to design an implementable and cost-effective seismic retrofit.</Description>
+    <Session>CENG 2</Session>
+    <Time>3:25-3:55</Time>
+    <Location>Bannan Engineering 325</Location>
+    <Category>Civil Engineering</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>0</EstimatedBudget>
+    <First1>Maggie</First1>
+    <Last1>Jones</Last1>
+    <Phone1>(775)745-0843</Phone1>
+    <Email1>mjones2@scu.edu</Email1>
+    <Major1>Civil Engineering</Major1>
+    <First2>Alexei</First2>
+    <Last2>Sinkevich</Last2>
+    <Major2>Civil Engineering</Major2>
+    <Phone2>(925)899-9065</Phone2>
+    <Email2>asinkevich@scu.edu</Email2>
+    <First3>William</First3>
+    <Last3>Smithers</Last3>
+    <Phone3>(707)363-0444</Phone3>
+    <Email3>wsmithers@scu.edu</Email3>
+    <Major3>Civil Engineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop>PC</BringingOwnLaptop>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Reynaud Serrette</Faculty1>
+    <FacultyDept1>Civil Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/3/15 14:15</DateSubmitted>
+  </team>
+  <team>
+    <Title>Santa Clara University Multicultural Center Redesign</Title>
+    <Description>The redesign of the Bob Shapell Student Activities Hall, home to SCU&#x2019;s Multicultural Center, aims to provide a more functional space for its users. The design will require demolishing existing columns and implementing a lighter roof system, in addition to providing a preliminary cost estimate, construction schedule, and site-logistics plan.</Description>
+    <Session>CENG 2</Session>
+    <Time>4:05-4:30</Time>
+    <Location>Bannan Engineering 325</Location>
+    <Category>Civil Engineering</Category>
+    <EngineeringSeniors>2</EngineeringSeniors>
+    <EstimatedBudget>$400 </EstimatedBudget>
+    <First1>Isaac</First1>
+    <Last1>Raven</Last1>
+    <Phone1>(559)999-5872</Phone1>
+    <Email1>iraven@scu.edu</Email1>
+    <Major1>Civil Engineering</Major1>
+    <First2>Angela</First2>
+    <Last2>Non</Last2>
+    <Major2>Civil Engineering</Major2>
+    <Phone2>(408)518-2479</Phone2>
+    <Email2>anon@scu.edu</Email2>
+    <First3/>
+    <Last3/>
+    <Phone3/>
+    <Email3/>
+    <Major3/>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel>2011 MacBook Pro</MacModel>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Tracy Abbott</Faculty1>
+    <FacultyDept1>Civil Engineering</FacultyDept1>
+    <Faculty2>Hisham Said</Faculty2>
+    <FacultyDept2>Civil Engineering</FacultyDept2>
+    <DateSubmitted>2/3/15 20:03</DateSubmitted>
+  </team>
+  <team>
+    <Title>Homeless Garden Project</Title>
+    <Description>This project includes the design of a gravity-fed water delivery and distribution system for a 12-acre farm.  The farm will be used by the Homeless Garden Project, a nonprofit organization geared towards helping the homeless in Santa Cruz, CA.</Description>
+    <Session>CENG 3</Session>
+    <Time>2:15-2:45</Time>
+    <Location>Bannan Engineering 106</Location>
+    <Category>Civil Engineering</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>0</EstimatedBudget>
+    <First1>Caroline</First1>
+    <Last1>Ruwe</Last1>
+    <Phone1>(206)852-9469</Phone1>
+    <Email1>cruwe@scu.edu</Email1>
+    <Major1>Civil Engineering</Major1>
+    <First2>Tara</First2>
+    <Last2>Pozzi</Last2>
+    <Major2>Civil Engineering</Major2>
+    <Phone2>(831)682-2580</Phone2>
+    <Email2>tpozzi@scu.edu</Email2>
+    <First3>John</First3>
+    <Last3>Miller</Last3>
+    <Phone3>(918)521-3608</Phone3>
+    <Email3>j4miller@scu.edu</Email3>
+    <Major3>Civil Engineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>Other</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop/>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds>Table</ShowcasingNeeds>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Steven Chiesa</Faculty1>
+    <FacultyDept1>Civil Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>1/28/15 18:00</DateSubmitted>
+  </team>
+  <team>
+    <Title>Low-Environmental Impact Neighborhood District in Gilroy, California</Title>
+    <Description>Our project involves the planning and design of a low-environmental impact neighborhood in Gilroy that includes a mix of single-family and multi-family homes with an integrated commercial component. The design process consisted of establishing street and lot layouts and designing utility systems with local connections. The final product addresses the need for sustainable, family-friendly communities.</Description>
+    <Session>CENG 3</Session>
+    <Time>2:50-3:15</Time>
+    <Location>Bannan Engineering 106</Location>
+    <Category>Civil Engineering</Category>
+    <EngineeringSeniors>2</EngineeringSeniors>
+    <EstimatedBudget>0</EstimatedBudget>
+    <First1>Ellen</First1>
+    <Last1>McKay</Last1>
+    <Phone1>(661)378-3992</Phone1>
+    <Email1>ekmckay@scu.edu</Email1>
+    <Major1>Civil Engineering</Major1>
+    <First2>Kaelynn</First2>
+    <Last2>Willey</Last2>
+    <Major2>Civil Engineering</Major2>
+    <Phone2>(408)813-7833</Phone2>
+    <Email2>kwilley@scu.edu</Email2>
+    <First3/>
+    <Last3/>
+    <Phone3/>
+    <Email3/>
+    <Major3/>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>(1) more slide advancer</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop/>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Rachel He</Faculty1>
+    <FacultyDept1>Civil Engineering</FacultyDept1>
+    <Faculty2>Steven Chiesa</Faculty2>
+    <FacultyDept2>Civil Engineering</FacultyDept2>
+    <DateSubmitted>2/1/15 13:31</DateSubmitted>
+  </team>
+  <team>
+    <Title>Hearst Avenue Complete Street Design</Title>
+    <Description>This project implements comparative street designs that incorporate sustainable features such as bike and pedestrian accessibility, efficient traffic signal sequences, and effective stormwater management attributes along Hearst Avenue in Berkeley, CA.</Description>
+    <Session>CENG 3</Session>
+    <Time>3:25-3:50</Time>
+    <Location>Bannan Engineering 106</Location>
+    <Category>Civil Engineering</Category>
+    <EngineeringSeniors>2</EngineeringSeniors>
+    <EstimatedBudget>N/A</EstimatedBudget>
+    <First1>Robert</First1>
+    <Last1>Powell</Last1>
+    <Phone1>(617)378-2304</Phone1>
+    <Email1>rpowell@scu.edu</Email1>
+    <Major1>Civil Engineering</Major1>
+    <First2>Nabilah</First2>
+    <Last2>Deen</Last2>
+    <Major2>Civil Engineering</Major2>
+    <Phone2>(408)396-8462</Phone2>
+    <Email2>ndeen@scu.edu</Email2>
+    <First3/>
+    <Last3/>
+    <Phone3/>
+    <Email3/>
+    <Major3/>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>Easel</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop>PC</BringingOwnLaptop>
+    <MacModel/>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds>Table</ShowcasingNeeds>
+    <ShowcasingSpaceRequired>4 ft. x 5 ft.</ShowcasingSpaceRequired>
+    <Faculty1>Rachel He</Faculty1>
+    <FacultyDept1>Civil Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>1/27/15 13:02</DateSubmitted>
+  </team>
+  <team>
+    <Title>Hayward Shoreline Levee Design</Title>
+    <Description>The project encompasses the design of a section of levee in Hayward. A new levee is needed to protect the shore from flooding due to rising sea levels and future storm events.</Description>
+    <Session>CENG 4</Session>
+    <Time>2:15-2:45</Time>
+    <Location>Bannan Engineering 107</Location>
+    <Category>Civil Engineering</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>0</EstimatedBudget>
+    <First1>Samuel</First1>
+    <Last1>Beering</Last1>
+    <Phone1>(925)872-6574</Phone1>
+    <Email1>sbeering@scu.edu</Email1>
+    <Major1>Civil Engineering</Major1>
+    <First2>Karissa</First2>
+    <Last2>Canonizado</Last2>
+    <Major2>Civil Engineering</Major2>
+    <Phone2>(510)303-7058</Phone2>
+    <Email2>kcanonizado@scu.edu</Email2>
+    <First3>Caleb</First3>
+    <Last3>Young</Last3>
+    <Phone3>(209)603-3711</Phone3>
+    <Email3>cjyoung@scu.edu</Email3>
+    <Major3>Civil Engineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop>PC</BringingOwnLaptop>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Sukhmander Singh</Faculty1>
+    <FacultyDept1>Civil Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>1/13/15 16:16</DateSubmitted>
+  </team>
+  <team>
+    <Title>Geomorphic Restoration and Stabilization of a Reach of Stevens Creek</Title>
+    <Description>This project focuses on the restoration of a 400-foot reach of Stevens Creek in Santa Clara County, CA. The new design will increase the stability of stream channels, riparian system functions, and fish passage while improving or maintaining the 'Level of Service' based on geomorphic data.</Description>
+    <Session>CENG 4</Session>
+    <Time>2:50-3:20</Time>
+    <Location>Bannan Engineering 107</Location>
+    <Category>Civil Engineering</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>0</EstimatedBudget>
+    <First1>Gretchen</First1>
+    <Last1>Kayser</Last1>
+    <Phone1>(425)802-9796</Phone1>
+    <Email1>gkayser@scu.edu</Email1>
+    <Major1>Civil Engineering</Major1>
+    <First2>Travis</First2>
+    <Last2>Giffen</Last2>
+    <Major2>Civil Engineering</Major2>
+    <Phone2>(858)699-7593</Phone2>
+    <Email2>tgiffen@scu.edu</Email2>
+    <First3>Nick</First3>
+    <Last3>Roby</Last3>
+    <Phone3>(925)200-7384</Phone3>
+    <Email3>nroby@scu.edu</Email3>
+    <Major3>Civil Engineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
+    <BringingOwnLaptop>PC</BringingOwnLaptop>
+    <MacModel/>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds>Table,Power,PC Laptop</ShowcasingNeeds>
+    <ShowcasingSpaceRequired>Not sure if we will not to showcase our project (little space: just a table)</ShowcasingSpaceRequired>
+    <Faculty1>Edwin Maurer</Faculty1>
+    <FacultyDept1>Civil Engineering</FacultyDept1>
+    <Faculty2>Laura Doyle</Faculty2>
+    <FacultyDept2>Civil Engineering</FacultyDept2>
+    <DateSubmitted>1/10/15 21:10</DateSubmitted>
+  </team>
+  <team>
+    <Title>Santa Clara University Creek Restoration</Title>
+    <Description>This project investigates a possible design for the restoration of a creek once located near the premises of Santa Clara University.</Description>
+    <Session>CENG 4</Session>
+    <Time>3:25-3:50</Time>
+    <Location>Bannan Engineering 107</Location>
+    <Category>Civil Engineering</Category>
+    <EngineeringSeniors>1</EngineeringSeniors>
+    <EstimatedBudget>0</EstimatedBudget>
+    <First1>Scott</First1>
+    <Last1>Cameron</Last1>
+    <Phone1>(408)722-7838</Phone1>
+    <Email1>Stcameron@scu.edu</Email1>
+    <Major1>Civil Engineering</Major1>
+    <First2/>
+    <Last2/>
+    <Major2/>
+    <Phone2/>
+    <Email2/>
+    <First3/>
+    <Last3/>
+    <Phone3/>
+    <Email3/>
+    <Major3/>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
+    <BringingOwnLaptop>PC</BringingOwnLaptop>
+    <MacModel>2013 Acer Aspire A15</MacModel>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Edwin Maurer</Faculty1>
+    <FacultyDept1>Civil Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/5/15 15:28</DateSubmitted>
+  </team>
+  <team>
+    <Title>iKure Health Worker Tracker</Title>
+    <Description>iKure, a social benefits entrepreneurship, strives to provide affordable health care to people living in rural communities.  We are creating a mobile application that not only tracks the workers' locations through their android tablets, but also allows the administrator to access this information in real time.</Description>
+    <Session>COEN 1</Session>
+    <Time>2:15-2:45</Time>
+    <Location> Sullivan Engineering 604</Location>
+    <Category>Computer Engineering</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>$500 </EstimatedBudget>
+    <First1>Mason</First1>
+    <Last1>Maeshiro</Last1>
+    <Phone1>(808)721-5359</Phone1>
+    <Email1>mmaeshiro@scu.edu</Email1>
+    <Major1>Computer Science and Engineering</Major1>
+    <First2>Daniel</First2>
+    <Last2>Mendoza</Last2>
+    <Major2>Web Design and Engineering</Major2>
+    <Phone2>(408)813-3863</Phone2>
+    <Email2>dmendoza@scu.edu</Email2>
+    <First3>Astha</First3>
+    <Last3>Singh</Last3>
+    <Phone3>(408)621-8465</Phone3>
+    <Email3>asingh5@scu.edu</Email3>
+    <Major3>Computer Science and Engineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>2nd LCD Projector</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel>MacBook Pro Retina 2013</MacModel>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Silvia Figueira</Faculty1>
+    <FacultyDept1>Computer Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/4/15 22:50</DateSubmitted>
+  </team>
+  <team>
+    <Title>Volunteer Connect for IkamvaYouth</Title>
+    <Description>This project is a mobile web based application for IkamvaYouth, a non-profit organization that works with learners in South Africa. A location-based web application that provides a more convenient sign-up process and suggests the optimal matches of volunteers and students based on their registered location expedite the initial work of the organization.
+</Description>
+    <Session>COEN 1</Session>
+    <Time>2:50-3:20</Time>
+    <Location> Sullivan Engineering 604</Location>
+    <Category>Computer Engineering</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>$0 </EstimatedBudget>
+    <First1>Ann</First1>
+    <Last1>Parden</Last1>
+    <Phone1>(650)861-1399</Phone1>
+    <Email1>aparden@scu.edu</Email1>
+    <Major1>Web Design and Engineering</Major1>
+    <First2>Weihan</First2>
+    <Last2>Li</Last2>
+    <Major2>Web Design and Engineering</Major2>
+    <Phone2>(414)736-7138</Phone2>
+    <Email2>wli1@scu.edu</Email2>
+    <First3>Joo Hoon</First3>
+    <Last3>Sa</Last3>
+    <Phone3>(408)650-2067</Phone3>
+    <Email3>jsa@scu.edu</Email3>
+    <Major3>Computer Science and Engineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>2 clickers</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Silvia Figueira</Faculty1>
+    <FacultyDept1>Computer Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>1/19/15 23:27</DateSubmitted>
+  </team>
+  <team>
+    <Title>Beacon Pack</Title>
+    <Description>The British Airways-sponsored Beacon Pack is a solar powered, data repository that stores educational and world news content acessible through SMS text. This product will provide millions of individuals in developing countries, who have low-level cellular devices, with informational content.</Description>
+    <Session>COEN 1</Session>
+    <Time>3:25-3:55</Time>
+    <Location> Sullivan Engineering 604</Location>
+    <Category>Computer Engineering</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>$5,000 </EstimatedBudget>
+    <First1>James</First1>
+    <Last1>Mack</Last1>
+    <Phone1>(631)721-7435</Phone1>
+    <Email1>jmack@scu.edu</Email1>
+    <Major1>Computer Science and Engineering</Major1>
+    <First2>James</First2>
+    <Last2>Terry</Last2>
+    <Major2>Web Design and Engineering</Major2>
+    <Phone2>(817)729-5994</Phone2>
+    <Email2>jnterry@scu.edu</Email2>
+    <First3>Aidan</First3>
+    <Last3>Barbari</Last3>
+    <Phone3>(650)740-1804</Phone3>
+    <Email3>abarbari@scu.edu</Email3>
+    <Major3>Computer Science and Engineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel>2013 Macbook Air</MacModel>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Silvia Figuiera</Faculty1>
+    <FacultyDept1>Computer Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/4/15 17:53</DateSubmitted>
+  </team>
+  <team>
+    <Title>Wakabi: On-Demand Ride Service for Rural Uganda</Title>
+    <Description>Wakabi is an SMS-based application designed to streamline the ride-sharing process currently existing in rural Uganda. The system allows individuals to connect with hired motorcyclists (Boda drivers) by texting a single number. Wakabi will deliver more business to Boda drivers and provide Uganda with a unified, simple, on-demand transportation solution.</Description>
+    <Session>COEN 1</Session>
+    <Time>4:05-4:30</Time>
+    <Location> Sullivan Engineering 604</Location>
+    <Category>Computer Engineering</Category>
+    <EngineeringSeniors>2</EngineeringSeniors>
+    <EstimatedBudget>0</EstimatedBudget>
+    <First1>Michael</First1>
+    <Last1>Brew</Last1>
+    <Phone1>(267)882-5508</Phone1>
+    <Email1>mbrew@scu.edu</Email1>
+    <Major1>Computer Science and Engineering</Major1>
+    <First2>Bryant</First2>
+    <Last2>Larsen</Last2>
+    <Major2>Computer Science and Engineering</Major2>
+    <Phone2>(808)398-5332</Phone2>
+    <Email2>blarsen@scu.edu</Email2>
+    <First3/>
+    <Last3/>
+    <Phone3/>
+    <Email3/>
+    <Major3/>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel>MacBook Air Late 2010</MacModel>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Silvia Figueira</Faculty1>
+    <FacultyDept1>Computer Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/1/15 15:16</DateSubmitted>
+  </team>
+  <team>
+    <Title>Sankara Eye Records: Eye-Health Tracker for Children in India</Title>
+    <Description>Sankara Eye Records is a mobile application created for Sankara Eye, an Indian social enterprise that provides eye care services in India. Our mobile application will make the process of creating and editing schoolchildren's eye health records quick and efficient for Sankara Eye screeners.</Description>
+    <Session>COEN 1</Session>
+    <Time>4:40-5:05</Time>
+    <Location> Sullivan Engineering 604</Location>
+    <Category>Computer Engineering</Category>
+    <EngineeringSeniors>2</EngineeringSeniors>
+    <EstimatedBudget>$0.00 </EstimatedBudget>
+    <First1>Francis Joseph</First1>
+    <Last1>Cuenca</Last1>
+    <Phone1>(650)892-2554</Phone1>
+    <Email1>fcuenca@scu.edu</Email1>
+    <Major1>Computer Science and Engineering</Major1>
+    <First2>Amy</First2>
+    <Last2>Truong</Last2>
+    <Major2>Computer Science and Engineering</Major2>
+    <Phone2>(408)728-2767</Phone2>
+    <Email2>antruong@scu.edu</Email2>
+    <First3/>
+    <Last3/>
+    <Phone3/>
+    <Email3/>
+    <Major3/>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
+    <BringingOwnLaptop>PC</BringingOwnLaptop>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Silvia Figueira</Faculty1>
+    <FacultyDept1>Computer and Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>1/12/15 18:05</DateSubmitted>
+  </team>
+  <team>
+    <Title>DyLMA</Title>
+    <Description>DyLMA is a Dynamic Life Management Assistant developed for the Google Glass platform that integrates a user?s schedules and tasks to increase user efficiency. This is accomplished by managing events and activities to maximize productivity while, at the same time providing personalized suggestions in order to promote a balanced lifestyle.</Description>
+    <Session>COEN 2</Session>
+    <Time>2:15-2:45</Time>
+    <Location> Sullivan Engineering 602</Location>
+    <Category>Computer Engineering</Category>
+    <EngineeringSeniors>5</EngineeringSeniors>
+    <EstimatedBudget>0</EstimatedBudget>
+    <First1>Ruben</First1>
+    <Last1>Luva</Last1>
+    <Phone1>(650)483-2298</Phone1>
+    <Email1>rluva@scu.edu</Email1>
+    <Major1>Computer Science and Engineering</Major1>
+    <First2>Alejandro</First2>
+    <Last2>Rodriguez</Last2>
+    <Major2>Bioengineering, Computer Science and Engineering</Major2>
+    <Phone2>(408)914-5542</Phone2>
+    <Email2>a3rodriguez@scu.edu</Email2>
+    <First3>Arturo</First3>
+    <Last3>Aguilar</Last3>
+    <Phone3>(408)916-7061</Phone3>
+    <Email3>aaguilar@scu.edu</Email3>
+    <Major3>Computer Science and Engineering</Major3>
+    <First4>Sunny</First4>
+    <Last4>Patel</Last4>
+    <Phone4>(408)833-5626</Phone4>
+    <Email4>sspatel@scu.edu</Email4>
+    <Major4>Computer Science and Engineering</Major4>
+    <First5>David</First5>
+    <Last5>Mora</Last5>
+    <Phone5>(408)963-1200</Phone5>
+    <Email5>dmorabarajas@scu.edu</Email5>
+    <Major5>Computer Science and Engineering</Major5>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>slide advancer, iPhone lightning to hdmi, male to female hdmi adapter</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel>2011 MacBook Pro</MacModel>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds>Table,Power</ShowcasingNeeds>
+    <ShowcasingSpaceRequired>6ftx6ft</ShowcasingSpaceRequired>
+    <Faculty1>Maria Pantoja</Faculty1>
+    <FacultyDept1>Computer Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/3/15 19:23</DateSubmitted>
+  </team>
+  <team>
+    <Title>GPU-Accelerated Lip-Tracking Library</Title>
+    <Description>This library will take in images of people's faces and output points that represent the contour of the lips in each image. Additionally, it will make use of a CUDA-enabled GPU if there is one available. This would be used for a language-learning application.</Description>
+    <Session>COEN 2</Session>
+    <Time>2:50-3:15</Time>
+    <Location> Sullivan Engineering 602</Location>
+    <Category>Computer Engineering</Category>
+    <EngineeringSeniors>2</EngineeringSeniors>
+    <EstimatedBudget>$0 </EstimatedBudget>
+    <First1>Alex</First1>
+    <Last1>DeBoni</Last1>
+    <Phone1>(510)386-7270</Phone1>
+    <Email1>adeboni@scu.edu</Email1>
+    <Major1>Computer Science and Engineering</Major1>
+    <First2>Jesse</First2>
+    <Last2>Harder</Last2>
+    <Major2>Computer Science and Engineering</Major2>
+    <Phone2>(510)928-0055</Phone2>
+    <Email2>jhharder@scu.edu</Email2>
+    <First3/>
+    <Last3/>
+    <Phone3/>
+    <Email3/>
+    <Major3/>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel>2011 MacBook Pro</MacModel>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds>Table,Power</ShowcasingNeeds>
+    <ShowcasingSpaceRequired>2 ft x 5 ft</ShowcasingSpaceRequired>
+    <Faculty1>Maria Pantoja</Faculty1>
+    <FacultyDept1>Computer Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>1/15/15 17:27</DateSubmitted>
+  </team>
+  <team>
+    <Title>Using Virtual Reality for Anxiety Therapy</Title>
+    <Description>For our project we are developing a system that employs virtual reality as a tool for therapists to treat various anxiety disorders such as phobias using exposure therapy. We will be developing a small library of simulations corresponding to the most prevalent phobias in our society.</Description>
+    <Session>COEN 2</Session>
+    <Time>3:25-3:50</Time>
+    <Location> Sullivan Engineering 602</Location>
+    <Category>Computer Engineering</Category>
+    <EngineeringSeniors>2</EngineeringSeniors>
+    <EstimatedBudget>$926 </EstimatedBudget>
+    <First1>Bryce</First1>
+    <Last1>Mariano</Last1>
+    <Phone1>(480)421-8355</Phone1>
+    <Email1>bmariano15@gmail.com</Email1>
+    <Major1>Web Design and Engineering</Major1>
+    <First2>Paul</First2>
+    <Last2>Thurston</Last2>
+    <Major2>Computer Science and Engineering</Major2>
+    <Phone2>(925)895-2430</Phone2>
+    <Email2>paul.thurston22@gmail.com</Email2>
+    <First3/>
+    <Last3/>
+    <Phone3/>
+    <Email3/>
+    <Major3/>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
+    <BringingOwnLaptop>PC</BringingOwnLaptop>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Maria Pantoja</Faculty1>
+    <FacultyDept1>Computer Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/3/15 17:53</DateSubmitted>
+  </team>
+  <team>
+    <Title>Explorable 3D Model fo SCU Campus</Title>
+    <Description>This project produces a full 3D model of SCU campus made explorable by the UDK and made 3D by the Oculus Rift.</Description>
+    <Session>COEN 2</Session>
+    <Time>4:05-4:30</Time>
+    <Location> Sullivan Engineering 602</Location>
+    <Category>Computer Engineering</Category>
+    <EngineeringSeniors>1</EngineeringSeniors>
+    <EstimatedBudget>$500 </EstimatedBudget>
+    <First1>Benjamin</First1>
+    <Last1>Giglione</Last1>
+    <Phone1>(818)614-6243</Phone1>
+    <Email1>bgiglione@scu.edu</Email1>
+    <Major1>Computer Science and Engineering</Major1>
+    <First2/>
+    <Last2/>
+    <Major2/>
+    <Phone2/>
+    <Email2/>
+    <First3/>
+    <Last3/>
+    <Phone3/>
+    <Email3/>
+    <Major3/>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Mac</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>Yes</SoftwareRequired>
+    <BringingOwnLaptop>PC</BringingOwnLaptop>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds>MAC Laptop</ShowcasingNeeds>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Maria Pantoja</Faculty1>
+    <FacultyDept1>Computer Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/4/15 18:54</DateSubmitted>
+  </team>
+  <team>
+    <Title>GroupRight</Title>
+    <Description>GroupRight is a comprehensive group decision-making platform for simplifying the organization of event scheduling, task management and mass communication. Consisting of both a website and mobile application, GroupRight provides convenient tools to groups of all sizes in order to improve productivity.</Description>
+    <Session>COEN 3</Session>
+    <Time>2:15-2:45</Time>
+    <Location>Sullivan Engineering 618</Location>
+    <Category>Computer Engineering</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>$400 </EstimatedBudget>
+    <First1>Zachary</First1>
+    <Last1>Wilson</Last1>
+    <Phone1>(805)354-3715</Phone1>
+    <Email1>zwilson@scu.edu</Email1>
+    <Major1>Computer Science and Engineering</Major1>
+    <First2>Scott</First2>
+    <Last2>Sarsfield</Last2>
+    <Major2>Computer Science and Engineering</Major2>
+    <Phone2>(408)306-2410</Phone2>
+    <Email2>ssarsfield@scu.edu</Email2>
+    <First3>Kenneth</First3>
+    <Last3>Bigler</Last3>
+    <Phone3>(650)862-2402</Phone3>
+    <Email3>kbigler@scu.edu</Email3>
+    <Major3>Computer Science and Engineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>2nd LCD Projector</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel>2013 MacBook Pro</MacModel>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds>Table,Power</ShowcasingNeeds>
+    <ShowcasingSpaceRequired>4x6</ShowcasingSpaceRequired>
+    <Faculty1>Katerina Potika</Faculty1>
+    <FacultyDept1>Computer Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/4/15 0:24</DateSubmitted>
+  </team>
+  <team>
+    <Title>Serendipity</Title>
+    <Description>Serendipity is a web based musical search and recommendation system which classifies and recommends music by processing extracted traits from songs. Unlike other such systems which use human based music classification, we have automated the recommendation process and created algorithms to do the work so our users discover new music. </Description>
+    <Session>COEN 3</Session>
+    <Time>2:50-3:15</Time>
+    <Location>Sullivan Engineering 618</Location>
+    <Category>Computer Engineering</Category>
+    <EngineeringSeniors>2</EngineeringSeniors>
+    <EstimatedBudget>0</EstimatedBudget>
+    <First1>Stanislaus</First1>
+    <Last1>Whitcomb</Last1>
+    <Phone1>(303)565-0487</Phone1>
+    <Email1>swhitcomb@scu.edu</Email1>
+    <Major1>Computer Science and Engineering</Major1>
+    <First2>Erik</First2>
+    <Last2>Chang</Last2>
+    <Major2>Computer Science and Engineering</Major2>
+    <Phone2>(206)330-5975</Phone2>
+    <Email2>ewchang@scu.edu</Email2>
+    <First3/>
+    <Last3/>
+    <Phone3/>
+    <Email3/>
+    <Major3/>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel>2015</MacModel>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Yi Fang</Faculty1>
+    <FacultyDept1>Computer Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/2/15 16:43</DateSubmitted>
+  </team>
+  <team>
+    <Title>OmniSplit</Title>
+    <Description>OmniSplit is a small to medium business solution that seeks to address the problem of poor restaurant dining experiences and to optimize restaurant feedback. OmniSplit combines customer payments, micro-transactions, food ratings, online ordering, and restaurant analytics all in one system.</Description>
+    <Session>COEN 3</Session>
+    <Time>3:25-3:55</Time>
+    <Location>Sullivan Engineering 618</Location>
+    <Category>Computer Engineering</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>1072.79</EstimatedBudget>
+    <First1>Ashley</First1>
+    <Last1>Sehatti</Last1>
+    <Phone1>(408)221-6753</Phone1>
+    <Email1>asehatti@scu.edu</Email1>
+    <Major1>Computer Science and Engineering</Major1>
+    <First2>Jordan</First2>
+    <Last2>Buschman</Last2>
+    <Major2>Computer Science and Engineering</Major2>
+    <Phone2>(650)759-7097</Phone2>
+    <Email2>jbuschman@scu.edu</Email2>
+    <First3>Andres</First3>
+    <Last3>de Artola</Last3>
+    <Phone3>(818)261-0631</Phone3>
+    <Email3>adeartola@scu.edu</Email3>
+    <Major3>Web Design and Engineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>2nd LCD Projector, Lightning to HDMI</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Mac</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel>Mini display port to HDMI/VGA</MacModel>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Yi Fang</Faculty1>
+    <FacultyDept1>Computer Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>1/27/15 10:08</DateSubmitted>
+  </team>
+  <team>
+    <Title>FoodReader</Title>
+    <Description>Our project is a software tool that uses computer vision techniques including image processing and optical character recognition to extract relevant nutritional information from digital images of USDA food labels.</Description>
+    <Session>COEN 3</Session>
+    <Time>4:05-4:30</Time>
+    <Location>Sullivan Engineering 618</Location>
+    <Category>Computer Engineering</Category>
+    <EngineeringSeniors>2</EngineeringSeniors>
+    <EstimatedBudget>0</EstimatedBudget>
+    <First1>Nate</First1>
+    <Last1>Matsunaga</Last1>
+    <Phone1>(503)708-2179</Phone1>
+    <Email1>nmatsunaga@scu.edu</Email1>
+    <Major1>Computer Science and Engineering</Major1>
+    <First2>Rick</First2>
+    <Last2>Sullivan</Last2>
+    <Major2>Computer Science and Engineering</Major2>
+    <Phone2>(503)867-6118</Phone2>
+    <Email2>rsullivan@scu.edu</Email2>
+    <First3/>
+    <Last3/>
+    <Phone3/>
+    <Email3/>
+    <Major3/>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
+    <BringingOwnLaptop>PC</BringingOwnLaptop>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Yi Fang</Faculty1>
+    <FacultyDept1>Computer Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/2/15 13:46</DateSubmitted>
+  </team>
+  <team>
+    <Title>Energy Management Tool Suite</Title>
+    <Description>The Energy Managament Tool Suite is a web-based software suite designed to steamline computation of many of the algorithms taught in ELEN 288/COEN 282, which at the moment must be calculated by hand.</Description>
+    <Session>COEN 3</Session>
+    <Time>4:40-5:05</Time>
+    <Location>Sullivan Engineering 618</Location>
+    <Category>Computer Engineering</Category>
+    <EngineeringSeniors>1</EngineeringSeniors>
+    <EstimatedBudget>0</EstimatedBudget>
+    <First1>Julian</First1>
+    <Last1>Bliss</Last1>
+    <Phone1>(650)949-3593</Phone1>
+    <Email1>jbliss@scu.edu</Email1>
+    <Major1>Computer Science and Engineering</Major1>
+    <First2/>
+    <Last2/>
+    <Major2/>
+    <Phone2/>
+    <Email2/>
+    <First3/>
+    <Last3/>
+    <Phone3/>
+    <Email3/>
+    <Major3/>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop/>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Rani Mikkilineni</Faculty1>
+    <FacultyDept1>Computer Science and Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/4/15 20:04</DateSubmitted>
+  </team>
+  <team>
+    <Title>Code Girl</Title>
+    <Description>A web-based application that allows girls ages 5-8 to create and customize their own doll or avatar and unlock new accessories by successfully completing challenges using Blockly, a visual coding editor.</Description>
+    <Session>COEN 4</Session>
+    <Time>2:15-2:45</Time>
+    <Location> Sullivan Engineering 605</Location>
+    <Category>Computer Engineering</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>$0 </EstimatedBudget>
+    <First1>Paige</First1>
+    <Last1>Rogalski</Last1>
+    <Phone1>(630)621-7710</Phone1>
+    <Email1>progalski@scu.edu</Email1>
+    <Major1>Computer Science and Engineering</Major1>
+    <First2>Amanda</First2>
+    <Last2>Holl</Last2>
+    <Major2>Web Design and Engineering</Major2>
+    <Phone2>(650)465-0421</Phone2>
+    <Email2>aholl@scu.edu</Email2>
+    <First3>Tracey</First3>
+    <Last3>Acosta</Last3>
+    <Phone3>(510)776-3734</Phone3>
+    <Email3>tacosta@scu.edu</Email3>
+    <Major3>Computer Science and Engineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel>2013 Mac book pro 15in</MacModel>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds>Table,Power,MAC Laptop</ShowcasingNeeds>
+    <ShowcasingSpaceRequired>4ft x 3ft</ShowcasingSpaceRequired>
+    <Faculty1>Darren Atkinson</Faculty1>
+    <FacultyDept1>Computer Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>1/9/15 15:41</DateSubmitted>
+  </team>
+  <team>
+    <Title>Bookster</Title>
+    <Description>Bookster is a mobile application, built for both iOS and Android, that acts as a local selling platform for college textbooks. The hybrid application is powered by the Adobe Phonegap. Users can post books to sell and view books for sale based on their geolocation.</Description>
+    <Session>COEN 4</Session>
+    <Time>2:50-3:15</Time>
+    <Location> Sullivan Engineering 605</Location>
+    <Category>Computer Engineering</Category>
+    <EngineeringSeniors>2</EngineeringSeniors>
+    <EstimatedBudget>0</EstimatedBudget>
+    <First1>Taylor</First1>
+    <Last1>Roden</Last1>
+    <Phone1>(408)799-0273</Phone1>
+    <Email1>troden@scu.edu</Email1>
+    <Major1>Computer Science and Engineering</Major1>
+    <First2>Kyle</First2>
+    <Last2>Alwyn</Last2>
+    <Major2>Web Design and Engineering</Major2>
+    <Phone2>(408)691-6542</Phone2>
+    <Email2>kalwyn@scu.edu</Email2>
+    <First3/>
+    <Last3/>
+    <Phone3/>
+    <Email3/>
+    <Major3/>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel>2014/Retina Macbook Pro 15'</MacModel>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds>Table,Power,Monitor/Screen</ShowcasingNeeds>
+    <ShowcasingSpaceRequired>4 ft x 3 ft</ShowcasingSpaceRequired>
+    <Faculty1>Dan Lewis</Faculty1>
+    <FacultyDept1>Computer Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/4/15 18:12</DateSubmitted>
+  </team>
+  <team>
+    <Title>Low-Cost ECG for Rural Populations of Developing Countries</Title>
+    <Description>Our device allows doctors to remotely screen patients for cardiovascular arrhythmias by sending them ECG data via text message.  Additionally, our device was built with mostly open sourced electronic components and our software will be made open source to encourage future development efforts.</Description>
+    <Session>COEN 4</Session>
+    <Time>3:25-3:50</Time>
+    <Location> Sullivan Engineering 605</Location>
+    <Category>Computer Engineering</Category>
+    <EngineeringSeniors>2</EngineeringSeniors>
+    <EstimatedBudget>$700 </EstimatedBudget>
+    <First1>J.P.</First1>
+    <Last1>Ertola</Last1>
+    <Phone1>(650)465-0205</Phone1>
+    <Email1>jertola@scu.edu</Email1>
+    <Major1>Computer Science and Engineering</Major1>
+    <First2>Michael</First2>
+    <Last2>Whalen</Last2>
+    <Major2>Computer Science and Engineering</Major2>
+    <Phone2>(619)865-1526</Phone2>
+    <Email2>mpwhalen@scu.edu</Email2>
+    <First3/>
+    <Last3/>
+    <Phone3/>
+    <Email3/>
+    <Major3/>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel>2014 Macbook Pro</MacModel>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds>Table</ShowcasingNeeds>
+    <ShowcasingSpaceRequired>5ft x 5ft</ShowcasingSpaceRequired>
+    <Faculty1>Dan Lewis</Faculty1>
+    <FacultyDept1>Computer Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/2/15 20:57</DateSubmitted>
+  </team>
+  <team>
+    <Title>WeJ Collaborative Playlists</Title>
+    <Description>WeJ (we-jay) is a mobile web application that provides users with the ability to collaboratively create music playlists and listen to them with each other in real time. Our goal is to bring people together through the power of music.</Description>
+    <Session>COEN 4</Session>
+    <Time>4:05-4:35</Time>
+    <Location> Sullivan Engineering 605</Location>
+    <Category>Computer Engineering</Category>
+    <EngineeringSeniors>4</EngineeringSeniors>
+    <EstimatedBudget>$150 </EstimatedBudget>
+    <First1>Nicholas</First1>
+    <Last1>Fong</Last1>
+    <Phone1>(925)818-3967</Phone1>
+    <Email1>nfong@scu.edu</Email1>
+    <Major1>Computer Science and Engineering</Major1>
+    <First2>Jason</First2>
+    <Last2>Dougherty</Last2>
+    <Major2>Computer Science and Engineering</Major2>
+    <Phone2>(707)685-5637</Phone2>
+    <Email2>jsdougherty@scu.edu</Email2>
+    <First3>Alek</First3>
+    <Last3>Hurst</Last3>
+    <Phone3>(707)228-5326</Phone3>
+    <Email3>ahurst@scu.edu</Email3>
+    <Major3>Computer Science and Engineering</Major3>
+    <First4>Malia</First4>
+    <Last4>Lum</Last4>
+    <Phone4>(425)802-9905</Phone4>
+    <Email4>mklum@scu.edu</Email4>
+    <Major4>Web Design and Engineering</Major4>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>Lightning Digital AV Adapter</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel>2013 Retina MacBook Pro 15?</MacModel>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds>Table,Power,Speakers, Easel, Projector</ShowcasingNeeds>
+    <ShowcasingSpaceRequired>6 ft. x 3 ft.</ShowcasingSpaceRequired>
+    <Faculty1>Ahmed Amer</Faculty1>
+    <FacultyDept1>Computer Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/3/15 14:31</DateSubmitted>
+  </team>
+  <team>
+    <Title>Smart Thermostat</Title>
+    <Description>Our goal is to create a thermostat which mimics user behavior and intelligently manages the temperature. Through this control we can maintain a more comfortable and energy efficient environment.</Description>
+    <Session>ELEN 1</Session>
+    <Time>2:15-2:45</Time>
+    <Location>Learning Commons, Training and Instruction 205</Location>
+    <Category>Electrical Engineering</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>$500 </EstimatedBudget>
+    <First1>Sam</First1>
+    <Last1>Billett</Last1>
+    <Phone1>(206)819-3975</Phone1>
+    <Email1>sbillett@scu.edu</Email1>
+    <Major1>Electrical Engineering</Major1>
+    <First2>Kevin</First2>
+    <Last2>Read</Last2>
+    <Major2>Electrical Engineering</Major2>
+    <Phone2>(206)251-8583</Phone2>
+    <Email2>kmread@scu.edu</Email2>
+    <First3>Matthew</First3>
+    <Last3>Allen</Last3>
+    <Phone3>(650)576-4421</Phone3>
+    <Email3>mallen1@scu.edu</Email3>
+    <Major3>Electrical Engineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
+    <BringingOwnLaptop>PC</BringingOwnLaptop>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Maryam Khanbaghi</Faculty1>
+    <FacultyDept1>Electrical Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/4/15 22:39</DateSubmitted>
+  </team>
+  <team>
+    <Title>Dynamic Capacitor Bank</Title>
+    <Description>Our project,a Dynamic Capacitor Bank, is a device that will allow higher efficiency in certain loads.</Description>
+    <Session>ELEN 1</Session>
+    <Time>2:50-3:15</Time>
+    <Location>Learning Commons, Training and Instruction 205</Location>
+    <Category>Electrical Engineering</Category>
+    <EngineeringSeniors>2</EngineeringSeniors>
+    <EstimatedBudget>700</EstimatedBudget>
+    <First1>Danny</First1>
+    <Last1>Mendoza</Last1>
+    <Phone1>(650)305-1202</Phone1>
+    <Email1>Jdmendoza@scu.edu</Email1>
+    <Major1>Electrical Engineering</Major1>
+    <First2>Peter</First2>
+    <Last2>Roguski</Last2>
+    <Major2>Electrical Engineering</Major2>
+    <Phone2>(732)861-6750</Phone2>
+    <Email2>Proguski@scu.edu</Email2>
+    <First3/>
+    <Last3/>
+    <Phone3/>
+    <Email3/>
+    <Major3/>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop>PC</BringingOwnLaptop>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Maryam Khanbaghi</Faculty1>
+    <FacultyDept1>Electrical Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/4/15 18:07</DateSubmitted>
+  </team>
+  <team>
+    <Title>Assistive Reminder</Title>
+    <Description>Memory loss is enhanced by symptoms of autism, which is estimated to affect 1% of the world's population.  Customizable and cost-effective, Assistive Reminder is a novel device aimed to remind users, such as individuals with autism, to complete tasks at various times of day.</Description>
+    <Session>ELEN 1</Session>
+    <Time>3:25-3:50</Time>
+    <Location>Learning Commons, Training and Instruction 205</Location>
+    <Category>Electrical Engineering</Category>
+    <EngineeringSeniors>1</EngineeringSeniors>
+    <EstimatedBudget>700</EstimatedBudget>
+    <First1>Jocelyn</First1>
+    <Last1>Tan</Last1>
+    <Phone1>(408)510-9148</Phone1>
+    <Email1>jstan@scu.edu</Email1>
+    <Major1>Electrical Engineering</Major1>
+    <First2/>
+    <Last2/>
+    <Major2/>
+    <Phone2/>
+    <Email2/>
+    <First3/>
+    <Last3/>
+    <Phone3/>
+    <Email3/>
+    <Major3/>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop/>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Radhika Grover</Faculty1>
+    <FacultyDept1>Electrical Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/4/15 21:27</DateSubmitted>
+  </team>
+  <team>
+    <Title>Electric Vibraphone</Title>
+    <Description>In this project, I will design and build a system to capture the sound of a vibraphone and use digital filtering to alter the output sound.</Description>
+    <Session>ELEN 1</Session>
+    <Time>4:05-4:25 </Time>
+    <Location>Learning Commons, Training and Instruction 205</Location>
+    <Category>Electrical Engineering</Category>
+    <EngineeringSeniors>1</EngineeringSeniors>
+    <EstimatedBudget>$3,000 </EstimatedBudget>
+    <First1>Benjamin</First1>
+    <Last1>Thong</Last1>
+    <Phone1>(609)651-7160</Phone1>
+    <Email1>bthong@scu.edu</Email1>
+    <Major1>Electrical Engineering</Major1>
+    <First2/>
+    <Last2/>
+    <Major2/>
+    <Phone2/>
+    <Email2/>
+    <First3/>
+    <Last3/>
+    <Phone3/>
+    <Email3/>
+    <Major3/>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
+    <BringingOwnLaptop>PC</BringingOwnLaptop>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Katie Wilson</Faculty1>
+    <FacultyDept1>Electrical Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/17/15 12:01</DateSubmitted>
+  </team>
+  <team>
+    <Title>Pilot-1 Fixed Wing Drone Controller</Title>
+    <Description>Our project is an attempt to make professional-grade fixed-wing drone control available on a consumer budget, and to create a flight controller that is adaptable to meet widely varying mission parameters.</Description>
+    <Session>INTR 1</Session>
+    <Time>2:15-2:45</Time>
+    <Location>Bannan Engineering 326</Location>
+    <Category>Interdisciplinary</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>$2,000 </EstimatedBudget>
+    <First1>Christopher</First1>
+    <Last1>Millsap</Last1>
+    <Phone1>(303)881-1888</Phone1>
+    <Email1>cmillsap@scu.edu</Email1>
+    <Major1>Computer Science and Engineering</Major1>
+    <First2>Nathan</First2>
+    <Last2>Garvey</Last2>
+    <Major2>Electrical Engineering</Major2>
+    <Phone2>(408)348-8226</Phone2>
+    <Email2>ngarvey@scu.edu</Email2>
+    <First3>Faisal</First3>
+    <Last3>Hayat</Last3>
+    <Phone3>(408)368-4024</Phone3>
+    <Email3>fhayat@scu.edu</Email3>
+    <Major3>Computer Science and Engineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel>Late 2013 MBP (has standard HDMI out)</MacModel>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds>Table,Power</ShowcasingNeeds>
+    <ShowcasingSpaceRequired>4x8</ShowcasingSpaceRequired>
+    <Faculty1>Dan Lewis</Faculty1>
+    <FacultyDept1>Computer Engineering</FacultyDept1>
+    <Faculty2>Katie Wilson</Faculty2>
+    <FacultyDept2>Electrical Engineering</FacultyDept2>
+    <DateSubmitted>2/2/15 14:44</DateSubmitted>
+  </team>
+  <team>
+    <Title>RSL Rover</Title>
+    <Description>RSL Rover is an off-road vehicle that uses an autopilot system integrated with LIDAR and sonar technology. The vehicle will be able to adapt and make decisions in order to autonomously traverse an area set by the user while avoiding obstacles along its path.</Description>
+    <Session>INTR 1</Session>
+    <Time>2:50-3:20</Time>
+    <Location>Bannan Engineering 326</Location>
+    <Category>Interdisciplinary</Category>
+    <EngineeringSeniors>4</EngineeringSeniors>
+    <EstimatedBudget>2000</EstimatedBudget>
+    <First1>Brogan</First1>
+    <Last1>O'Hara</Last1>
+    <Phone1>(650)630-1116</Phone1>
+    <Email1>bpohara@scu.edu</Email1>
+    <Major1>Electrical Engineering</Major1>
+    <First2>Cris</First2>
+    <Last2>Madrigal</Last2>
+    <Major2>Electrical Engineering</Major2>
+    <Phone2>(650)245-9299</Phone2>
+    <Email2>cdmadrigal@gmail.com</Email2>
+    <First3>Jiachi</First3>
+    <Last3>Zhang</Last3>
+    <Phone3/>
+    <Email3>zhanng5@scu.edu</Email3>
+    <Major3>Electrical Engineering</Major3>
+    <First4>Nick</First4>
+    <Last4>Peacock</Last4>
+    <Phone4/>
+    <Email4>npeacock@scu.edu</Email4>
+    <Major4>Computer Science and Engineering, Mechanical Engineering</Major4>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel>2011</MacModel>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired>10x10</ShowcasingSpaceRequired>
+    <Faculty1>Christopher Kitts</Faculty1>
+    <FacultyDept1>Mechanical Engineering</FacultyDept1>
+    <Faculty2>Samiha Mourad</Faculty2>
+    <FacultyDept2>Electrical Engineering</FacultyDept2>
+    <DateSubmitted>2/2/15 10:04</DateSubmitted>
+  </team>
+  <team>
+    <Title>UAVino</Title>
+    <Description>UAVino is a drone solution that uses aerial imagery to determine the overall plant health and water content of vineyards. The project&#x2019;s key innovation is an auto-docking system that allows the drone to automatically return to its launch point and recharge in order to extend mission duration.</Description>
+    <Session>INTR 1</Session>
+    <Time>3:25-4:00</Time>
+    <Location>Bannan Engineering 326</Location>
+    <Category>Interdisciplinary</Category>
+    <EngineeringSeniors>6</EngineeringSeniors>
+    <EstimatedBudget>$8,000 </EstimatedBudget>
+    <First1>Phillip</First1>
+    <Last1>Coyle</Last1>
+    <Phone1>(530)400-8350</Phone1>
+    <Email1>pcoyle@scu.edu</Email1>
+    <Major1>Mechanical Engineering</Major1>
+    <First2>Nathan</First2>
+    <Last2>Carlson</Last2>
+    <Major2>Mechanical Engineering</Major2>
+    <Phone2>(303)990-1730</Phone2>
+    <Email2>ncarlson@scu.edu</Email2>
+    <First3>Megan</First3>
+    <Last3>Peekema</Last3>
+    <Phone3>(503)459-8438</Phone3>
+    <Email3>mpeekema@scu.edu</Email3>
+    <Major3>Mechanical Engineering</Major3>
+    <First4>Matt</First4>
+    <Last4>Belesiu</Last4>
+    <Phone4>(503)550-7997</Phone4>
+    <Email4>mbelesiu@scu.edu</Email4>
+    <Major4>Computer Science and Engineering</Major4>
+    <First5>Kirby</First5>
+    <Last5>Linvill</Last5>
+    <Phone5>(530)601-1901</Phone5>
+    <Email5>klinvill@scu.edu</Email5>
+    <Major5>Computer Science and Engineering</Major5>
+    <First6>Aaron</First6>
+    <Last6>Chung</Last6>
+    <Phone6>(650)823-5668</Phone6>
+    <Email6>achung@scu.edu</Email6>
+    <Major6>Computer Science and Engineering, Electrical Engineering</Major6>
+    <PresentationMediaNeeds>2nd Laptop,2nd LCD Projector</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop>PC</BringingOwnLaptop>
+    <MacModel/>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds>Table,Power,PC Laptop</ShowcasingNeeds>
+    <ShowcasingSpaceRequired>5ft. x 10ft.</ShowcasingSpaceRequired>
+    <Faculty1>Christopher Kitts</Faculty1>
+    <FacultyDept1>Mechanical Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>1/12/15 9:45</DateSubmitted>
+  </team>
+  <team>
+    <Title>Mobile Music</Title>
+    <Description>Music has proven to encourage and advance physical therapy amongst young children afflicted with Cerebral Palsy. Our assistive technology, Mobile Music, combines media devices with any physical therapy walker in a way which develops gait therapy alongside progressive technological trends.</Description>
+    <Session>INTR 2</Session>
+    <Time>2:15-2:45</Time>
+    <Location>Bannan Engineering Labs, Frugal Innovation Lab</Location>
+    <Category>Interdisciplinary</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>1500</EstimatedBudget>
+    <First1>Tanner</First1>
+    <Last1>Malkoff</Last1>
+    <Phone1>(602)799-1074</Phone1>
+    <Email1>tmalkoff@scu.edu</Email1>
+    <Major1>Electrical Engineering</Major1>
+    <First2>Alex</First2>
+    <Last2>Hildebrand</Last2>
+    <Major2>Mechanical Engineering</Major2>
+    <Phone2/>
+    <Email2>ahildebrand@scu.edu</Email2>
+    <First3>Andy</First3>
+    <Last3>Giang</Last3>
+    <Phone3/>
+    <Email3>agiang@scu.edu</Email3>
+    <Major3>Mechanical Engineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop/>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Shoba Krishnan</Faculty1>
+    <FacultyDept1>Electrical Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>1/31/15 19:04</DateSubmitted>
+  </team>
+  <team>
+    <Title>Might-E Wheel</Title>
+    <Description>The Might-E Wheel converts existing bicycles into electric bicycles by an easy and approachable installation. Through a rear wheel replacement containing the motor, batteries, and control system, efficient travel by electric bicycle is made affordable and accessible.</Description>
+    <Session>INTR 2</Session>
+    <Time>2:50-3:20</Time>
+    <Location>Bannan Engineering Labs, Frugal Innovation Lab</Location>
+    <Category>Interdisciplinary</Category>
+    <EngineeringSeniors>4</EngineeringSeniors>
+    <EstimatedBudget>$2,500 </EstimatedBudget>
+    <First1>Abby</First1>
+    <Last1>Grills</Last1>
+    <Phone1>(303)887-6988</Phone1>
+    <Email1>agrills@scu.edu</Email1>
+    <Major1>Mechanical Engineering</Major1>
+    <First2>Daniel</First2>
+    <Last2>Doke</Last2>
+    <Major2>Mechanical Engineering</Major2>
+    <Phone2>(310)502-1156</Phone2>
+    <Email2>ddoke@scu.edu</Email2>
+    <First3>Zach</First3>
+    <Last3>Jesberger</Last3>
+    <Phone3>(623)628-4355</Phone3>
+    <Email3>zjesberger@scu.edu</Email3>
+    <Major3>Mechanical Engineering</Major3>
+    <First4>Jared</First4>
+    <Last4>O'Rourke</Last4>
+    <Phone4>(925)759-2381</Phone4>
+    <Email4>jorourke@scu.edu</Email4>
+    <Major4>Electrical Engineering</Major4>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>Slide advancer, we may need audio</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel>2014 MacBook Pro Retina Display 15"</MacModel>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds>Table</ShowcasingNeeds>
+    <ShowcasingSpaceRequired>7 x 5</ShowcasingSpaceRequired>
+    <Faculty1>Robert Marks</Faculty1>
+    <FacultyDept1>Mechanical Engineering</FacultyDept1>
+    <Faculty2>Timothy Healy</Faculty2>
+    <FacultyDept2>Electrical Engineering</FacultyDept2>
+    <DateSubmitted>2/3/15 18:53</DateSubmitted>
+  </team>
+  <team>
+    <Title>Low Cost 3D Bioprinter</Title>
+    <Description>Repurposing a RepRap printer into a low cost 3D bioprinter that will be printing biomaterials and proteins.</Description>
+    <Session>INTR 2</Session>
+    <Time>3:25-4:00</Time>
+    <Location>Bannan Engineering Labs, Frugal Innovation Lab</Location>
+    <Category>Interdisciplinary</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>1500</EstimatedBudget>
+    <First1>Victor (Casey)</First1>
+    <Last1>O'Brien</Last1>
+    <Phone1>(916)833-9145</Phone1>
+    <Email1>vobrien@scu.edu</Email1>
+    <Major1>Bioengineering</Major1>
+    <First2>Connor</First2>
+    <Last2>Smith</Last2>
+    <Major2>Bioengineering</Major2>
+    <Phone2>(619)518-8142</Phone2>
+    <Email2>cdsmith@scu.edu</Email2>
+    <First3>Andrew</First3>
+    <Last3>Shi</Last3>
+    <Phone3>(303)720-6375</Phone3>
+    <Email3>ashi@scu.edu</Email3>
+    <Major3>Computer Science and Engineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop/>
+    <MacModel/>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Prashanth Asuri</Faculty1>
+    <FacultyDept1>Bioengineering</FacultyDept1>
+    <Faculty2>Christopher Kitts</Faculty2>
+    <FacultyDept2>Mechanical Engineering</FacultyDept2>
+    <DateSubmitted>2/3/15 17:53</DateSubmitted>
+  </team>
+  <team>
+    <Title>AquaSift: Point-of-Use Microfluidic Detection System</Title>
+    <Description>We present a simple, affordable, and portable system that works with a three-electrode device to detect contaminants in drinking water. The system comprises of a potentiostat to perform voltammetric sweeps, an Android application to interface with a smartphone, and a database application for the mapping of results.</Description>
+    <Session>INTR 2</Session>
+    <Time>4:05-4:35</Time>
+    <Location>Bannan Engineering Labs, Frugal Innovation Lab</Location>
+    <Category>Interdisciplinary</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>$1,200 </EstimatedBudget>
+    <First1>Jasper</First1>
+    <Last1>Tan</Last1>
+    <Phone1>(408)821-5051</Phone1>
+    <Email1>jtan3@scu.edu</Email1>
+    <Major1>Computer Science and Engineering, Electrical Engineering</Major1>
+    <First2>Daniel</First2>
+    <Last2>Beyers</Last2>
+    <Major2>Computer Science and Engineering</Major2>
+    <Phone2>(650)380-4221</Phone2>
+    <Email2>djabeyers@yahoo.com</Email2>
+    <First3>Brandon</First3>
+    <Last3>Young</Last3>
+    <Phone3>(408)921-9713</Phone3>
+    <Email3>bpyoung@scu.edu</Email3>
+    <Major3>Electrical Engineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel>MacBook Pro (15-inch, Early 2011)</MacModel>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds>Table</ShowcasingNeeds>
+    <ShowcasingSpaceRequired>8ft x 6ft</ShowcasingSpaceRequired>
+    <Faculty1>Shoba Krishnan</Faculty1>
+    <FacultyDept1>Electrical Engineering</FacultyDept1>
+    <Faculty2>Silvia Figueira</Faculty2>
+    <FacultyDept2>Computer Engineering</FacultyDept2>
+    <DateSubmitted>2/4/15 16:37</DateSubmitted>
+  </team>
+  <team>
+    <Title>Sunplanter</Title>
+    <Description>Provides a unique solution to high solar installation costs. Sunplanter is a modular, prefabricated residential solar-tracking system.</Description>
+    <Session>MECH 1</Session>
+    <Time>2:15-2:45</Time>
+    <Location>Benson Center, Parlor B</Location>
+    <Category>Mechanical Engineering</Category>
+    <EngineeringSeniors>4</EngineeringSeniors>
+    <EstimatedBudget>3000</EstimatedBudget>
+    <First1>Stephen</First1>
+    <Last1>Hight</Last1>
+    <Phone1>(408)341-5088</Phone1>
+    <Email1>shight@scu.edu</Email1>
+    <Major1>Mechanical Engineering</Major1>
+    <First2>Joseph</First2>
+    <Last2>Gaither</Last2>
+    <Major2>Mechanical Engineering</Major2>
+    <Phone2/>
+    <Email2/>
+    <First3>Matthew</First3>
+    <Last3>Diaz</Last3>
+    <Phone3/>
+    <Email3/>
+    <Major3>Mechanical Engineering</Major3>
+    <First4>Brandon</First4>
+    <Last4>Suehiro</Last4>
+    <Phone4/>
+    <Email4/>
+    <Major4>Mechanical Engineering</Major4>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
+    <BringingOwnLaptop/>
+    <MacModel/>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired>10 x 10</ShowcasingSpaceRequired>
+    <Faculty1>Timothy Hight</Faculty1>
+    <FacultyDept1>Mechanical Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>1/19/15 15:22</DateSubmitted>
+  </team>
+  <team>
+    <Title>Legacy Borehole Project</Title>
+    <Description>Our project is the second year of a three-year venture to design and build a steel structure and sensor package that will operate together as a tool for open ocean research, enabling scientists to collect data from boreholes on the sea floor.</Description>
+    <Session>MECH 1</Session>
+    <Time>2:50-3:20</Time>
+    <Location>Benson Center, Parlor B</Location>
+    <Category>Mechanical Engineering</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>$250,000 </EstimatedBudget>
+    <First1>Piper</First1>
+    <Last1>Connelley</Last1>
+    <Phone1>(415)516-7620</Phone1>
+    <Email1>pconnelley@scu.edu</Email1>
+    <Major1>Mechanical Engineering</Major1>
+    <First2>Rhys</First2>
+    <Last2>Marks</Last2>
+    <Major2>Mechanical Engineering</Major2>
+    <Phone2>(310)883-5505</Phone2>
+    <Email2>rmarks1@scu.edu</Email2>
+    <First3>Ronald</First3>
+    <Last3>Saavedra</Last3>
+    <Phone3>(909)694-6360</Phone3>
+    <Email3>r.g.saavedra1@gmail.com</Email3>
+    <Major3>Mechanical Engineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel>2011 Macbook Pro</MacModel>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Timothy Hight</Faculty1>
+    <FacultyDept1>Mechanical Engineering</FacultyDept1>
+    <Faculty2>Christopher Kitts</Faculty2>
+    <FacultyDept2>Mechanical Engineering</FacultyDept2>
+    <DateSubmitted>2/4/15 21:14</DateSubmitted>
+  </team>
+  <team>
+    <Title>One-Ride Human Powered Vehicle</Title>
+    <Description>This project designs and builds a two wheel recumbent bicycle for the ASME HPVC Competition. Designed to be a one size fits all bike, it contains fully adjustable steering and seating that can be adjusted to accommodate riders of various sizes.</Description>
+    <Session>MECH 1</Session>
+    <Time>3:25-4:00</Time>
+    <Location>Benson Center, Parlor B</Location>
+    <Category>Mechanical Engineering</Category>
+    <EngineeringSeniors>5</EngineeringSeniors>
+    <EstimatedBudget>$4,200 </EstimatedBudget>
+    <First1>C.J.</First1>
+    <Last1>Toy</Last1>
+    <Phone1>(408)314-7827</Phone1>
+    <Email1>cjtoy@scu.edu</Email1>
+    <Major1>Mechanical Engineering</Major1>
+    <First2>Alex</First2>
+    <Last2>Fisher</Last2>
+    <Major2>Mechanical Engineering</Major2>
+    <Phone2>(408)960-5277</Phone2>
+    <Email2>ajfisher@scu.edu</Email2>
+    <First3>Alex</First3>
+    <Last3>Sahyoun</Last3>
+    <Phone3>(650)814-6175</Phone3>
+    <Email3>asahyoun@scu.edu</Email3>
+    <Major3>Mechanical Engineering</Major3>
+    <First4>Geoff</First4>
+    <Last4>Schmelzer</Last4>
+    <Phone4>(650)455-1773</Phone4>
+    <Email4>gschmelzer@scu.edu</Email4>
+    <Major4>Mechanical Engineering</Major4>
+    <First5>Brendan</First5>
+    <Last5>Taylor</Last5>
+    <Phone5>(707)738-2117</Phone5>
+    <Email5>btaylor@scu.edu</Email5>
+    <Major5>Mechanical Engineering</Major5>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop/>
+    <MacModel/>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired>15x15</ShowcasingSpaceRequired>
+    <Faculty1>Drazen Fabris</Faculty1>
+    <FacultyDept1>Mechanical Engineering</FacultyDept1>
+    <Faculty2>Calvin Tszeng</Faculty2>
+    <FacultyDept2>Mechanical Engineering</FacultyDept2>
+    <DateSubmitted>1/25/15 17:50</DateSubmitted>
+  </team>
+  <team>
+    <Title>Planetary Landing Capsule</Title>
+    <Description>A proof of concept prototype planetary capsule for delivering an exploration rover designed to use as the last stage of landing in the existing entry, descent, and landing procedures used in previous Mars missions. The design improves upon previous designs by utilizing mainly passive systems and increasing landing site accuracy.</Description>
+    <Session>MECH 2</Session>
+    <Time>2:15-2:45</Time>
+    <Location>Benson Center, Williman Room</Location>
+    <Category>Mechanical Engineering</Category>
+    <EngineeringSeniors>4</EngineeringSeniors>
+    <EstimatedBudget>$2,000 </EstimatedBudget>
+    <First1>Heather</First1>
+    <Last1>Montgomery</Last1>
+    <Phone1>(805)550-2514</Phone1>
+    <Email1>hmontgomery@scu.edu</Email1>
+    <Major1>Mechanical Engineering</Major1>
+    <First2>Aja</First2>
+    <Last2>Hartman</Last2>
+    <Major2>Mechanical Engineering</Major2>
+    <Phone2>(650)714-3307</Phone2>
+    <Email2>ajahartman@gmail.com</Email2>
+    <First3>Shane</First3>
+    <Last3>Hereford</Last3>
+    <Phone3>(408)893-2721</Phone3>
+    <Email3>shereford@scu.edu</Email3>
+    <Major3>Mechanical Engineering</Major3>
+    <First4>Grant</First4>
+    <Last4>Goyette</Last4>
+    <Phone4>(408)500-5180</Phone4>
+    <Email4>ggoyette@scu.edu</Email4>
+    <Major4>Mechanical Engineering</Major4>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Mac</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel>2011 MacBook Pro 13"</MacModel>
+    <Showcasing>No</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1>Nikola Djordjevic</Faculty1>
+    <FacultyDept1>Mechanical Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>1/21/15 14:09</DateSubmitted>
+  </team>
+  <team>
+    <Title>AkaBot</Title>
+    <Description>AkaBot is an extrusion machine that produces 3D printing filament by recycling PET plastic water bottles. This filament gives entrepreneurs in developing countries the tools to compete with foreign import filament while using sustainable technology.</Description>
+    <Session>MECH 2</Session>
+    <Time>2:50-3:20</Time>
+    <Location>Benson Center, Williman Room</Location>
+    <Category>Mechanical Engineering</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>$5,400 </EstimatedBudget>
+    <First1>Brian</First1>
+    <Last1>Grau</Last1>
+    <Phone1>(916)747-0549</Phone1>
+    <Email1>bgrau@gmail.com</Email1>
+    <Major1>Mechanical Engineering</Major1>
+    <First2>Alexandra</First2>
+    <Last2>McKernan</Last2>
+    <Major2>Mechanical Engineering</Major2>
+    <Phone2>(805)448-2630</Phone2>
+    <Email2>amckernan@scu.edu</Email2>
+    <First3>Jay</First3>
+    <Last3>Dubashi</Last3>
+    <Phone3>(650)906-4728</Phone3>
+    <Email3>jaydubashi@gmail.com</Email3>
+    <Major3>Mechanical Engineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop/>
+    <MacModel/>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds>Table,Power</ShowcasingNeeds>
+    <ShowcasingSpaceRequired>6 x 6</ShowcasingSpaceRequired>
+    <Faculty1>Panthea Sepehrband</Faculty1>
+    <FacultyDept1>Mechanical Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/3/15 22:07</DateSubmitted>
+  </team>
+  <team>
+    <Title>Automated In-Row Weed Trimmer</Title>
+    <Description>The Automated In-Row Weed Trimmer (AIRWT) is a weed removal system designed for sloped vineyards that will autonomously avoid vine trunks while thoroughly trimming weeds. The goal of this system is to reduce the need of manual labor and herbicides on organic vineyards while improving production rates of grapes.</Description>
+    <Session>MECH 2</Session>
+    <Time>3:25-4:00</Time>
+    <Location>Benson Center, Williman Room</Location>
+    <Category>Mechanical Engineering</Category>
+    <EngineeringSeniors>5</EngineeringSeniors>
+    <EstimatedBudget>2500</EstimatedBudget>
+    <First1>Joshua</First1>
+    <Last1>Baculi</Last1>
+    <Phone1>(408)209-0832</Phone1>
+    <Email1>jbaculi@scu.edu</Email1>
+    <Major1>Mechanical Engineering</Major1>
+    <First2>Gaston</First2>
+    <Last2>Young</Last2>
+    <Major2>Mechanical Engineering</Major2>
+    <Phone2>(925)238-3334</Phone2>
+    <Email2>gsyoung@scu.edu</Email2>
+    <First3>Joshua</First3>
+    <Last3>Ding</Last3>
+    <Phone3>(408)970-1303</Phone3>
+    <Email3>jding@scu.edu</Email3>
+    <Major3>Mechanical Engineering</Major3>
+    <First4>Marit</First4>
+    <Last4>Knapp</Last4>
+    <Phone4>(541)490-6073</Phone4>
+    <Email4>mknapp@scu.edu</Email4>
+    <Major4>Mechanical Engineering</Major4>
+    <First5>Tyler</First5>
+    <Last5>Castrucci</Last5>
+    <Phone5>(415)306-4434</Phone5>
+    <Email5>tcastrucci@scu.edu</Email5>
+    <Major5>Mechanical Engineering</Major5>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop/>
+    <MacModel/>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired>6 x 12</ShowcasingSpaceRequired>
+    <Faculty1>Timothy Hight</Faculty1>
+    <FacultyDept1>Mechanical Engineering</FacultyDept1>
+    <Faculty2>Christopher Kitts</Faculty2>
+    <FacultyDept2>Mechanical Engineering</FacultyDept2>
+    <DateSubmitted>1/28/15 15:47</DateSubmitted>
+  </team>
+  <team>
+    <Title>Backpack Cooler</Title>
+    <Description>The project is a portable backpack cooler using thermoelectric modules to cool the chamber in order to provide a refrigeration system for off-grid communities. The cooler will be powered using a battery that will be charged using solar panels installed in the home.</Description>
+    <Session>MECH 2</Session>
+    <Time>4:05-4:40</Time>
+    <Location/>
+    <Category>Mechanical Engineering</Category>
+    <EngineeringSeniors>5</EngineeringSeniors>
+    <EstimatedBudget>$2,500.00 </EstimatedBudget>
+    <First1>Kaci</First1>
+    <Last1>McCartan</Last1>
+    <Phone1>(214)384-7558</Phone1>
+    <Email1>kmmccartan@scu.edu</Email1>
+    <Major1>Mechanical Engineering</Major1>
+    <First2>Sebastian</First2>
+    <Last2>Brisbois</Last2>
+    <Major2>Mechanical Engineering</Major2>
+    <Phone2>(707)495-5081</Phone2>
+    <Email2>sbrisbois@scu.edu</Email2>
+    <First3>Daniel</First3>
+    <Last3>Lee</Last3>
+    <Phone3>(253)686-0635</Phone3>
+    <Email3>dslee@scu.edu</Email3>
+    <Major3>Mechanical Engineering</Major3>
+    <First4>Connor</First4>
+    <Last4>O'Brien</Last4>
+    <Phone4>(253)761-6860</Phone4>
+    <Email4>cjobrien@scu.edu</Email4>
+    <Major4>Mechanical Engineering</Major4>
+    <First5>Patrick</First5>
+    <Last5>Crane</Last5>
+    <Phone5>(480)280-6852</Phone5>
+    <Email5>pcrane@scu.edu</Email5>
+    <Major5>Mechanical Engineering</Major5>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
+    <BringingOwnLaptop>Mac</BringingOwnLaptop>
+    <MacModel>2014/MacBook Pro</MacModel>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds>Table</ShowcasingNeeds>
+    <ShowcasingSpaceRequired>5x5</ShowcasingSpaceRequired>
+    <Faculty1>Hohyun Lee</Faculty1>
+    <FacultyDept1>Mechanical Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>1/21/15 13:36</DateSubmitted>
+  </team>
+  <team>
+    <Title>SkyPort: Controls</Title>
+    <Description>The goal of the SkyPort project is to develop a long-range VTOL UAV to transport medical supplies to rural health providers in the developing world, serving as a viable pilot product for the 'SkyPort' Social Enterprise project. The controls team is responsible for controls, mechatronics, operations and system engineering.</Description>
+    <Session>MECH 3</Session>
+    <Time>2:15-2:45</Time>
+    <Location>Benson Center, Parlor C</Location>
+    <Category>Mechanical Engineering</Category>
+    <EngineeringSeniors>4</EngineeringSeniors>
+    <EstimatedBudget>3800</EstimatedBudget>
+    <First1>Micah</First1>
+    <Last1>Klaeser</Last1>
+    <Phone1>(916)770-7628</Phone1>
+    <Email1>mklaeser@scu.edu</Email1>
+    <Major1>Mechanical Engineering</Major1>
+    <First2>William</First2>
+    <Last2>Whitesides</Last2>
+    <Major2>Mechanical Engineering</Major2>
+    <Phone2>(925)890-5124</Phone2>
+    <Email2>wwhitesides@scu.edu</Email2>
+    <First3>Robert</First3>
+    <Last3>McDonald</Last3>
+    <Phone3>(831)345-8293</Phone3>
+    <Email3>rmcdonald@scu.edu</Email3>
+    <Major3>Mechanical Engineering</Major3>
+    <First4>Drake</First4>
+    <Last4>Grady</Last4>
+    <Phone4>(619)228-5595</Phone4>
+    <Email4>dgrady@scu.edu</Email4>
+    <Major4>Mechanical Engineering</Major4>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
+    <BringingOwnLaptop>PC</BringingOwnLaptop>
+    <MacModel/>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds>Table,Power</ShowcasingNeeds>
+    <ShowcasingSpaceRequired>5 x 4</ShowcasingSpaceRequired>
+    <Faculty1>Christopher Kitts</Faculty1>
+    <FacultyDept1>Mechanical Engineering</FacultyDept1>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted>2/4/15 11:54</DateSubmitted>
+  </team>
+  <team>
+    <Title>SkyPort: Airframe</Title>
+    <Description>The objective of the SkyPort: Airframe Team is to design and construct the structural system, lifting surfaces, and fuselage of the SkyPort UAV. This is part of the effort to create a rugged and reliable 'last-mile' delivery system for medical goods in the developing world.</Description>
+    <Session>MECH 3</Session>
+    <Time>2:50-3:20</Time>
+    <Location>Benson Center, Parlor C</Location>
+    <Category>Mechanical Engineering</Category>
+    <EngineeringSeniors>4</EngineeringSeniors>
+    <EstimatedBudget>2,000.00</EstimatedBudget>
+    <First1>Robert</First1>
+    <Last1>Llanos-Hinson</Last1>
+    <Phone1>(831)869-8241</Phone1>
+    <Email1>rllanoshinson@scu.edu</Email1>
+    <Major1>Mechanical Engineering</Major1>
+    <First2>Siosiua</First2>
+    <Last2>Faleta</Last2>
+    <Major2>Mechanical Engineering</Major2>
+    <Phone2/>
+    <Email2>sfaleta@scu.edu</Email2>
+    <First3>Mike</First3>
+    <Last3>Dewane</Last3>
+    <Phone3/>
+    <Email3>MDewane@scu.edu</Email3>
+    <Major3>Mechanical Engineering</Major3>
+    <First4>Thomas</First4>
+    <Last4>Clark</Last4>
+    <Phone4/>
+    <Email4>tdclark@scu.edu</Email4>
+    <Major4>Mechanical Engineering</Major4>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop/>
+    <MacModel/>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds>Table</ShowcasingNeeds>
+    <ShowcasingSpaceRequired>5x4</ShowcasingSpaceRequired>
+    <Faculty1>Nikola Djordjevic</Faculty1>
+    <FacultyDept1>Mechanical Engineering</FacultyDept1>
+    <Faculty2>Christopher Kitts</Faculty2>
+    <FacultyDept2>Mechanical Engineering</FacultyDept2>
+    <DateSubmitted>2/4/15 12:35</DateSubmitted>
+  </team>
+  <team>
+    <Title>SkyPort: Payload</Title>
+    <Description>With a focus on improving global healthcare, SkyPort is developing a UAV to deliver vaccines and blood samples to and from rural villages in developing nations. The Payload Team is designing the vaccine chamber using thermoelectric modules as an active cooling method.</Description>
+    <Session>MECH 3</Session>
+    <Time>3:25-3:55</Time>
+    <Location>Benson Center, Parlor C</Location>
+    <Category>Mechanical Engineering</Category>
+    <EngineeringSeniors>3</EngineeringSeniors>
+    <EstimatedBudget>$2,400 </EstimatedBudget>
+    <First1>Hector</First1>
+    <Last1>Lopez</Last1>
+    <Phone1>(650)630-3761</Phone1>
+    <Email1>hlopez2@scu.edu</Email1>
+    <Major1>Mechanical Engineering</Major1>
+    <First2>Madison</First2>
+    <Last2>Gee</Last2>
+    <Major2>Mechanical Engineering</Major2>
+    <Phone2>(916)832-2239</Phone2>
+    <Email2>mgee@scu.edu</Email2>
+    <First3>Victor</First3>
+    <Last3>Magana</Last3>
+    <Phone3>(805)760-8830</Phone3>
+    <Email3>vmagana@scu.edu</Email3>
+    <Major3>Mechanical Engineering</Major3>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds>None</PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired>No</SoftwareRequired>
+    <BringingOwnLaptop/>
+    <MacModel/>
+    <Showcasing>Yes</Showcasing>
+    <ShowcasingNeeds>Table</ShowcasingNeeds>
+    <ShowcasingSpaceRequired>5ft. x 3ft.</ShowcasingSpaceRequired>
+    <Faculty1>Hohyun Lee</Faculty1>
+    <FacultyDept1>Mechanical Engineering</FacultyDept1>
+    <Faculty2>Christopher Kitts</Faculty2>
+    <FacultyDept2>Mechanical Engineering</FacultyDept2>
+    <DateSubmitted>2/4/15 13:26</DateSubmitted>
+  </team>
+  <team>
+    <Title/>
+    <Description/>
+    <Session/>
+    <Time/>
+    <Location/>
+    <Category/>
+    <EngineeringSeniors>182</EngineeringSeniors>
+    <EstimatedBudget/>
+    <First1/>
+    <Last1/>
+    <Phone1/>
+    <Email1/>
+    <Major1/>
+    <First2/>
+    <Last2/>
+    <Major2/>
+    <Phone2/>
+    <Email2/>
+    <First3/>
+    <Last3/>
+    <Phone3/>
+    <Email3/>
+    <Major3/>
+    <First4/>
+    <Last4/>
+    <Phone4/>
+    <Email4/>
+    <Major4/>
+    <First5/>
+    <Last5/>
+    <Phone5/>
+    <Email5/>
+    <Major5/>
+    <First6/>
+    <Last6/>
+    <Phone6/>
+    <Email6/>
+    <Major6/>
+    <PresentationMediaNeeds/>
+    <TypeofPresentationComputerNeededfromMediaServices/>
+    <SoftwareRequired/>
+    <BringingOwnLaptop/>
+    <MacModel/>
+    <Showcasing/>
+    <ShowcasingNeeds/>
+    <ShowcasingSpaceRequired/>
+    <Faculty1/>
+    <FacultyDept1/>
+    <Faculty2/>
+    <FacultyDept2/>
+    <DateSubmitted/>
+  </team>
+</teams>
