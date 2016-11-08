@@ -33,7 +33,7 @@
    <body>
  	<h1> Welcome Shane! Please upload Senior Design Team Information file or choose a session. </br> </h1>
       <p>
-      <form action = "" method = "POST" enctype = "multipart/form-data">
+      <form action = "csvtoxml.php" method = "POST" enctype = "multipart/form-data">
          <input type = "file" name = "file" />
          <input type = "submit"/>
          <?php
