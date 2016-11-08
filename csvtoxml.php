@@ -1,5 +1,5 @@
 <?php
-    header('Location: http://localhost/Judge-Eval/projsession.php?added=1');
+     echo "<script>window.location.href = 'sdashboard.php'</script>";
 ?>
 <!DOCTYPE html>
 <?php
