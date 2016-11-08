@@ -3467,6 +3467,31 @@
     <Faculty2>Christopher Kitts</Faculty2>
     <FacultyDept2>Mechanical Engineering</FacultyDept2>
     <DateSubmitted>2/4/15 13:26</DateSubmitted>
+    <forms>
+      <JudgeName>SixThree</JudgeName>
+      <TechnicalAccuracy>5</TechnicalAccuracy>
+      <CreativityandInnovation>1</CreativityandInnovation>
+      <SupportingAnalyticalWork>1</SupportingAnalyticalWork>
+      <MethodicalDesignProcessDemonstrated>1</MethodicalDesignProcessDemonstrated>
+      <AddressesProjectComplexityAppropriately>1</AddressesProjectComplexityAppropriately>
+      <ExpectationofCompletion>1</ExpectationofCompletion>
+      <DesignandAnalysisoftests>1</DesignandAnalysisoftests>
+      <QualityofResponseduringQA>1</QualityofResponseduringQA>
+      <Organization>1</Organization>
+      <UseofAllotedTime>1</UseofAllotedTime>
+      <VisualAids>1</VisualAids>
+      <ConfidenceandPoise>1</ConfidenceandPoise>
+      <Total>16</Total>
+      <Economic>0</Economic>
+      <Environmental>0</Environmental>
+      <Sustainability>0</Sustainability>
+      <Manufacturability>0</Manufacturability>
+      <Ethical>0</Ethical>
+      <HealthandSafety>1</HealthandSafety>
+      <Social>0</Social>
+      <Political>0</Political>
+      <Comments/>
+    </forms>
   </team>
   <team>
     <Title/>

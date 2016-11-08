@@ -93,34 +93,226 @@ session_start();
           <th>&nbsp </th><?php $judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
           						for($i = 0, $j = 1; $i < $judgeNum; $i++, $j++){ ?>
           <?php echo "<th>Judge $j</th>"; }?>
-          <th>Average Score</th>
         </tr>
       </thead>
       <tbody>
+      	<tr>
+          <td>Technical Accuracy</td>
+          	<?php $judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
+          		for($i = 0; $i < $judgeNum; $i++){
+          			echo "<td align='center'>";
+            		if(isset($details->team[$t + $index[$sn]]->forms[$i])){
+            			echo $details->team[$t + $index[$sn]]->forms[$i]->TechnicalAccuracy;
+            		}
+           		 else{
+            			echo '---';
+           		 }
+       		     echo "<br/></td>";
+        	}?>
+        </tr>
         <tr>
-          <td>Total Scores</td>
-          <?php $judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
-          		for($i = 0; $i < $judgeNum; $i++){ ?>
-          <?php echo "<td>";
-            if(isset($details->team[$t + $index[$sn]]->forms[$i])){
-            	echo $details->team[$t + $index[$sn]]->forms[$i]->Total;
-            }
-            else{
-            	echo '---';
-            }
-            echo "<br/></td>"; }?>
-          <td><?php
+          <td>Creativity and Innovation</td>
+          	<?php $judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
+          		for($i = 0; $i < $judgeNum; $i++){
+          			echo "<td align='center'>";
+            		if(isset($details->team[$t + $index[$sn]]->forms[$i])){
+            			echo $details->team[$t + $index[$sn]]->forms[$i]->CreativityandInnovation;
+            		}
+           		 else{
+            			echo '---';
+           		 }
+       		     echo "<br/></td>";
+        	}?>
+        </tr>
+        <tr>
+          <td>Supporting Analytical Work</td>
+          	<?php $judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
+          		for($i = 0; $i < $judgeNum; $i++){
+          			echo "<td align='center'>";
+            		if(isset($details->team[$t + $index[$sn]]->forms[$i])){
+            			echo $details->team[$t + $index[$sn]]->forms[$i]->SupportingAnalyticalWork;
+            		}
+           		 else{
+            			echo '---';
+           		 }
+       		     echo "<br/></td>";
+        	}?>
+        </tr>
+        <tr>
+          <td>Methodical Design Process Demonstrated</td>
+          	<?php $judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
+          		for($i = 0; $i < $judgeNum; $i++){
+          			echo "<td align='center'>";
+            		if(isset($details->team[$t + $index[$sn]]->forms[$i])){
+            			echo $details->team[$t + $index[$sn]]->forms[$i]->MethodicalDesignProcessDemonstrated;
+            		}
+           		 else{
+            			echo '---';
+           		 }
+       		     echo "<br/></td>";
+        	}?>
+        </tr>
+        <tr>
+          <td>Addresses Project Complexity Appropriately</td>
+          	<?php $judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
+          		for($i = 0; $i < $judgeNum; $i++){
+          			echo "<td align='center'>";
+            		if(isset($details->team[$t + $index[$sn]]->forms[$i])){
+            			echo $details->team[$t + $index[$sn]]->forms[$i]->AddressesProjectComplexityAppropriately;
+            		}
+           		 else{
+            			echo '---';
+           		 }
+       		     echo "<br/></td>";
+        	}?>
+        </tr>
+        <tr>
+          <td>Expectation of Completion (by term's end)</td>
+          	<?php $judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
+          		for($i = 0; $i < $judgeNum; $i++){
+          			echo "<td align='center'>";
+            		if(isset($details->team[$t + $index[$sn]]->forms[$i])){
+            			echo $details->team[$t + $index[$sn]]->forms[$i]->ExpectationofCompletion;
+            		}
+           		 else{
+            			echo '---';
+           		 }
+       		     echo "<br/></td>";
+        	}?>
+        </tr>
+        <tr>
+          <td>Design and Analysis of tests</td>
+          	<?php $judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
+          		for($i = 0; $i < $judgeNum; $i++){
+          			echo "<td align='center'>";
+            		if(isset($details->team[$t + $index[$sn]]->forms[$i])){
+            			echo $details->team[$t + $index[$sn]]->forms[$i]->DesignandAnalysisoftests;
+            		}
+           		 else{
+            			echo '---';
+           		 }
+       		     echo "<br/></td>";
+        	}?>
+        </tr>
+        <tr>
+          <td>Quality of Response during Q & A</td>
+          	<?php $judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
+          		for($i = 0; $i < $judgeNum; $i++){
+          			echo "<td align='center'>";
+            		if(isset($details->team[$t + $index[$sn]]->forms[$i])){
+            			echo $details->team[$t + $index[$sn]]->forms[$i]->QualityofResponseduringQA;
+            		}
+           		 else{
+            			echo '---';
+           		 }
+       		     echo "<br/></td>";
+        	}?>
+        </tr>
+        <tr>
+          <td>Organization</td>
+          	<?php $judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
+          		for($i = 0; $i < $judgeNum; $i++){
+          			echo "<td align='center'>";
+            		if(isset($details->team[$t + $index[$sn]]->forms[$i])){
+            			echo $details->team[$t + $index[$sn]]->forms[$i]->Organization;
+            		}
+           		 else{
+            			echo '---';
+           		 }
+       		     echo "<br/></td>";
+        	}?>
+        </tr>
+        <tr>
+          <td>Use of Alloted Time</td>
+          	<?php $judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
+          		for($i = 0; $i < $judgeNum; $i++){
+          			echo "<td align='center'>";
+            		if(isset($details->team[$t + $index[$sn]]->forms[$i])){
+            			echo $details->team[$t + $index[$sn]]->forms[$i]->UseofAllotedTime;
+            		}
+           		 else{
+            			echo '---';
+           		 }
+       		     echo "<br/></td>";
+        	}?>
+        </tr>
+        <tr>
+          <td>Visual Aids</td>
+          	<?php $judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
+          		for($i = 0; $i < $judgeNum; $i++){
+          			echo "<td align='center'>";
+            		if(isset($details->team[$t + $index[$sn]]->forms[$i])){
+            			echo $details->team[$t + $index[$sn]]->forms[$i]->VisualAids;
+            		}
+           		 else{
+            			echo '---';
+           		 }
+       		     echo "<br/></td>";
+        	}?>
+        </tr>
+        <tr>
+          <td>Confidence and Poise</td>
+          	<?php $judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
+          		for($i = 0; $i < $judgeNum; $i++){
+          			echo "<td align='center'>";
+            		if(isset($details->team[$t + $index[$sn]]->forms[$i])){
+            			echo $details->team[$t + $index[$sn]]->forms[$i]->ConfidenceandPoise;
+            		}
+           		 else{
+            			echo '---';
+           		 }
+       		     echo "<br/></td>";
+        	}?>
+        </tr>
+        <tr>
+          <td>Total Score</td>
+          	<?php $judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
+          		for($i = 0; $i < $judgeNum; $i++){
+          			echo "<td align='center'>";
+            		if(isset($details->team[$t + $index[$sn]]->forms[$i])){
+            			echo $details->team[$t + $index[$sn]]->forms[$i]->Total;
+            		}
+           		 else{
+            			echo '---';
+           		 }
+       		     echo "<br/></td>";
+        	}?>
+        </tr>
+        <tr>
+          <td>Average Score</td>
+          	<?php
+            echo "<td  align='center' colspan='3'>";
             $k = 0;
             for($i = 0; $i < sizeof($details->team[$t + $index[$sn]]->forms); $i++){
             	$k += $details->team[$t + $index[$sn]]->forms[$i]->Total;
             }
             if(sizeof($details->team[$t + $index[$sn]]->forms) >= 1){
-            	echo ($k/sizeof($details->team[$t + $index[$sn]]->forms));
+            	echo round(($k/sizeof($details->team[$t + $index[$sn]]->forms)), 2);
             }
             else{
             	echo '';
-            }?>
-            <br/></td>
+            }
+            echo "<br/></td>";
+            ?>
+        </tr>
+        <tr>
+          <td>Raw Total</td>
+          	<?php
+            	$judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
+                $l = 0;
+                echo "<td  align='center' colspan='3'>";
+          		for($i = 0; $i < $judgeNum; $i++){
+            		if(isset($details->team[$t + $index[$sn]]->forms[$i])){
+                        $l += $details->team[$t + $index[$sn]]->forms[$i]->Total;
+            		}
+           		 else{
+            			echo '---';
+           		 }}
+                 if($l > 0){
+                 	echo $l;
+                 }
+       		     echo "<br/></td>";
+        	?>
         </tr>
       </tbody>
       </table>

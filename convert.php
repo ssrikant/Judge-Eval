@@ -9,49 +9,64 @@
  <body>
 <?php
 	if (isset($_GET['team']) && isset($_GET['session'])) {
-    	$tn = $_GET['team'] - 1;
+    	$t = $_GET['team'] - 1;
         $sn = $_GET['session'] - 1;
         
-		$details = simplexml_load_file("SDD.xml") or die("Error: Cannot create object");
+        
+    	$details = simplexml_load_file("SDD.xml") or die("Error: Cannot create object");
+    	$size = sizeof($details->team);//# of total teams
+    	$j = 1;
+    	$s[0] = $details->team[0]->Session;
+    	$index[0] = 0;
+    	for($i = 1; $i < $size-1; $i++){
+    		if(strcmp($details->team[$i]->Session, $details->team[$i-1]->Session) != 0){
+    			$s[$j] = $details->team[$i]->Session;//$s holds all the sessions
+    	        $index[$j] = $i;//holds the indexes where the sessions is found
+    	        $j++;
+    	    }
+    	}
+    	$index[$j] = $i;
     
-    	$title = $details->team[$tn]->Title;
+    	$te = $index[$sn] + $t;//number of teams in the session
+        
+    	$title = $details->team[$te]->Title;
     
-    	for($k = 0; $k < $details->team[$tn]->EngineeringSeniors; $k++){
+    	for($k = 0; $k < $details->team[$te]->EngineeringSeniors; $k++){
     	    if($k == 0){
-    	        $students[$k] = $details->team[$tn]->First1 . " " . $details->team[$tn]->Last1;
+    	        $students[$k] = $details->team[$te]->First1 . " " . $details->team[$te]->Last1;
     	        continue;
     	    }
     	    if($k == 1){
-    	        $students[$k] = $details->team[$tn]->First2 . " " . $details->team[$tn]->Last2;
+    	        $students[$k] = $details->team[$te]->First2 . " " . $details->team[$te]->Last2;
     	        continue;
     	    }
     	    if($k == 2){
-    	        $students[$k] = $details->team[$tn]->First3 . " " . $details->team[$tn]->Last3;
+    	        $students[$k] = $details->team[$te]->First3 . " " . $details->team[$te]->Last3;
     	        continue;
     	    }
     	    if($k == 3){
-    	        $students[$k] = $details->team[$tn]->First4 . " " . $details->team[$tn]->Last4;
+    	        $students[$k] = $details->team[$te]->First4 . " " . $details->team[$te]->Last4;
     	        continue;
     	    }
     	    if($k == 4){
-    	        $students[$k] = $details->team[$tn]->First5 . " " . $details->team[$tn]->Last5;
+    	        $students[$k] = $details->team[$te]->First5 . " " . $details->team[$te]->Last5;
     	        continue;
     	    }
     	    if($k == 5){
-    	        $students[$k] = $details->team[$tn]->First6 . " " . $details->team[$tn]->Last6;
+    	        $students[$k] = $details->team[$te]->First6 . " " . $details->team[$te]->Last6;
     	    }
     	}
     
-    	$session = $details->team[$tn]->Session;
+    	$session = $details->team[$te]->Session;
     	
-    	$room = $details->team[$tn]->Location;
+    	$room = $details->team[$te]->Location;
 	
-		$advisor[0] = $details->team[$tn]->Faculty1;
-	    if(strcmp($details->team[$tn]->Faculty2, '') != 0){
-	        $advisor[1] = $details->team[$tn]->Faculty2;
+		$advisor[0] = $details->team[$te]->Faculty1;
+	    if(strcmp($details->team[$te]->Faculty2, '') != 0){
+	        $advisor[1] = $details->team[$te]->Faculty2;
 	    }
         
-    	$f = $details->team[$tn]->forms;
+    	$f = $details->team[$te]->forms;
         echo '<button style="height:50px; width:100px; font-size: 150%;" onclick="window.print();">Print</button>';
         echo '<br><a href="projsession.php" onclick="window.history.back();">Back</a> <br><hr>';
 
@@ -82,8 +97,8 @@
         
         	echo "<p>Project Title: $title</p>";
         	echo "<p>Group Members: ";
-        	for($k = 0; $k < $details->team[$tn]->EngineeringSeniors; $k++){
-                if($k == $details->team[$tn]->EngineeringSeniors-1){
+        	for($k = 0; $k < $details->team[$te]->EngineeringSeniors; $k++){
+                if($k == $details->team[$te]->EngineeringSeniors-1){
                     echo $students[$k];
                 }
                 else{
