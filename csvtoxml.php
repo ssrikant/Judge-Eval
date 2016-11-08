@@ -1,5 +1,5 @@
 <?php
-     echo "<script>window.location.href = 'sdashboard.php'</script>";
+     echo "<script>window.location.href = 'sdashboard.php?added=1'</script>";
 ?>
 <!DOCTYPE html>
 <?php
