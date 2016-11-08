@@ -53,6 +53,8 @@ session_start();
             }
         }
         
+        $title[$i] = $details->team[$i]->Title;
+        
         $advisor[$i][0] = $details->team[$i]->Faculty1;
         if(strcmp($details->team[$i]->Faculty2, '') != 0){
         	$advisor[$i][1] = $details->team[$i]->Faculty2;
@@ -79,6 +81,8 @@ session_start();
       ?>
       <p>
         Team <?php echo $t+1 . ": ";
+        	echo $title[$t] . "<br>";
+            echo "Members: ";
         	for($k = 0; $k < $details->team[$t + $index[$sn]]->EngineeringSeniors; $k++){
             	if($k == $details->team[$t + $index[$sn]]->EngineeringSeniors-1){
             		echo $students[$t + $index[$sn]][$k];
@@ -279,23 +283,6 @@ session_start();
         	}?>
         </tr>
         <tr>
-          <td>Average Score</td>
-          	<?php
-            echo "<td  align='center' colspan='3'>";
-            $k = 0;
-            for($i = 0; $i < sizeof($details->team[$t + $index[$sn]]->forms); $i++){
-            	$k += $details->team[$t + $index[$sn]]->forms[$i]->Total;
-            }
-            if(sizeof($details->team[$t + $index[$sn]]->forms) >= 1){
-            	echo round(($k/sizeof($details->team[$t + $index[$sn]]->forms)), 2);
-            }
-            else{
-            	echo '';
-            }
-            echo "<br/></td>";
-            ?>
-        </tr>
-        <tr>
           <td>Raw Total</td>
           	<?php
             	$judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
@@ -313,6 +300,23 @@ session_start();
                  }
        		     echo "<br/></td>";
         	?>
+        </tr>
+        <tr>
+          <td>Average Score</td>
+          	<?php
+            echo "<td  align='center' colspan='3'>";
+            $k = 0;
+            for($i = 0; $i < sizeof($details->team[$t + $index[$sn]]->forms); $i++){
+            	$k += $details->team[$t + $index[$sn]]->forms[$i]->Total;
+            }
+            if(sizeof($details->team[$t + $index[$sn]]->forms) >= 1){
+            	echo round(($k/sizeof($details->team[$t + $index[$sn]]->forms)), 2);
+            }
+            else{
+            	echo '';
+            }
+            echo "<br/></td>";
+            ?>
         </tr>
       </tbody>
       </table>
