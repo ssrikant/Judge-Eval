@@ -74,7 +74,7 @@ session_start();
     <?php echo "$session"; ?>
   </h1>
   <body>
-  	  <a href="projsession.php">Back</a> <br/>
+  	  <a href="sdashboard.php">Back</a> <br/>
       <?php
       	for($t = 0; $t < $tn; $t++){
             //$t = $i - $index[$sn];
