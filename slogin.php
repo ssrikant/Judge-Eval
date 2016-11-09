@@ -1,33 +1,61 @@
-<!DOCTYPE html>
-
 <?php
- session_start();
+        session_start();
 
- $username = "user";
- $password = "test";
-
- if(isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == true){
-   header("Location: projsession.php");
- }
-
- if(isset($_POST['username']) && isset($_POST['password'])){
-          if($_POST['username'] == "user" && $_POST['password'] == "test"){
-            $_SESSION['logged_in'] = true;
-            header("Location: projsession.php");
-          }
- }
+            $username = "swibeto";
+            $password= "1msaili3!";
 
 
+        if(isset($_GET['logout'])) {
+            $_SESSION['username'] = '';
+            header('Location: index.php' . $_SERVER['PHP_SELF']);
+        }
+
+        if(isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == true){
+          header("Location: sdashboard.php");
+        }
+
+        if(isset($_POST['username']) && isset($_POST['password'])){
+            if($_POST['username'] == "swibeto" && $_POST['password'] == "1msaili3!") {
+                $_SESSION['logged_in'] = true;
+                header('Location: sdashboard.php');
+            }
+        }
 ?>
+<?php if($_SESSION[$username]): ?>
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml">
 
-<html>
-    <body>
-      <form method = "post" action="projsession.php">
-        Username: <br/>
-        <input type = "text" name = "username"> <br/>
-        Password: <br/>
-        <input type = "password" name = "password"> <br/>
-        <input type= "submit" value = "Login">
-      </form>
-    </body>
-</html>
+        <body>
+            <?php header("Location: sdashboard.php"); ?>
+        </body>
+    </html>
+
+<?php else: ?>
+    <html>
+        <head>
+            <title>Log In</title>
+        </head>
+        <body>
+            <h1>Please login:</h1>
+            <form name="login" action="" method="post">
+                <table width="100%" border="0" cellpadding="3" cellspacing="1" bgcolor="#FFFFFF">
+                    <tr>
+                        <td colspan="3"><strong>System Login</strong></td>
+                    </tr>
+                    <tr>
+                        <td width="78">Username:</td>
+                        <td width="294"><input name="username" type="text" id="username"></td>
+                    </tr>
+                    <tr>
+                        <td>Password:</td>
+                        <td><input name="password" type="password" id="password"></td>
+                    </tr>
+                    <tr>
+                        <td>&nbsp;</td>
+                        <td><input type="submit" name="Submit" value="Login"></td>
+                    </tr>
+                </table>
+            </form>
+        </body>
+    </html>
+<?php endif; ?>
