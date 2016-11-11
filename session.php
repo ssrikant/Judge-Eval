@@ -1,6 +1,6 @@
 <?php
 session_start();
-    
+
     if (isset($_GET['session'])) {
         $sn = $_GET['session'] - 1;
         $ss = $_GET['session'];
@@ -18,15 +18,15 @@ session_start();
         }
     }
     $index[$j] = $i;
-    
+
     $tn = $index[$sn+1]-$index[$sn];
-    
+
     $session = $s[$sn];
     $sessionName = $details->team[$index[$sn]]->Category;
-    
+
     $j = 0;
     for($i = $index[$sn]; $i < $index[$sn+1]; $i++){
-    	
+
         for($k = 0; $k < $details->team[$i]->EngineeringSeniors; $k++){
         	if($k == 0){
     			$students[$i][$k] = $details->team[$i]->First1 . " " . $details->team[$i]->Last1;
@@ -52,24 +52,33 @@ session_start();
     			$students[$i][$k] = $details->team[$i]->First6 . " " . $details->team[$i]->Last6;
             }
         }
-        
+
         $title[$i] = $details->team[$i]->Title;
-        
+
         $advisor[$i][0] = $details->team[$i]->Faculty1;
         if(strcmp($details->team[$i]->Faculty2, '') != 0){
         	$advisor[$i][1] = $details->team[$i]->Faculty2;
         }
-        
+
         $room[$i] = $details->team[$i]->Location;
-        
+
         $j++;
     }
-	
+
 ?>
 
 <!DOCTYPE html>
 
 <html>
+<head>
+  <?php
+          //check to see if session is inactive, if true -> redirect to login page!
+         if(!isset($_SESSION['logged_in']) && $_SESSION['logged_in'] != ''){
+             header ("Location: slogin.php");
+             exit; // stop further executing, very important
+         }
+  ?>
+</head>
   <h1>
     <?php echo "$session"; ?>
   </h1>
@@ -330,7 +339,6 @@ session_start();
         <?php
         for($i = 0, $j = 1; $i < $tn; $i++, $j++){
             echo "<a href='convert.php?team=$j&session=$ss'><button>  View Team $j </button></a><br>";
-
         }
         ?>
     </div>
