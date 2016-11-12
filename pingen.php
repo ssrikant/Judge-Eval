@@ -14,7 +14,7 @@ if(isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == 1){
 
 	function genRandomString() {
 	    $length = 8;
-	    $characters = '0123456789abcdefghijklmnopqrstuvwxyz!?/@#$%*+=~';
+	    $characters = '0123456789abcdefghijklmnopqrstuvwxyz!?/@#$%*+=~ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 	    $string = '';
 	
 	    for ($p = 0; $p < $length; $p++) {
