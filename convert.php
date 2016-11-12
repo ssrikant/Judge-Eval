@@ -1,8 +1,6 @@
  <!DOCTYPE html>
  <?php
- session_start();
- if(isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == 1){
- 
+ session_start()
  ?>
  <html>
  <head>
@@ -187,19 +185,10 @@
     	}
 	}
     else{
-    	echo "Error: Unknown url";
+    	echo "Stop messing with the url...";
     }
 ?>
 
 
 </body>
 </html>
-
-<?php
-}
-else{
-	echo "Please log in to view this information. Redirecting...";
-    echo "<script> setTimeout(function(){ window.location.href = 'slogin.php';}, 1000); </script>";
-}
-
-?>

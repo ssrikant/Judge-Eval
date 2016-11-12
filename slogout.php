@@ -2,7 +2,7 @@
     session_start();
     session_unset();
     session_destroy();
-    header("location:index.php?logout=1"); //Replace with Logged Out page. Remove if you want to use HTML in same file.
+    header("location:index.php"); //Replace with Logged Out page. Remove if you want to use HTML in same file.
 ?>
 
 // Below is not needed, unless header above is missing. In that case, put logged out text here.

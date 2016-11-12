@@ -1,7 +1,6 @@
  <!DOCTYPE html>
  <?php
- session_start();
- if($_SESSION['judge'] == 1){
+ session_start()
  ?>
  <html>
  <head>
@@ -9,110 +8,77 @@
  </head>
  <body>
 <?php
-	if(isset($_POST["JN"])){
-	$_SESSION['JN'] = $_POST["JN"];
-    $_SESSION['TA'] = $_POST["TA"];
-    $_SESSION['CI'] = $_POST["CI"];
-    $_SESSION['SAW'] = $_POST["SAW"];
-    $_SESSION['MDPD'] = $_POST["MDPD"];
-    $_SESSION['APCA'] = $_POST["APCA"];
-    $_SESSION['EC'] = $_POST["EC"];
-    $_SESSION['DA'] = $_POST["DA"];
-    $_SESSION['QR'] = $_POST["R"];
-    $_SESSION['O'] = $_POST["O"];
-    $_SESSION['UAT'] = $_POST["UAT"];
-    $_SESSION['VA'] = $_POST["VA"];
-    $_SESSION['CP'] = $_POST["CP"];
+	$tn = $_SESSION['teamNum'];
+	$JN = $_POST["JN"];
+    $TA = $_POST["TA"];
+    $CI = $_POST["CI"];
+    $SAW = $_POST["SAW"];
+    $MDPD = $_POST["MDPD"];
+    $APCA = $_POST["APCA"];
+    $EC = $_POST["EC"];
+    $DA = $_POST["DA"];
+    $QR = $_POST["R"];
+    $O = $_POST["O"];
+    $UAT = $_POST["UAT"];
+    $VA = $_POST["VA"];
+    $CP = $_POST["CP"];
+    $total = $TA + $CI + $SAW + $MDPD + $APCA + $EC + $DA + $QR + $O + $UAT + $VA + $CP;
     if(isset($_POST['Ec'])){
-    	$_SESSION['Eco'] = 1;
+    	$Eco = 1;
     }
     else{
-    	$_SESSION['Eco'] = 0;
+    	$Eco = 0;
     }
     if(isset($_POST['En'])){
-    	$_SESSION['Env'] = 1;
+    	$Env = 1;
     }
     else{
-    	$_SESSION['Env'] = 0;
+    	$Env = 0;
     }
     if(isset($_POST['Su'])){
-    	$_SESSION['Sus'] = 1;
+    	$Sus = 1;
     }
     else{
-    	$_SESSION['Sus'] = 0;
+    	$Sus = 0;
     }
     if(isset($_POST['Ma'])){
-    	$_SESSION['Man'] = 1;
+    	$Man = 1;
 	}
     else{
-    	$_SESSION['Man'] = 0;
+    	$Man = 0;
     }
     if(isset($_POST['Et'])){
-    	$_SESSION['Eth'] = 1;
+    	$Eth = 1;
 	}
     else{
-    	$_SESSION['Eth'] = 0;
+    	$Eth = 0;
     }
     if(isset($_POST['HS'])){
-    	$_SESSION['HaS'] = 1;
+    	$HaS = 1;
     }
     else{
-    	$_SESSION['HaS'] = 0;
+    	$HaS = 0;
     }
     if(isset($_POST['So'])){
-    	$_SESSION['Soc'] = 1;
+    	$Soc = 1;
 	}
     else{
-    	$_SESSION['Soc'] = 0;
+    	$Soc = 0;
     }
     if(isset($_POST['Po'])){
-    	$_SESSION['Pol'] = 1;
+    	$Pol = 1;
     }
     else{
-    	$_SESSION['Pol'] = 0;
+    	$Pol = 0;
     }
     
     if(isset($_POST['Com'])){
-    	$_SESSION['Com'] = $_POST['Com'];
+    	$Com = $_POST['Com'];
     }
     else{
-    	$_SESSION['Com'] = 'None';
+    	$Com = 'None';
     }
-	}
-	if(isset($_GET['yes'])){
-    	$confirmation = $_GET['yes'];
-    }
-    else{
-    	$confirmation = 0;
-    }
-    
-	if($confirmation == 1){
-    $tn = $_SESSION["teamNum"];
-	$JN = $_SESSION["JN"];
-    $TA = $_SESSION["TA"];
-    $CI = $_SESSION["CI"];
-    $SAW = $_SESSION["SAW"];
-    $MDPD = $_SESSION["MDPD"];
-    $APCA = $_SESSION["APCA"];
-    $EC = $_SESSION["EC"];
-    $DA = $_SESSION["DA"];
-    $QR = $_SESSION["QR"];
-    $O = $_SESSION["O"];
-    $UAT = $_SESSION["UAT"];
-    $VA = $_SESSION["VA"];
-    $CP = $_SESSION["CP"];
-    $total = $TA + $CI + $SAW + $MDPD + $APCA + $EC + $DA + $QR + $O + $UAT + $VA + $CP;
-    
-    $Eco = $_SESSION['Eco'];
-    $Env = $_SESSION['Env'];
-    $Sus = $_SESSION['Sus'];
-    $Man = $_SESSION['Man'];
-    $Eth = $_SESSION['Eth'];
-    $HaS = $_SESSION['HaS'];
-    $Soc = $_SESSION['Soc'];
-    $Pol = $_SESSION['Pol'];
-    $Com = $_SESSION['Com'];
-    
+	
 	$xml = new DOMDocument('1.0', 'utf-8');
 	$xml->formatOutput = true;
 	$xml->preserveWhiteSpace = false;
@@ -150,25 +116,10 @@
 	$element->appendChild($newItem);
 
 	$xml->save('SDD.xml');
-	
-    $_SESSION['PIN'] = -1;
-	echo "Data has been written. You will automatically logout now.";
-	echo "<script> setTimeout(function(){ window.location.href = 'slogout.php';}, 1000); </script>";
-    }
-    else{
-    	echo "Are you sure you want to submit the form? No more edits will be allowed after you press Yes.<br>";
-        echo "<a href = confirm.php?yes=1><button>Yes</button></a>";
-        echo "<button onclick='window.history.back()'>No</button>";
-    }
+
+	echo "Data has been written. You can logout now. <a href='index.php'>Logout</a>";
 ?>
 
 
 </body>
 </html>
-<?php
-}
-else{
-	echo "Please log in to view this information. Redirecting...";
-    echo "<script> setTimeout(function(){ window.location.href = 'judgelogin.php';}, 1000); </script>";
-}
-?>

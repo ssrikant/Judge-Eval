@@ -1,7 +1,3 @@
-<?php
-        session_start();
-        $_SESSION['judge'] = 0;
-?>
 <!DOCTYPE html>
 
 <html>

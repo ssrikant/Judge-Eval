@@ -57,5 +57,8 @@
                 </table>
             </form>
         </body>
+        <style>
+
+        </style>
     </html>
 <?php endif; ?>

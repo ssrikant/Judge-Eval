@@ -9,25 +9,27 @@ session_start();
 
 <?php
 	if(isset($_POST['file'])){
-    	$fn = $_POST['file'];
+    if() //check extension if extenstion = csv then allow it to post else the error! 
+      $fn = $_POST['file'];
     }
     else{
     	echo "error";
         exit();
     }
+
 	$inputFilename    = $fn;
 	$outputFilename   = 'SDD.xml';
 
 	// Open csv to read
 	$inputFile  = fopen($inputFilename, 'r+');
-	
+
 	// Get the headers of the file
 	$headers = fgetcsv($inputFile);
 	//echo sizeof($headers);
 	// Create a new dom document with pretty formatting
 	$doc  = new DomDocument();
 	$doc->formatOutput   = true;
-	
+
 	// Add a root node to the document
 	$root = $doc->createElement('teams');
 	$root = $doc->appendChild($root);
@@ -47,7 +49,7 @@ session_start();
 	        $value = $doc->createTextNode($row[$i]);
 	        $value = $child->appendChild($value);
 	    }
-	
+
 	    $root->appendChild($container);
 	}
 
@@ -55,19 +57,11 @@ session_start();
 	$handle = fopen($outputFilename, "w");
 	fwrite($handle, $strxml);
 	fclose($handle);
-    
-    echo "<script>window.location.href = 'sdashboard.php?converted=1'</script>";
+
+    echo "<script>window.location.href = 'sdashboard.php'</script>";
 ?>
 </body>
 </html>
 <?php
 }
-else{
-	echo "Please log in to view this information. Redirecting...";
-    echo "<script> setTimeout(function(){ window.location.href = 'slogin.php';}, 1000); </script>";
-}
-
-?>
-
-
-
+else{ echo "-_____________-";} ?>
