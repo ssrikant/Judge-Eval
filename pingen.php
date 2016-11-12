@@ -11,58 +11,6 @@ if(isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == 1){
 
 		$details = simplexml_load_file("SDD.xml") or die("Error: Cannot create object");
     	$size = sizeof($details->team);//# of total teams
-    	$j = 1;
-    	$s[0] = $details->team[0]->Session;
-    	$index[0] = 0;
-    	for($i = 1; $i < $size-1; $i++){
-    		if(strcmp($details->team[$i]->Session, $details->team[$i-1]->Session) != 0){
-    			$s[$j] = $details->team[$i]->Session;//$s holds all the sessions
-    	        $index[$j] = $i;//holds the indexes where the sessions is found
-    	        $j++;
-    	    }
-    	}
-    	$index[$j] = $i;
-    
-    	$te = $index[$sn] + $t;//number of teams in the session
-        
-    	$title = $details->team[$te]->Title;
-    
-    	for($k = 0; $k < $details->team[$te]->EngineeringSeniors; $k++){
-    	    if($k == 0){
-    	        $students[$k] = $details->team[$te]->First1 . " " . $details->team[$te]->Last1;
-    	        continue;
-    	    }
-    	    if($k == 1){
-    	        $students[$k] = $details->team[$te]->First2 . " " . $details->team[$te]->Last2;
-    	        continue;
-    	    }
-    	    if($k == 2){
-    	        $students[$k] = $details->team[$te]->First3 . " " . $details->team[$te]->Last3;
-    	        continue;
-    	    }
-    	    if($k == 3){
-    	        $students[$k] = $details->team[$te]->First4 . " " . $details->team[$te]->Last4;
-    	        continue;
-    	    }
-    	    if($k == 4){
-    	        $students[$k] = $details->team[$te]->First5 . " " . $details->team[$te]->Last5;
-    	        continue;
-    	    }
-    	    if($k == 5){
-    	        $students[$k] = $details->team[$te]->First6 . " " . $details->team[$te]->Last6;
-    	    }
-    	}
-    
-    	$session = $details->team[$te]->Session;
-    	
-    	$room = $details->team[$te]->Location;
-	
-		$advisor[0] = $details->team[$te]->Faculty1;
-	    if(strcmp($details->team[$te]->Faculty2, '') != 0){
-	        $advisor[1] = $details->team[$te]->Faculty2;
-	    }
-        
-    	$f = $details->team[$te]->forms;
 
 	function genRandomString() {
 	    $length = 8;
@@ -74,7 +22,7 @@ if(isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == 1){
 	    }
 	    return $string;
 	}
-
+    echo "<a href='sdashboard.php'>Back</a> <br>";
 	echo "Random String Generator: <br><br>";
     
     for($g = 0, $gg = 1; $g < $size; $g++, $gg++){
@@ -94,7 +42,24 @@ if(isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == 1){
         }
     
     	$pin[$g] = $h;
+        $titles[$g] = $details->team[$g]->Title;
     }
+    
+    	$sfile = fopen("PINSforEveryTeam.txt", "w");
+    
+        $ii = 1;
+        for($i = 0, $ii = 1; $i < sizeof($pin); $i++, $ii++){
+        fwrite($sfile, "$ii.");
+        fwrite($sfile, PHP_EOL);
+        fwrite($sfile, $titles[$i]);
+        fwrite($sfile, PHP_EOL);
+        fwrite($sfile, 'PIN: ');
+        fwrite($sfile, $pin[$i]);
+		fwrite($sfile, PHP_EOL);
+    	fwrite($sfile, PHP_EOL);
+    	}
+    
+        fclose($sfile);
     
 		$results = serialize($pin);
     	if($myfile = fopen("pins.txt", "w")){

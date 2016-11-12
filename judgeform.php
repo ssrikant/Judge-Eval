@@ -21,18 +21,21 @@ session_start();
     
     if(isset($_POST['PIN'])){
     	$pin = $_POST['PIN'];
-        $_SESSION['judgePin'] = $pin;
+        $_SESSION['judge'] = 1;
     }
     
     if(in_array($pin, $pinarray)){
         $tn = array_search($pin,$pinarray);
     }
     else{
-    	echo "Please go back and enter the correct PIN";
+    	echo "Please go back and enter the correct PIN. Redirecting...";
+        echo "<script> setTimeout(function(){ window.location.href = 'judgelogin.php';}, 1000); </script>";
     	exit();
     }
     
     $_SESSION['teamNum'] = $tn;
+    
+if(isset($_SESSION['judge']) && $_SESSION['judge'] == 1){
     
 	$details = simplexml_load_file("SDD.xml") or die("Error: Cannot create object");
     
@@ -72,10 +75,6 @@ session_start();
     if(strcmp($details->team[$tn]->Faculty2, '') != 0){
         $advisor[1] = $details->team[$tn]->Faculty2;
     }
-    
-    
-	$PINNUM=$_POST['PIN'];
-	if($PINNUM=="1111" || true){
 ?>
 <form id="JudgeEval" name="JudgeEval" method="POST" action="confirm.php">
 	<title>Senior Design: Eval Form</title>
@@ -92,7 +91,7 @@ session_start();
 	<p> Session: <?php echo $session;?></p>
 	<p> Room: <?php echo $room;?></p>
 	<p> Advisor: <?php if(sizeof($advisor) == 1){ echo $advisor[0];} else{ echo $advisor[0] . ", " . $advisor[1];}?></p>
-	<p> Judge Name: <input type="text" name="JN"> </input></p>
+	<p> Judge Name: <input type="text" name="JN" required> </input></p>
 	<p> Please evaluate senior engineering design projects and presentations using the following point system:<p>
 	<p> 1: Poor  2: Below Average 3: Average 4: Good 5: Excellent </p>
 
@@ -198,10 +197,12 @@ session_start();
 	    <input type="submit" value="Submit">
 </form>
 <a href="slogout.php">Logout</a>
-<?php }
-	else{ 
-		print("Invalid Pin");
-	}
+<?php
+}
+else{
+	echo "Please log in to view this information. Redirecting...";
+    echo "<script> setTimeout(function(){ window.location.href = 'judgelogin.php';}, 1000); </script>";
+}
 ?>
 
   </body>

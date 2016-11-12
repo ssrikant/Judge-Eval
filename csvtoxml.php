@@ -56,7 +56,7 @@ session_start();
 	fwrite($handle, $strxml);
 	fclose($handle);
     
-    echo "<script>window.location.href = 'sdashboard.php'</script>";
+    echo "<script>window.location.href = 'sdashboard.php?converted=1'</script>";
 ?>
 </body>
 </html>

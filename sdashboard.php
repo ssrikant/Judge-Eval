@@ -33,7 +33,14 @@ if(isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == 1){ ?>
 <head>
 </head>
    <body>
- 	    <h1> Welcome Shane! Please upload Senior Design Team Information file or choose a session. </br> </h1>
+ 	    <h1> <?php
+        	if(isset($_GET['converted']) && $_GET['converted'] == 1){
+            	echo "Upload successful. </br>";
+            }
+            else{
+        		echo "Welcome Shane! Please upload Senior Design Team Information file or choose a session. </br>";
+        	}
+          ?></h1>
         <p>
           Please Upload Senior Design Team Information in a .csv file format. </br>
           Steps to export any excel file to csv: </br>
