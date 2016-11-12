@@ -1,5 +1,6 @@
 <?php
 session_start();
+    if(isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == 1){
 
     if (isset($_GET['session'])) {
         $sn = $_GET['session'] - 1;
@@ -71,13 +72,6 @@ session_start();
 
 <html>
 <head>
-  <?php
-          //check to see if session is inactive, if true -> redirect to login page!
-         if(!isset($_SESSION['logged_in']) && $_SESSION['logged_in'] != ''){
-             header ("Location: slogin.php");
-             exit; // stop further executing, very important
-         }
-  ?>
 </head>
   <h1>
     <?php echo "$session"; ?>
@@ -348,3 +342,4 @@ session_start();
   </body>
 
 </html>
+<?php } ?>

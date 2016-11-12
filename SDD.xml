@@ -8,7 +8,7 @@
     <Location>Learning Commons 133, Viewing and Taping B</Location>
     <Category>Bioengineering</Category>
     <EngineeringSeniors>3</EngineeringSeniors>
-    <EstimatedBudget>$5,000 </EstimatedBudget>
+    <EstimatedBudget>$5,000.00</EstimatedBudget>
     <First1>Lillian</First1>
     <Last1>Tatka</Last1>
     <Phone1>(907)317-5987</Phone1>
@@ -24,21 +24,21 @@
     <Phone3>(408)300-4603</Phone3>
     <Email3>mdelazzari@scu.edu</Email3>
     <Major3>Bioengineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Mac</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
@@ -49,84 +49,9 @@
     <ShowcasingSpaceRequired>3ft x 1ft</ShowcasingSpaceRequired>
     <Faculty1>Ashley Kim</Faculty1>
     <FacultyDept1>Bioengineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>1/27/15 9:19</DateSubmitted>
-    <forms>
-      <JudgeName>Tester</JudgeName>
-      <TechnicalAccuracy>4</TechnicalAccuracy>
-      <CreativityandInnovation>4</CreativityandInnovation>
-      <SupportingAnalyticalWork>4</SupportingAnalyticalWork>
-      <MethodicalDesignProcessDemonstrated>4</MethodicalDesignProcessDemonstrated>
-      <AddressesProjectComplexityAppropriately>4</AddressesProjectComplexityAppropriately>
-      <ExpectationofCompletion>4</ExpectationofCompletion>
-      <DesignandAnalysisoftests>4</DesignandAnalysisoftests>
-      <QualityofResponseduringQA>4</QualityofResponseduringQA>
-      <Organization>4</Organization>
-      <UseofAllotedTime>4</UseofAllotedTime>
-      <VisualAids>4</VisualAids>
-      <ConfidenceandPoise>4</ConfidenceandPoise>
-      <Total>48</Total>
-      <Economic>1</Economic>
-      <Environmental>0</Environmental>
-      <Sustainability>0</Sustainability>
-      <Manufacturability>1</Manufacturability>
-      <Ethical>0</Ethical>
-      <HealthandSafety>0</HealthandSafety>
-      <Social>0</Social>
-      <Political>0</Political>
-      <Comments>Hello</Comments>
-    </forms>
-    <forms>
-      <JudgeName>Name</JudgeName>
-      <TechnicalAccuracy>4</TechnicalAccuracy>
-      <CreativityandInnovation>4</CreativityandInnovation>
-      <SupportingAnalyticalWork>4</SupportingAnalyticalWork>
-      <MethodicalDesignProcessDemonstrated>4</MethodicalDesignProcessDemonstrated>
-      <AddressesProjectComplexityAppropriately>4</AddressesProjectComplexityAppropriately>
-      <ExpectationofCompletion>4</ExpectationofCompletion>
-      <DesignandAnalysisoftests>4</DesignandAnalysisoftests>
-      <QualityofResponseduringQA>4</QualityofResponseduringQA>
-      <Organization>4</Organization>
-      <UseofAllotedTime>4</UseofAllotedTime>
-      <VisualAids>4</VisualAids>
-      <ConfidenceandPoise>5</ConfidenceandPoise>
-      <Total>49</Total>
-      <Economic>0</Economic>
-      <Environmental>0</Environmental>
-      <Sustainability>0</Sustainability>
-      <Manufacturability>0</Manufacturability>
-      <Ethical>0</Ethical>
-      <HealthandSafety>0</HealthandSafety>
-      <Social>0</Social>
-      <Political>0</Political>
-      <Comments/>
-    </forms>
-    <forms>
-      <JudgeName>L</JudgeName>
-      <TechnicalAccuracy>5</TechnicalAccuracy>
-      <CreativityandInnovation>5</CreativityandInnovation>
-      <SupportingAnalyticalWork>5</SupportingAnalyticalWork>
-      <MethodicalDesignProcessDemonstrated>5</MethodicalDesignProcessDemonstrated>
-      <AddressesProjectComplexityAppropriately>5</AddressesProjectComplexityAppropriately>
-      <ExpectationofCompletion>5</ExpectationofCompletion>
-      <DesignandAnalysisoftests>5</DesignandAnalysisoftests>
-      <QualityofResponseduringQA>5</QualityofResponseduringQA>
-      <Organization>5</Organization>
-      <UseofAllotedTime>5</UseofAllotedTime>
-      <VisualAids>5</VisualAids>
-      <ConfidenceandPoise>5</ConfidenceandPoise>
-      <Total>60</Total>
-      <Economic>1</Economic>
-      <Environmental>1</Environmental>
-      <Sustainability>1</Sustainability>
-      <Manufacturability>1</Manufacturability>
-      <Ethical>1</Ethical>
-      <HealthandSafety>1</HealthandSafety>
-      <Social>1</Social>
-      <Political>1</Political>
-      <Comments>...</Comments>
-    </forms>
   </team>
   <team>
     <Title>Biological Applications of Scanning Thermal Microscopy</Title>
@@ -136,7 +61,7 @@
     <Location>Learning Commons 133, Viewing and Taping B</Location>
     <Category>Bioengineering</Category>
     <EngineeringSeniors>2</EngineeringSeniors>
-    <EstimatedBudget>500$</EstimatedBudget>
+    <EstimatedBudget>$500.00</EstimatedBudget>
     <First1>Warren</First1>
     <Last1>Jolley</Last1>
     <Phone1>(650)339-0503</Phone1>
@@ -147,38 +72,38 @@
     <Major2>Bioengineering</Major2>
     <Phone2>(775)354-7170</Phone2>
     <Email2>abrantner@scu.edu</Email2>
-    <First3/>
-    <Last3/>
-    <Phone3/>
-    <Email3/>
-    <Major3/>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First3></First3>
+    <Last3></Last3>
+    <Phone3></Phone3>
+    <Email3></Email3>
+    <Major3></Major3>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
     <BringingOwnLaptop>PC</BringingOwnLaptop>
-    <MacModel/>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Jonathan Zhang</Faculty1>
     <FacultyDept1>Bioengineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/2/15 22:17</DateSubmitted>
   </team>
   <team>
@@ -189,7 +114,7 @@
     <Location>Learning Commons 133, Viewing and Taping B</Location>
     <Category>Bioengineering</Category>
     <EngineeringSeniors>2</EngineeringSeniors>
-    <EstimatedBudget>$8,000.00 </EstimatedBudget>
+    <EstimatedBudget>$8,000.00</EstimatedBudget>
     <First1>Mallory</First1>
     <Last1>Williams</Last1>
     <Phone1>(303)981-3516</Phone1>
@@ -200,38 +125,38 @@
     <Major2>Bioengineering</Major2>
     <Phone2>(503)830-1727</Phone2>
     <Email2>wleineweber@scu.edu</Email2>
-    <First3/>
-    <Last3/>
-    <Phone3/>
-    <Email3/>
-    <Major3/>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First3></First3>
+    <Last3></Last3>
+    <Phone3></Phone3>
+    <Email3></Email3>
+    <Major3></Major3>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
-    <BringingOwnLaptop/>
-    <MacModel/>
+    <BringingOwnLaptop></BringingOwnLaptop>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Ashley Kim</Faculty1>
     <FacultyDept1>Bioengineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/4/15 15:40</DateSubmitted>
   </team>
   <team>
@@ -242,7 +167,7 @@
     <Location>Learning Commons, Training and Instruction 203</Location>
     <Category>Bioengineering</Category>
     <EngineeringSeniors>3</EngineeringSeniors>
-    <EstimatedBudget>$1,500 </EstimatedBudget>
+    <EstimatedBudget>$1,500.00</EstimatedBudget>
     <First1>Stacie</First1>
     <Last1>Lim</Last1>
     <Phone1>(808)938-6428</Phone1>
@@ -258,33 +183,33 @@
     <Phone3>(520)975-6385</Phone3>
     <Email3>kdcronin@scu.edu</Email3>
     <Major3>Bioengineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
     <BringingOwnLaptop>Mac</BringingOwnLaptop>
     <MacModel>MacBook Pro 2011</MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Jonathan Zhang</Faculty1>
     <FacultyDept1>Bioengineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/3/15 16:58</DateSubmitted>
   </team>
   <team>
@@ -295,7 +220,7 @@
     <Location>Learning Commons, Training and Instruction 203</Location>
     <Category>Bioengineering</Category>
     <EngineeringSeniors>2</EngineeringSeniors>
-    <EstimatedBudget>2,500</EstimatedBudget>
+    <EstimatedBudget>2500</EstimatedBudget>
     <First1>Caroline</First1>
     <Last1>Brooke</Last1>
     <Phone1>(406)853-0033</Phone1>
@@ -305,39 +230,39 @@
     <Last2>Biencourt</Last2>
     <Major2>Bioengineering</Major2>
     <Phone2>(206)422-2822</Phone2>
-    <Email2/>
-    <First3/>
-    <Last3/>
-    <Phone3/>
-    <Email3/>
-    <Major3/>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <Email2></Email2>
+    <First3></First3>
+    <Last3></Last3>
+    <Phone3></Phone3>
+    <Email3></Email3>
+    <Major3></Major3>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
-    <BringingOwnLaptop/>
-    <MacModel/>
+    <BringingOwnLaptop></BringingOwnLaptop>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Jonathan Zhang</Faculty1>
     <FacultyDept1>Bioengineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/3/15 21:32</DateSubmitted>
   </team>
   <team>
@@ -348,7 +273,7 @@
     <Location>Learning Commons, Training and Instruction 203</Location>
     <Category>Bioengineering</Category>
     <EngineeringSeniors>3</EngineeringSeniors>
-    <EstimatedBudget>1,211</EstimatedBudget>
+    <EstimatedBudget>1211</EstimatedBudget>
     <First1>Erin</First1>
     <Last1>Root</Last1>
     <Phone1>(720)982-9789</Phone1>
@@ -364,33 +289,33 @@
     <Phone3>(303)902-0966</Phone3>
     <Email3>cbartlett@scu.edu</Email3>
     <Major3>Bioengineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Mac</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
-    <BringingOwnLaptop/>
-    <MacModel/>
+    <BringingOwnLaptop></BringingOwnLaptop>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Leilani Miller</Faculty1>
     <FacultyDept1>Biology</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>1/29/15 16:57</DateSubmitted>
   </team>
   <team>
@@ -401,7 +326,7 @@
     <Location>Learning Commons, Training and Instruction 203</Location>
     <Category>Bioengineering</Category>
     <EngineeringSeniors>2</EngineeringSeniors>
-    <EstimatedBudget>$2,000 </EstimatedBudget>
+    <EstimatedBudget>$2,000.00</EstimatedBudget>
     <First1>Connor</First1>
     <Last1>Lynch</Last1>
     <Phone1>(805)722-5808</Phone1>
@@ -412,38 +337,38 @@
     <Major2>Bioengineering</Major2>
     <Phone2>(206)371-5275</Phone2>
     <Email2>alehmann@scu.edu</Email2>
-    <First3/>
-    <Last3/>
-    <Phone3/>
-    <Email3/>
-    <Major3/>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First3></First3>
+    <Last3></Last3>
+    <Phone3></Phone3>
+    <Email3></Email3>
+    <Major3></Major3>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
-    <BringingOwnLaptop/>
-    <MacModel/>
+    <BringingOwnLaptop></BringingOwnLaptop>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Jonathan Zhang</Faculty1>
     <FacultyDept1>Bioengineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/6/15 11:57</DateSubmitted>
   </team>
   <team>
@@ -463,40 +388,40 @@
     <First2>Kurt</First2>
     <Last2>Holloway</Last2>
     <Major2>Bioengineering</Major2>
-    <Phone2/>
+    <Phone2></Phone2>
     <Email2>ktholloway@scu.edu</Email2>
     <First3>Steven</First3>
     <Last3>Long</Last3>
-    <Phone3/>
+    <Phone3></Phone3>
     <Email3>slong1@scu.edu</Email3>
     <Major3>Bioengineering</Major3>
     <First4>Matthew</First4>
     <Last4>Coleman</Last4>
-    <Phone4/>
+    <Phone4></Phone4>
     <Email4>mdcoleman@scu.edu</Email4>
     <Major4>Bioengineering</Major4>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
-    <BringingOwnLaptop/>
-    <MacModel/>
+    <BringingOwnLaptop></BringingOwnLaptop>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Prashanth Asuri</Faculty1>
     <FacultyDept1>Bioengineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/3/15 14:51</DateSubmitted>
   </team>
   <team>
@@ -507,7 +432,7 @@
     <Location>Learning Commons 129, Viewing and Taping A</Location>
     <Category>Bioengineering</Category>
     <EngineeringSeniors>3</EngineeringSeniors>
-    <EstimatedBudget>$0 </EstimatedBudget>
+    <EstimatedBudget>$0.00</EstimatedBudget>
     <First1>Erin</First1>
     <Last1>Araj</Last1>
     <Phone1>(510 )853-4757</Phone1>
@@ -523,21 +448,21 @@
     <Phone3>(303)916-6208</Phone3>
     <Email3>akilkenny@scu.edu</Email3>
     <Major3>Bioengineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
@@ -560,7 +485,7 @@
     <Location>Learning Commons 129, Viewing and Taping A</Location>
     <Category>Bioengineering</Category>
     <EngineeringSeniors>3</EngineeringSeniors>
-    <EstimatedBudget>$1,500 </EstimatedBudget>
+    <EstimatedBudget>$1,500.00</EstimatedBudget>
     <First1>Karan</First1>
     <Last1>Kapoor</Last1>
     <Phone1>(408)603-1451</Phone1>
@@ -569,36 +494,36 @@
     <First2>Cameron</First2>
     <Last2>Chu</Last2>
     <Major2>Bioengineering</Major2>
-    <Phone2/>
+    <Phone2></Phone2>
     <Email2>cchu@scu.edu</Email2>
     <First3>Sandeep</First3>
     <Last3>Adem</Last3>
     <Phone3>(408)892-4170</Phone3>
     <Email3>sadem@scu.edu</Email3>
     <Major3>Bioengineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
     <BringingOwnLaptop>PC</BringingOwnLaptop>
     <MacModel>Toshiba 2010</MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Jonathan Zhang</Faculty1>
     <FacultyDept1>Bioengineering</FacultyDept1>
     <Faculty2>Rajeev Kelkar</Faculty2>
@@ -629,21 +554,21 @@
     <Phone3>(970)231-3419</Phone3>
     <Email3>mmcnaul@scu.edu</Email3>
     <Major3>Bioengineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
@@ -651,11 +576,11 @@
     <MacModel>Macbook Pro Retina 2014</MacModel>
     <Showcasing>No</Showcasing>
     <ShowcasingNeeds>Table,Power,PC Laptop,MAC Laptop</ShowcasingNeeds>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Ashley Kim</Faculty1>
     <FacultyDept1>Bioengineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/4/15 12:18</DateSubmitted>
   </team>
   <team>
@@ -666,7 +591,7 @@
     <Location>Bannan Engineering 105</Location>
     <Category>Civil Engineering</Category>
     <EngineeringSeniors>3</EngineeringSeniors>
-    <EstimatedBudget>$8,812 </EstimatedBudget>
+    <EstimatedBudget>$8,812.00</EstimatedBudget>
     <First1>Amanda</First1>
     <Last1>Laufer</Last1>
     <Phone1>(916)494-3413</Phone1>
@@ -682,21 +607,21 @@
     <Phone3>(925)451-0159</Phone3>
     <Email3>adecosta@scu.edu</Email3>
     <Major3>Civil Engineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
@@ -707,8 +632,8 @@
     <ShowcasingSpaceRequired>5x5</ShowcasingSpaceRequired>
     <Faculty1>Mark Aschheim</Faculty1>
     <FacultyDept1>Civil Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>1/9/15 16:58</DateSubmitted>
   </team>
   <team>
@@ -719,7 +644,7 @@
     <Location>Bannan Engineering 105</Location>
     <Category>Civil Engineering</Category>
     <EngineeringSeniors>2</EngineeringSeniors>
-    <EstimatedBudget>$4,000 </EstimatedBudget>
+    <EstimatedBudget>$4,000.00</EstimatedBudget>
     <First1>Jonathan</First1>
     <Last1>Tadros</Last1>
     <Phone1>(925)658-2672</Phone1>
@@ -730,33 +655,33 @@
     <Major2>Civil Engineering</Major2>
     <Phone2>(760)650-5788</Phone2>
     <Email2>goneill@scu.edu</Email2>
-    <First3/>
-    <Last3/>
-    <Phone3/>
-    <Email3/>
-    <Major3/>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First3></First3>
+    <Last3></Last3>
+    <Phone3></Phone3>
+    <Email3></Email3>
+    <Major3></Major3>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
-    <BringingOwnLaptop/>
-    <MacModel/>
+    <BringingOwnLaptop></BringingOwnLaptop>
+    <MacModel></MacModel>
     <Showcasing>Yes</Showcasing>
-    <ShowcasingNeeds/>
+    <ShowcasingNeeds></ShowcasingNeeds>
     <ShowcasingSpaceRequired>6'x4'</ShowcasingSpaceRequired>
     <Faculty1>Tonya Nilsson</Faculty1>
     <FacultyDept1>Civil Engineering</FacultyDept1>
@@ -772,7 +697,7 @@
     <Location>Bannan Engineering 105</Location>
     <Category>Civil Engineering</Category>
     <EngineeringSeniors>2</EngineeringSeniors>
-    <EstimatedBudget>$600 </EstimatedBudget>
+    <EstimatedBudget>$600.00</EstimatedBudget>
     <First1>Nick</First1>
     <Last1>Jensen</Last1>
     <Phone1>(650)391-8241</Phone1>
@@ -781,36 +706,36 @@
     <First2>Raquel</First2>
     <Last2>Avila</Last2>
     <Major2>Civil Engineering</Major2>
-    <Phone2/>
+    <Phone2></Phone2>
     <Email2>rlavila@scu.edu</Email2>
-    <First3/>
-    <Last3/>
-    <Phone3/>
-    <Email3/>
-    <Major3/>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First3></First3>
+    <Last3></Last3>
+    <Phone3></Phone3>
+    <Email3></Email3>
+    <Major3></Major3>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
-    <BringingOwnLaptop/>
-    <MacModel/>
+    <BringingOwnLaptop></BringingOwnLaptop>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Mark Aschheim</Faculty1>
     <FacultyDept1>Civil Engineering</FacultyDept1>
     <Faculty2>Tracy Abbott</Faculty2>
@@ -825,7 +750,7 @@
     <Location>Bannan Engineering 105</Location>
     <Category>Civil Engineering</Category>
     <EngineeringSeniors>2</EngineeringSeniors>
-    <EstimatedBudget>$1,300.00 </EstimatedBudget>
+    <EstimatedBudget>$1,300.00</EstimatedBudget>
     <First1>Andrew</First1>
     <Last1>Spencer</Last1>
     <Phone1>(510)342-6741</Phone1>
@@ -834,36 +759,36 @@
     <First2>Bryson</First2>
     <Last2>Kam</Last2>
     <Major2>Civil Engineering</Major2>
-    <Phone2/>
+    <Phone2></Phone2>
     <Email2>bkam@scu.edu</Email2>
-    <First3/>
-    <Last3/>
-    <Phone3/>
-    <Email3/>
-    <Major3/>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First3></First3>
+    <Last3></Last3>
+    <Phone3></Phone3>
+    <Email3></Email3>
+    <Major3></Major3>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
-    <BringingOwnLaptop/>
-    <MacModel/>
+    <BringingOwnLaptop></BringingOwnLaptop>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Tonya Nilsson</Faculty1>
     <FacultyDept1>Civil Engineering</FacultyDept1>
     <Faculty2>Mark Aschheim</Faculty2>
@@ -894,29 +819,29 @@
     <Phone3>(808)223-2604</Phone3>
     <Email3>jmatoi@scu.edu</Email3>
     <Major3>Civil Engineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
-    <BringingOwnLaptop/>
-    <MacModel/>
+    <BringingOwnLaptop></BringingOwnLaptop>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Hisham Said</Faculty1>
     <FacultyDept1>Civil Engineering</FacultyDept1>
     <Faculty2>Tracy Abbott</Faculty2>
@@ -931,7 +856,7 @@
     <Location>Bannan Engineering 325</Location>
     <Category>Civil Engineering</Category>
     <EngineeringSeniors>3</EngineeringSeniors>
-    <EstimatedBudget>$0.00 </EstimatedBudget>
+    <EstimatedBudget>$0.00</EstimatedBudget>
     <First1>Chris</First1>
     <Last1>Banaga</Last1>
     <Phone1>(858)208-6683</Phone1>
@@ -947,29 +872,29 @@
     <Phone3>(650)454-0726</Phone3>
     <Email3>kdelossantos@scu.edu</Email3>
     <Major3>Civil Engineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>Yes</SoftwareRequired>
-    <BringingOwnLaptop/>
-    <MacModel/>
+    <BringingOwnLaptop></BringingOwnLaptop>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Hisham Said</Faculty1>
     <FacultyDept1>Civil Engineering</FacultyDept1>
     <Faculty2>Tracy Abbott</Faculty2>
@@ -1000,33 +925,33 @@
     <Phone3>(707)363-0444</Phone3>
     <Email3>wsmithers@scu.edu</Email3>
     <Major3>Civil Engineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
     <BringingOwnLaptop>PC</BringingOwnLaptop>
-    <MacModel/>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Reynaud Serrette</Faculty1>
     <FacultyDept1>Civil Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/3/15 14:15</DateSubmitted>
   </team>
   <team>
@@ -1037,7 +962,7 @@
     <Location>Bannan Engineering 325</Location>
     <Category>Civil Engineering</Category>
     <EngineeringSeniors>2</EngineeringSeniors>
-    <EstimatedBudget>$400 </EstimatedBudget>
+    <EstimatedBudget>$400.00</EstimatedBudget>
     <First1>Isaac</First1>
     <Last1>Raven</Last1>
     <Phone1>(559)999-5872</Phone1>
@@ -1048,34 +973,34 @@
     <Major2>Civil Engineering</Major2>
     <Phone2>(408)518-2479</Phone2>
     <Email2>anon@scu.edu</Email2>
-    <First3/>
-    <Last3/>
-    <Phone3/>
-    <Email3/>
-    <Major3/>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First3></First3>
+    <Last3></Last3>
+    <Phone3></Phone3>
+    <Email3></Email3>
+    <Major3></Major3>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
     <BringingOwnLaptop>Mac</BringingOwnLaptop>
     <MacModel>2011 MacBook Pro</MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Tracy Abbott</Faculty1>
     <FacultyDept1>Civil Engineering</FacultyDept1>
     <Faculty2>Hisham Said</Faculty2>
@@ -1106,33 +1031,33 @@
     <Phone3>(918)521-3608</Phone3>
     <Email3>j4miller@scu.edu</Email3>
     <Major3>Civil Engineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>Other</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
-    <BringingOwnLaptop/>
-    <MacModel/>
+    <BringingOwnLaptop></BringingOwnLaptop>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
     <ShowcasingNeeds>Table</ShowcasingNeeds>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Steven Chiesa</Faculty1>
     <FacultyDept1>Civil Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>1/28/15 18:00</DateSubmitted>
   </team>
   <team>
@@ -1154,34 +1079,34 @@
     <Major2>Civil Engineering</Major2>
     <Phone2>(408)813-7833</Phone2>
     <Email2>kwilley@scu.edu</Email2>
-    <First3/>
-    <Last3/>
-    <Phone3/>
-    <Email3/>
-    <Major3/>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First3></First3>
+    <Last3></Last3>
+    <Phone3></Phone3>
+    <Email3></Email3>
+    <Major3></Major3>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>(1) more slide advancer</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
-    <BringingOwnLaptop/>
-    <MacModel/>
+    <BringingOwnLaptop></BringingOwnLaptop>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Rachel He</Faculty1>
     <FacultyDept1>Civil Engineering</FacultyDept1>
     <Faculty2>Steven Chiesa</Faculty2>
@@ -1207,38 +1132,38 @@
     <Major2>Civil Engineering</Major2>
     <Phone2>(408)396-8462</Phone2>
     <Email2>ndeen@scu.edu</Email2>
-    <First3/>
-    <Last3/>
-    <Phone3/>
-    <Email3/>
-    <Major3/>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First3></First3>
+    <Last3></Last3>
+    <Phone3></Phone3>
+    <Email3></Email3>
+    <Major3></Major3>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>Easel</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
     <BringingOwnLaptop>PC</BringingOwnLaptop>
-    <MacModel/>
+    <MacModel></MacModel>
     <Showcasing>Yes</Showcasing>
     <ShowcasingNeeds>Table</ShowcasingNeeds>
     <ShowcasingSpaceRequired>4 ft. x 5 ft.</ShowcasingSpaceRequired>
     <Faculty1>Rachel He</Faculty1>
     <FacultyDept1>Civil Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>1/27/15 13:02</DateSubmitted>
   </team>
   <team>
@@ -1265,33 +1190,33 @@
     <Phone3>(209)603-3711</Phone3>
     <Email3>cjyoung@scu.edu</Email3>
     <Major3>Civil Engineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
     <BringingOwnLaptop>PC</BringingOwnLaptop>
-    <MacModel/>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Sukhmander Singh</Faculty1>
     <FacultyDept1>Civil Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>1/13/15 16:16</DateSubmitted>
   </team>
   <team>
@@ -1318,26 +1243,26 @@
     <Phone3>(925)200-7384</Phone3>
     <Email3>nroby@scu.edu</Email3>
     <Major3>Civil Engineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
     <BringingOwnLaptop>PC</BringingOwnLaptop>
-    <MacModel/>
+    <MacModel></MacModel>
     <Showcasing>Yes</Showcasing>
     <ShowcasingNeeds>Table,Power,PC Laptop</ShowcasingNeeds>
     <ShowcasingSpaceRequired>Not sure if we will not to showcase our project (little space: just a table)</ShowcasingSpaceRequired>
@@ -1361,43 +1286,43 @@
     <Phone1>(408)722-7838</Phone1>
     <Email1>Stcameron@scu.edu</Email1>
     <Major1>Civil Engineering</Major1>
-    <First2/>
-    <Last2/>
-    <Major2/>
-    <Phone2/>
-    <Email2/>
-    <First3/>
-    <Last3/>
-    <Phone3/>
-    <Email3/>
-    <Major3/>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First2></First2>
+    <Last2></Last2>
+    <Major2></Major2>
+    <Phone2></Phone2>
+    <Email2></Email2>
+    <First3></First3>
+    <Last3></Last3>
+    <Phone3></Phone3>
+    <Email3></Email3>
+    <Major3></Major3>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
     <BringingOwnLaptop>PC</BringingOwnLaptop>
     <MacModel>2013 Acer Aspire A15</MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Edwin Maurer</Faculty1>
     <FacultyDept1>Civil Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/5/15 15:28</DateSubmitted>
   </team>
   <team>
@@ -1405,10 +1330,10 @@
     <Description>iKure, a social benefits entrepreneurship, strives to provide affordable health care to people living in rural communities.  We are creating a mobile application that not only tracks the workers' locations through their android tablets, but also allows the administrator to access this information in real time.</Description>
     <Session>COEN 1</Session>
     <Time>2:15-2:45</Time>
-    <Location> Sullivan Engineering 604</Location>
+    <Location>Sullivan Engineering 604</Location>
     <Category>Computer Engineering</Category>
     <EngineeringSeniors>3</EngineeringSeniors>
-    <EstimatedBudget>$500 </EstimatedBudget>
+    <EstimatedBudget>$500.00</EstimatedBudget>
     <First1>Mason</First1>
     <Last1>Maeshiro</Last1>
     <Phone1>(808)721-5359</Phone1>
@@ -1424,33 +1349,33 @@
     <Phone3>(408)621-8465</Phone3>
     <Email3>asingh5@scu.edu</Email3>
     <Major3>Computer Science and Engineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>2nd LCD Projector</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
     <BringingOwnLaptop>Mac</BringingOwnLaptop>
     <MacModel>MacBook Pro Retina 2013</MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Silvia Figueira</Faculty1>
     <FacultyDept1>Computer Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/4/15 22:50</DateSubmitted>
   </team>
   <team>
@@ -1459,10 +1384,10 @@
 </Description>
     <Session>COEN 1</Session>
     <Time>2:50-3:20</Time>
-    <Location> Sullivan Engineering 604</Location>
+    <Location>Sullivan Engineering 604</Location>
     <Category>Computer Engineering</Category>
     <EngineeringSeniors>3</EngineeringSeniors>
-    <EstimatedBudget>$0 </EstimatedBudget>
+    <EstimatedBudget>$0.00</EstimatedBudget>
     <First1>Ann</First1>
     <Last1>Parden</Last1>
     <Phone1>(650)861-1399</Phone1>
@@ -1478,33 +1403,33 @@
     <Phone3>(408)650-2067</Phone3>
     <Email3>jsa@scu.edu</Email3>
     <Major3>Computer Science and Engineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>2 clickers</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
     <BringingOwnLaptop>Mac</BringingOwnLaptop>
-    <MacModel/>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Silvia Figueira</Faculty1>
     <FacultyDept1>Computer Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>1/19/15 23:27</DateSubmitted>
   </team>
   <team>
@@ -1512,10 +1437,10 @@
     <Description>The British Airways-sponsored Beacon Pack is a solar powered, data repository that stores educational and world news content acessible through SMS text. This product will provide millions of individuals in developing countries, who have low-level cellular devices, with informational content.</Description>
     <Session>COEN 1</Session>
     <Time>3:25-3:55</Time>
-    <Location> Sullivan Engineering 604</Location>
+    <Location>Sullivan Engineering 604</Location>
     <Category>Computer Engineering</Category>
     <EngineeringSeniors>3</EngineeringSeniors>
-    <EstimatedBudget>$5,000 </EstimatedBudget>
+    <EstimatedBudget>$5,000.00</EstimatedBudget>
     <First1>James</First1>
     <Last1>Mack</Last1>
     <Phone1>(631)721-7435</Phone1>
@@ -1531,33 +1456,33 @@
     <Phone3>(650)740-1804</Phone3>
     <Email3>abarbari@scu.edu</Email3>
     <Major3>Computer Science and Engineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
     <BringingOwnLaptop>Mac</BringingOwnLaptop>
     <MacModel>2013 Macbook Air</MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Silvia Figuiera</Faculty1>
     <FacultyDept1>Computer Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/4/15 17:53</DateSubmitted>
   </team>
   <team>
@@ -1565,7 +1490,7 @@
     <Description>Wakabi is an SMS-based application designed to streamline the ride-sharing process currently existing in rural Uganda. The system allows individuals to connect with hired motorcyclists (Boda drivers) by texting a single number. Wakabi will deliver more business to Boda drivers and provide Uganda with a unified, simple, on-demand transportation solution.</Description>
     <Session>COEN 1</Session>
     <Time>4:05-4:30</Time>
-    <Location> Sullivan Engineering 604</Location>
+    <Location>Sullivan Engineering 604</Location>
     <Category>Computer Engineering</Category>
     <EngineeringSeniors>2</EngineeringSeniors>
     <EstimatedBudget>0</EstimatedBudget>
@@ -1579,38 +1504,38 @@
     <Major2>Computer Science and Engineering</Major2>
     <Phone2>(808)398-5332</Phone2>
     <Email2>blarsen@scu.edu</Email2>
-    <First3/>
-    <Last3/>
-    <Phone3/>
-    <Email3/>
-    <Major3/>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First3></First3>
+    <Last3></Last3>
+    <Phone3></Phone3>
+    <Email3></Email3>
+    <Major3></Major3>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
     <BringingOwnLaptop>Mac</BringingOwnLaptop>
     <MacModel>MacBook Air Late 2010</MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Silvia Figueira</Faculty1>
     <FacultyDept1>Computer Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/1/15 15:16</DateSubmitted>
   </team>
   <team>
@@ -1618,10 +1543,10 @@
     <Description>Sankara Eye Records is a mobile application created for Sankara Eye, an Indian social enterprise that provides eye care services in India. Our mobile application will make the process of creating and editing schoolchildren's eye health records quick and efficient for Sankara Eye screeners.</Description>
     <Session>COEN 1</Session>
     <Time>4:40-5:05</Time>
-    <Location> Sullivan Engineering 604</Location>
+    <Location>Sullivan Engineering 604</Location>
     <Category>Computer Engineering</Category>
     <EngineeringSeniors>2</EngineeringSeniors>
-    <EstimatedBudget>$0.00 </EstimatedBudget>
+    <EstimatedBudget>$0.00</EstimatedBudget>
     <First1>Francis Joseph</First1>
     <Last1>Cuenca</Last1>
     <Phone1>(650)892-2554</Phone1>
@@ -1632,38 +1557,38 @@
     <Major2>Computer Science and Engineering</Major2>
     <Phone2>(408)728-2767</Phone2>
     <Email2>antruong@scu.edu</Email2>
-    <First3/>
-    <Last3/>
-    <Phone3/>
-    <Email3/>
-    <Major3/>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First3></First3>
+    <Last3></Last3>
+    <Phone3></Phone3>
+    <Email3></Email3>
+    <Major3></Major3>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
     <BringingOwnLaptop>PC</BringingOwnLaptop>
-    <MacModel/>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Silvia Figueira</Faculty1>
     <FacultyDept1>Computer and Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>1/12/15 18:05</DateSubmitted>
   </team>
   <team>
@@ -1671,7 +1596,7 @@
     <Description>DyLMA is a Dynamic Life Management Assistant developed for the Google Glass platform that integrates a user?s schedules and tasks to increase user efficiency. This is accomplished by managing events and activities to maximize productivity while, at the same time providing personalized suggestions in order to promote a balanced lifestyle.</Description>
     <Session>COEN 2</Session>
     <Time>2:15-2:45</Time>
-    <Location> Sullivan Engineering 602</Location>
+    <Location>Sullivan Engineering 602</Location>
     <Category>Computer Engineering</Category>
     <EngineeringSeniors>5</EngineeringSeniors>
     <EstimatedBudget>0</EstimatedBudget>
@@ -1700,11 +1625,11 @@
     <Phone5>(408)963-1200</Phone5>
     <Email5>dmorabarajas@scu.edu</Email5>
     <Major5>Computer Science and Engineering</Major5>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>slide advancer, iPhone lightning to hdmi, male to female hdmi adapter</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
@@ -1715,8 +1640,8 @@
     <ShowcasingSpaceRequired>6ftx6ft</ShowcasingSpaceRequired>
     <Faculty1>Maria Pantoja</Faculty1>
     <FacultyDept1>Computer Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/3/15 19:23</DateSubmitted>
   </team>
   <team>
@@ -1724,10 +1649,10 @@
     <Description>This library will take in images of people's faces and output points that represent the contour of the lips in each image. Additionally, it will make use of a CUDA-enabled GPU if there is one available. This would be used for a language-learning application.</Description>
     <Session>COEN 2</Session>
     <Time>2:50-3:15</Time>
-    <Location> Sullivan Engineering 602</Location>
+    <Location>Sullivan Engineering 602</Location>
     <Category>Computer Engineering</Category>
     <EngineeringSeniors>2</EngineeringSeniors>
-    <EstimatedBudget>$0 </EstimatedBudget>
+    <EstimatedBudget>$0.00</EstimatedBudget>
     <First1>Alex</First1>
     <Last1>DeBoni</Last1>
     <Phone1>(510)386-7270</Phone1>
@@ -1738,26 +1663,26 @@
     <Major2>Computer Science and Engineering</Major2>
     <Phone2>(510)928-0055</Phone2>
     <Email2>jhharder@scu.edu</Email2>
-    <First3/>
-    <Last3/>
-    <Phone3/>
-    <Email3/>
-    <Major3/>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First3></First3>
+    <Last3></Last3>
+    <Phone3></Phone3>
+    <Email3></Email3>
+    <Major3></Major3>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
@@ -1768,8 +1693,8 @@
     <ShowcasingSpaceRequired>2 ft x 5 ft</ShowcasingSpaceRequired>
     <Faculty1>Maria Pantoja</Faculty1>
     <FacultyDept1>Computer Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>1/15/15 17:27</DateSubmitted>
   </team>
   <team>
@@ -1777,10 +1702,10 @@
     <Description>For our project we are developing a system that employs virtual reality as a tool for therapists to treat various anxiety disorders such as phobias using exposure therapy. We will be developing a small library of simulations corresponding to the most prevalent phobias in our society.</Description>
     <Session>COEN 2</Session>
     <Time>3:25-3:50</Time>
-    <Location> Sullivan Engineering 602</Location>
+    <Location>Sullivan Engineering 602</Location>
     <Category>Computer Engineering</Category>
     <EngineeringSeniors>2</EngineeringSeniors>
-    <EstimatedBudget>$926 </EstimatedBudget>
+    <EstimatedBudget>$926.00</EstimatedBudget>
     <First1>Bryce</First1>
     <Last1>Mariano</Last1>
     <Phone1>(480)421-8355</Phone1>
@@ -1791,38 +1716,38 @@
     <Major2>Computer Science and Engineering</Major2>
     <Phone2>(925)895-2430</Phone2>
     <Email2>paul.thurston22@gmail.com</Email2>
-    <First3/>
-    <Last3/>
-    <Phone3/>
-    <Email3/>
-    <Major3/>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First3></First3>
+    <Last3></Last3>
+    <Phone3></Phone3>
+    <Email3></Email3>
+    <Major3></Major3>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
     <BringingOwnLaptop>PC</BringingOwnLaptop>
-    <MacModel/>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Maria Pantoja</Faculty1>
     <FacultyDept1>Computer Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/3/15 17:53</DateSubmitted>
   </team>
   <team>
@@ -1830,52 +1755,52 @@
     <Description>This project produces a full 3D model of SCU campus made explorable by the UDK and made 3D by the Oculus Rift.</Description>
     <Session>COEN 2</Session>
     <Time>4:05-4:30</Time>
-    <Location> Sullivan Engineering 602</Location>
+    <Location>Sullivan Engineering 602</Location>
     <Category>Computer Engineering</Category>
     <EngineeringSeniors>1</EngineeringSeniors>
-    <EstimatedBudget>$500 </EstimatedBudget>
+    <EstimatedBudget>$500.00</EstimatedBudget>
     <First1>Benjamin</First1>
     <Last1>Giglione</Last1>
     <Phone1>(818)614-6243</Phone1>
     <Email1>bgiglione@scu.edu</Email1>
     <Major1>Computer Science and Engineering</Major1>
-    <First2/>
-    <Last2/>
-    <Major2/>
-    <Phone2/>
-    <Email2/>
-    <First3/>
-    <Last3/>
-    <Phone3/>
-    <Email3/>
-    <Major3/>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First2></First2>
+    <Last2></Last2>
+    <Major2></Major2>
+    <Phone2></Phone2>
+    <Email2></Email2>
+    <First3></First3>
+    <Last3></Last3>
+    <Phone3></Phone3>
+    <Email3></Email3>
+    <Major3></Major3>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Mac</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>Yes</SoftwareRequired>
     <BringingOwnLaptop>PC</BringingOwnLaptop>
-    <MacModel/>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
     <ShowcasingNeeds>MAC Laptop</ShowcasingNeeds>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Maria Pantoja</Faculty1>
     <FacultyDept1>Computer Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/4/15 18:54</DateSubmitted>
   </team>
   <team>
@@ -1886,7 +1811,7 @@
     <Location>Sullivan Engineering 618</Location>
     <Category>Computer Engineering</Category>
     <EngineeringSeniors>3</EngineeringSeniors>
-    <EstimatedBudget>$400 </EstimatedBudget>
+    <EstimatedBudget>$400.00</EstimatedBudget>
     <First1>Zachary</First1>
     <Last1>Wilson</Last1>
     <Phone1>(805)354-3715</Phone1>
@@ -1902,21 +1827,21 @@
     <Phone3>(650)862-2402</Phone3>
     <Email3>kbigler@scu.edu</Email3>
     <Major3>Computer Science and Engineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>2nd LCD Projector</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
@@ -1927,8 +1852,8 @@
     <ShowcasingSpaceRequired>4x6</ShowcasingSpaceRequired>
     <Faculty1>Katerina Potika</Faculty1>
     <FacultyDept1>Computer Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/4/15 0:24</DateSubmitted>
   </team>
   <team>
@@ -1950,38 +1875,38 @@
     <Major2>Computer Science and Engineering</Major2>
     <Phone2>(206)330-5975</Phone2>
     <Email2>ewchang@scu.edu</Email2>
-    <First3/>
-    <Last3/>
-    <Phone3/>
-    <Email3/>
-    <Major3/>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First3></First3>
+    <Last3></Last3>
+    <Phone3></Phone3>
+    <Email3></Email3>
+    <Major3></Major3>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
     <BringingOwnLaptop>Mac</BringingOwnLaptop>
     <MacModel>2015</MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Yi Fang</Faculty1>
     <FacultyDept1>Computer Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/2/15 16:43</DateSubmitted>
   </team>
   <team>
@@ -2008,33 +1933,33 @@
     <Phone3>(818)261-0631</Phone3>
     <Email3>adeartola@scu.edu</Email3>
     <Major3>Web Design and Engineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>2nd LCD Projector, Lightning to HDMI</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Mac</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
     <BringingOwnLaptop>Mac</BringingOwnLaptop>
     <MacModel>Mini display port to HDMI/VGA</MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Yi Fang</Faculty1>
     <FacultyDept1>Computer Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>1/27/15 10:08</DateSubmitted>
   </team>
   <team>
@@ -2056,38 +1981,38 @@
     <Major2>Computer Science and Engineering</Major2>
     <Phone2>(503)867-6118</Phone2>
     <Email2>rsullivan@scu.edu</Email2>
-    <First3/>
-    <Last3/>
-    <Phone3/>
-    <Email3/>
-    <Major3/>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First3></First3>
+    <Last3></Last3>
+    <Phone3></Phone3>
+    <Email3></Email3>
+    <Major3></Major3>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
     <BringingOwnLaptop>PC</BringingOwnLaptop>
-    <MacModel/>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Yi Fang</Faculty1>
     <FacultyDept1>Computer Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/2/15 13:46</DateSubmitted>
   </team>
   <team>
@@ -2104,43 +2029,43 @@
     <Phone1>(650)949-3593</Phone1>
     <Email1>jbliss@scu.edu</Email1>
     <Major1>Computer Science and Engineering</Major1>
-    <First2/>
-    <Last2/>
-    <Major2/>
-    <Phone2/>
-    <Email2/>
-    <First3/>
-    <Last3/>
-    <Phone3/>
-    <Email3/>
-    <Major3/>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First2></First2>
+    <Last2></Last2>
+    <Major2></Major2>
+    <Phone2></Phone2>
+    <Email2></Email2>
+    <First3></First3>
+    <Last3></Last3>
+    <Phone3></Phone3>
+    <Email3></Email3>
+    <Major3></Major3>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
-    <BringingOwnLaptop/>
-    <MacModel/>
+    <BringingOwnLaptop></BringingOwnLaptop>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Rani Mikkilineni</Faculty1>
     <FacultyDept1>Computer Science and Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/4/15 20:04</DateSubmitted>
   </team>
   <team>
@@ -2148,10 +2073,10 @@
     <Description>A web-based application that allows girls ages 5-8 to create and customize their own doll or avatar and unlock new accessories by successfully completing challenges using Blockly, a visual coding editor.</Description>
     <Session>COEN 4</Session>
     <Time>2:15-2:45</Time>
-    <Location> Sullivan Engineering 605</Location>
+    <Location>Sullivan Engineering 605</Location>
     <Category>Computer Engineering</Category>
     <EngineeringSeniors>3</EngineeringSeniors>
-    <EstimatedBudget>$0 </EstimatedBudget>
+    <EstimatedBudget>$0.00</EstimatedBudget>
     <First1>Paige</First1>
     <Last1>Rogalski</Last1>
     <Phone1>(630)621-7710</Phone1>
@@ -2167,21 +2092,21 @@
     <Phone3>(510)776-3734</Phone3>
     <Email3>tacosta@scu.edu</Email3>
     <Major3>Computer Science and Engineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
@@ -2192,8 +2117,8 @@
     <ShowcasingSpaceRequired>4ft x 3ft</ShowcasingSpaceRequired>
     <Faculty1>Darren Atkinson</Faculty1>
     <FacultyDept1>Computer Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>1/9/15 15:41</DateSubmitted>
   </team>
   <team>
@@ -2201,7 +2126,7 @@
     <Description>Bookster is a mobile application, built for both iOS and Android, that acts as a local selling platform for college textbooks. The hybrid application is powered by the Adobe Phonegap. Users can post books to sell and view books for sale based on their geolocation.</Description>
     <Session>COEN 4</Session>
     <Time>2:50-3:15</Time>
-    <Location> Sullivan Engineering 605</Location>
+    <Location>Sullivan Engineering 605</Location>
     <Category>Computer Engineering</Category>
     <EngineeringSeniors>2</EngineeringSeniors>
     <EstimatedBudget>0</EstimatedBudget>
@@ -2215,26 +2140,26 @@
     <Major2>Web Design and Engineering</Major2>
     <Phone2>(408)691-6542</Phone2>
     <Email2>kalwyn@scu.edu</Email2>
-    <First3/>
-    <Last3/>
-    <Phone3/>
-    <Email3/>
-    <Major3/>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First3></First3>
+    <Last3></Last3>
+    <Phone3></Phone3>
+    <Email3></Email3>
+    <Major3></Major3>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
@@ -2245,8 +2170,8 @@
     <ShowcasingSpaceRequired>4 ft x 3 ft</ShowcasingSpaceRequired>
     <Faculty1>Dan Lewis</Faculty1>
     <FacultyDept1>Computer Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/4/15 18:12</DateSubmitted>
   </team>
   <team>
@@ -2254,10 +2179,10 @@
     <Description>Our device allows doctors to remotely screen patients for cardiovascular arrhythmias by sending them ECG data via text message.  Additionally, our device was built with mostly open sourced electronic components and our software will be made open source to encourage future development efforts.</Description>
     <Session>COEN 4</Session>
     <Time>3:25-3:50</Time>
-    <Location> Sullivan Engineering 605</Location>
+    <Location>Sullivan Engineering 605</Location>
     <Category>Computer Engineering</Category>
     <EngineeringSeniors>2</EngineeringSeniors>
-    <EstimatedBudget>$700 </EstimatedBudget>
+    <EstimatedBudget>$700.00</EstimatedBudget>
     <First1>J.P.</First1>
     <Last1>Ertola</Last1>
     <Phone1>(650)465-0205</Phone1>
@@ -2268,26 +2193,26 @@
     <Major2>Computer Science and Engineering</Major2>
     <Phone2>(619)865-1526</Phone2>
     <Email2>mpwhalen@scu.edu</Email2>
-    <First3/>
-    <Last3/>
-    <Phone3/>
-    <Email3/>
-    <Major3/>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First3></First3>
+    <Last3></Last3>
+    <Phone3></Phone3>
+    <Email3></Email3>
+    <Major3></Major3>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
@@ -2298,8 +2223,8 @@
     <ShowcasingSpaceRequired>5ft x 5ft</ShowcasingSpaceRequired>
     <Faculty1>Dan Lewis</Faculty1>
     <FacultyDept1>Computer Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/2/15 20:57</DateSubmitted>
   </team>
   <team>
@@ -2307,10 +2232,10 @@
     <Description>WeJ (we-jay) is a mobile web application that provides users with the ability to collaboratively create music playlists and listen to them with each other in real time. Our goal is to bring people together through the power of music.</Description>
     <Session>COEN 4</Session>
     <Time>4:05-4:35</Time>
-    <Location> Sullivan Engineering 605</Location>
+    <Location>Sullivan Engineering 605</Location>
     <Category>Computer Engineering</Category>
     <EngineeringSeniors>4</EngineeringSeniors>
-    <EstimatedBudget>$150 </EstimatedBudget>
+    <EstimatedBudget>$150.00</EstimatedBudget>
     <First1>Nicholas</First1>
     <Last1>Fong</Last1>
     <Phone1>(925)818-3967</Phone1>
@@ -2331,16 +2256,16 @@
     <Phone4>(425)802-9905</Phone4>
     <Email4>mklum@scu.edu</Email4>
     <Major4>Web Design and Engineering</Major4>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>Lightning Digital AV Adapter</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
@@ -2351,8 +2276,8 @@
     <ShowcasingSpaceRequired>6 ft. x 3 ft.</ShowcasingSpaceRequired>
     <Faculty1>Ahmed Amer</Faculty1>
     <FacultyDept1>Computer Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/3/15 14:31</DateSubmitted>
   </team>
   <team>
@@ -2363,7 +2288,7 @@
     <Location>Learning Commons, Training and Instruction 205</Location>
     <Category>Electrical Engineering</Category>
     <EngineeringSeniors>3</EngineeringSeniors>
-    <EstimatedBudget>$500 </EstimatedBudget>
+    <EstimatedBudget>$500.00</EstimatedBudget>
     <First1>Sam</First1>
     <Last1>Billett</Last1>
     <Phone1>(206)819-3975</Phone1>
@@ -2379,33 +2304,33 @@
     <Phone3>(650)576-4421</Phone3>
     <Email3>mallen1@scu.edu</Email3>
     <Major3>Electrical Engineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
     <BringingOwnLaptop>PC</BringingOwnLaptop>
-    <MacModel/>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Maryam Khanbaghi</Faculty1>
     <FacultyDept1>Electrical Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/4/15 22:39</DateSubmitted>
   </team>
   <team>
@@ -2427,38 +2352,38 @@
     <Major2>Electrical Engineering</Major2>
     <Phone2>(732)861-6750</Phone2>
     <Email2>Proguski@scu.edu</Email2>
-    <First3/>
-    <Last3/>
-    <Phone3/>
-    <Email3/>
-    <Major3/>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First3></First3>
+    <Last3></Last3>
+    <Phone3></Phone3>
+    <Email3></Email3>
+    <Major3></Major3>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
     <BringingOwnLaptop>PC</BringingOwnLaptop>
-    <MacModel/>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Maryam Khanbaghi</Faculty1>
     <FacultyDept1>Electrical Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/4/15 18:07</DateSubmitted>
   </team>
   <team>
@@ -2475,96 +2400,96 @@
     <Phone1>(408)510-9148</Phone1>
     <Email1>jstan@scu.edu</Email1>
     <Major1>Electrical Engineering</Major1>
-    <First2/>
-    <Last2/>
-    <Major2/>
-    <Phone2/>
-    <Email2/>
-    <First3/>
-    <Last3/>
-    <Phone3/>
-    <Email3/>
-    <Major3/>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First2></First2>
+    <Last2></Last2>
+    <Major2></Major2>
+    <Phone2></Phone2>
+    <Email2></Email2>
+    <First3></First3>
+    <Last3></Last3>
+    <Phone3></Phone3>
+    <Email3></Email3>
+    <Major3></Major3>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
-    <BringingOwnLaptop/>
-    <MacModel/>
+    <BringingOwnLaptop></BringingOwnLaptop>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Radhika Grover</Faculty1>
     <FacultyDept1>Electrical Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/4/15 21:27</DateSubmitted>
   </team>
   <team>
     <Title>Electric Vibraphone</Title>
     <Description>In this project, I will design and build a system to capture the sound of a vibraphone and use digital filtering to alter the output sound.</Description>
     <Session>ELEN 1</Session>
-    <Time>4:05-4:25 </Time>
+    <Time>4:05-4:25</Time>
     <Location>Learning Commons, Training and Instruction 205</Location>
     <Category>Electrical Engineering</Category>
     <EngineeringSeniors>1</EngineeringSeniors>
-    <EstimatedBudget>$3,000 </EstimatedBudget>
+    <EstimatedBudget>$3,000.00</EstimatedBudget>
     <First1>Benjamin</First1>
     <Last1>Thong</Last1>
     <Phone1>(609)651-7160</Phone1>
     <Email1>bthong@scu.edu</Email1>
     <Major1>Electrical Engineering</Major1>
-    <First2/>
-    <Last2/>
-    <Major2/>
-    <Phone2/>
-    <Email2/>
-    <First3/>
-    <Last3/>
-    <Phone3/>
-    <Email3/>
-    <Major3/>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First2></First2>
+    <Last2></Last2>
+    <Major2></Major2>
+    <Phone2></Phone2>
+    <Email2></Email2>
+    <First3></First3>
+    <Last3></Last3>
+    <Phone3></Phone3>
+    <Email3></Email3>
+    <Major3></Major3>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
     <BringingOwnLaptop>PC</BringingOwnLaptop>
-    <MacModel/>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Katie Wilson</Faculty1>
     <FacultyDept1>Electrical Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/17/15 12:01</DateSubmitted>
   </team>
   <team>
@@ -2575,7 +2500,7 @@
     <Location>Bannan Engineering 326</Location>
     <Category>Interdisciplinary</Category>
     <EngineeringSeniors>3</EngineeringSeniors>
-    <EstimatedBudget>$2,000 </EstimatedBudget>
+    <EstimatedBudget>$2,000.00</EstimatedBudget>
     <First1>Christopher</First1>
     <Last1>Millsap</Last1>
     <Phone1>(303)881-1888</Phone1>
@@ -2591,21 +2516,21 @@
     <Phone3>(408)368-4024</Phone3>
     <Email3>fhayat@scu.edu</Email3>
     <Major3>Computer Science and Engineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
@@ -2641,31 +2566,31 @@
     <Email2>cdmadrigal@gmail.com</Email2>
     <First3>Jiachi</First3>
     <Last3>Zhang</Last3>
-    <Phone3/>
+    <Phone3></Phone3>
     <Email3>zhanng5@scu.edu</Email3>
     <Major3>Electrical Engineering</Major3>
     <First4>Nick</First4>
     <Last4>Peacock</Last4>
-    <Phone4/>
+    <Phone4></Phone4>
     <Email4>npeacock@scu.edu</Email4>
     <Major4>Computer Science and Engineering, Mechanical Engineering</Major4>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
     <BringingOwnLaptop>Mac</BringingOwnLaptop>
     <MacModel>2011</MacModel>
     <Showcasing>Yes</Showcasing>
-    <ShowcasingNeeds/>
+    <ShowcasingNeeds></ShowcasingNeeds>
     <ShowcasingSpaceRequired>10x10</ShowcasingSpaceRequired>
     <Faculty1>Christopher Kitts</Faculty1>
     <FacultyDept1>Mechanical Engineering</FacultyDept1>
@@ -2681,7 +2606,7 @@
     <Location>Bannan Engineering 326</Location>
     <Category>Interdisciplinary</Category>
     <EngineeringSeniors>6</EngineeringSeniors>
-    <EstimatedBudget>$8,000 </EstimatedBudget>
+    <EstimatedBudget>$8,000.00</EstimatedBudget>
     <First1>Phillip</First1>
     <Last1>Coyle</Last1>
     <Phone1>(530)400-8350</Phone1>
@@ -2716,14 +2641,14 @@
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
     <BringingOwnLaptop>PC</BringingOwnLaptop>
-    <MacModel/>
+    <MacModel></MacModel>
     <Showcasing>Yes</Showcasing>
     <ShowcasingNeeds>Table,Power,PC Laptop</ShowcasingNeeds>
     <ShowcasingSpaceRequired>5ft. x 10ft.</ShowcasingSpaceRequired>
     <Faculty1>Christopher Kitts</Faculty1>
     <FacultyDept1>Mechanical Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>1/12/15 9:45</DateSubmitted>
   </team>
   <team>
@@ -2743,40 +2668,40 @@
     <First2>Alex</First2>
     <Last2>Hildebrand</Last2>
     <Major2>Mechanical Engineering</Major2>
-    <Phone2/>
+    <Phone2></Phone2>
     <Email2>ahildebrand@scu.edu</Email2>
     <First3>Andy</First3>
     <Last3>Giang</Last3>
-    <Phone3/>
+    <Phone3></Phone3>
     <Email3>agiang@scu.edu</Email3>
     <Major3>Mechanical Engineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
-    <BringingOwnLaptop/>
-    <MacModel/>
+    <BringingOwnLaptop></BringingOwnLaptop>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Shoba Krishnan</Faculty1>
     <FacultyDept1>Electrical Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>1/31/15 19:04</DateSubmitted>
   </team>
   <team>
@@ -2787,7 +2712,7 @@
     <Location>Bannan Engineering Labs, Frugal Innovation Lab</Location>
     <Category>Interdisciplinary</Category>
     <EngineeringSeniors>4</EngineeringSeniors>
-    <EstimatedBudget>$2,500 </EstimatedBudget>
+    <EstimatedBudget>$2,500.00</EstimatedBudget>
     <First1>Abby</First1>
     <Last1>Grills</Last1>
     <Phone1>(303)887-6988</Phone1>
@@ -2808,16 +2733,16 @@
     <Phone4>(925)759-2381</Phone4>
     <Email4>jorourke@scu.edu</Email4>
     <Major4>Electrical Engineering</Major4>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>Slide advancer, we may need audio</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
@@ -2856,29 +2781,29 @@
     <Phone3>(303)720-6375</Phone3>
     <Email3>ashi@scu.edu</Email3>
     <Major3>Computer Science and Engineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
-    <BringingOwnLaptop/>
-    <MacModel/>
+    <BringingOwnLaptop></BringingOwnLaptop>
+    <MacModel></MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Prashanth Asuri</Faculty1>
     <FacultyDept1>Bioengineering</FacultyDept1>
     <Faculty2>Christopher Kitts</Faculty2>
@@ -2893,7 +2818,7 @@
     <Location>Bannan Engineering Labs, Frugal Innovation Lab</Location>
     <Category>Interdisciplinary</Category>
     <EngineeringSeniors>3</EngineeringSeniors>
-    <EstimatedBudget>$1,200 </EstimatedBudget>
+    <EstimatedBudget>$1,200.00</EstimatedBudget>
     <First1>Jasper</First1>
     <Last1>Tan</Last1>
     <Phone1>(408)821-5051</Phone1>
@@ -2909,21 +2834,21 @@
     <Phone3>(408)921-9713</Phone3>
     <Email3>bpyoung@scu.edu</Email3>
     <Major3>Electrical Engineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
@@ -2955,40 +2880,40 @@
     <First2>Joseph</First2>
     <Last2>Gaither</Last2>
     <Major2>Mechanical Engineering</Major2>
-    <Phone2/>
-    <Email2/>
+    <Phone2></Phone2>
+    <Email2></Email2>
     <First3>Matthew</First3>
     <Last3>Diaz</Last3>
-    <Phone3/>
-    <Email3/>
+    <Phone3></Phone3>
+    <Email3></Email3>
     <Major3>Mechanical Engineering</Major3>
     <First4>Brandon</First4>
     <Last4>Suehiro</Last4>
-    <Phone4/>
-    <Email4/>
+    <Phone4></Phone4>
+    <Email4></Email4>
     <Major4>Mechanical Engineering</Major4>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
-    <BringingOwnLaptop/>
-    <MacModel/>
+    <BringingOwnLaptop></BringingOwnLaptop>
+    <MacModel></MacModel>
     <Showcasing>Yes</Showcasing>
-    <ShowcasingNeeds/>
+    <ShowcasingNeeds></ShowcasingNeeds>
     <ShowcasingSpaceRequired>10 x 10</ShowcasingSpaceRequired>
     <Faculty1>Timothy Hight</Faculty1>
     <FacultyDept1>Mechanical Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>1/19/15 15:22</DateSubmitted>
   </team>
   <team>
@@ -2999,7 +2924,7 @@
     <Location>Benson Center, Parlor B</Location>
     <Category>Mechanical Engineering</Category>
     <EngineeringSeniors>3</EngineeringSeniors>
-    <EstimatedBudget>$250,000 </EstimatedBudget>
+    <EstimatedBudget>$250,000.00</EstimatedBudget>
     <First1>Piper</First1>
     <Last1>Connelley</Last1>
     <Phone1>(415)516-7620</Phone1>
@@ -3015,29 +2940,29 @@
     <Phone3>(909)694-6360</Phone3>
     <Email3>r.g.saavedra1@gmail.com</Email3>
     <Major3>Mechanical Engineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
     <BringingOwnLaptop>Mac</BringingOwnLaptop>
     <MacModel>2011 Macbook Pro</MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Timothy Hight</Faculty1>
     <FacultyDept1>Mechanical Engineering</FacultyDept1>
     <Faculty2>Christopher Kitts</Faculty2>
@@ -3052,7 +2977,7 @@
     <Location>Benson Center, Parlor B</Location>
     <Category>Mechanical Engineering</Category>
     <EngineeringSeniors>5</EngineeringSeniors>
-    <EstimatedBudget>$4,200 </EstimatedBudget>
+    <EstimatedBudget>$4,200.00</EstimatedBudget>
     <First1>C.J.</First1>
     <Last1>Toy</Last1>
     <Phone1>(408)314-7827</Phone1>
@@ -3078,18 +3003,18 @@
     <Phone5>(707)738-2117</Phone5>
     <Email5>btaylor@scu.edu</Email5>
     <Major5>Mechanical Engineering</Major5>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
-    <BringingOwnLaptop/>
-    <MacModel/>
+    <BringingOwnLaptop></BringingOwnLaptop>
+    <MacModel></MacModel>
     <Showcasing>Yes</Showcasing>
-    <ShowcasingNeeds/>
+    <ShowcasingNeeds></ShowcasingNeeds>
     <ShowcasingSpaceRequired>15x15</ShowcasingSpaceRequired>
     <Faculty1>Drazen Fabris</Faculty1>
     <FacultyDept1>Mechanical Engineering</FacultyDept1>
@@ -3105,7 +3030,7 @@
     <Location>Benson Center, Williman Room</Location>
     <Category>Mechanical Engineering</Category>
     <EngineeringSeniors>4</EngineeringSeniors>
-    <EstimatedBudget>$2,000 </EstimatedBudget>
+    <EstimatedBudget>$2,000.00</EstimatedBudget>
     <First1>Heather</First1>
     <Last1>Montgomery</Last1>
     <Phone1>(805)550-2514</Phone1>
@@ -3126,28 +3051,28 @@
     <Phone4>(408)500-5180</Phone4>
     <Email4>ggoyette@scu.edu</Email4>
     <Major4>Mechanical Engineering</Major4>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Mac</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
     <BringingOwnLaptop>Mac</BringingOwnLaptop>
     <MacModel>2011 MacBook Pro 13"</MacModel>
     <Showcasing>No</Showcasing>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
     <Faculty1>Nikola Djordjevic</Faculty1>
     <FacultyDept1>Mechanical Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>1/21/15 14:09</DateSubmitted>
   </team>
   <team>
@@ -3158,7 +3083,7 @@
     <Location>Benson Center, Williman Room</Location>
     <Category>Mechanical Engineering</Category>
     <EngineeringSeniors>3</EngineeringSeniors>
-    <EstimatedBudget>$5,400 </EstimatedBudget>
+    <EstimatedBudget>$5,400.00</EstimatedBudget>
     <First1>Brian</First1>
     <Last1>Grau</Last1>
     <Phone1>(916)747-0549</Phone1>
@@ -3174,33 +3099,33 @@
     <Phone3>(650)906-4728</Phone3>
     <Email3>jaydubashi@gmail.com</Email3>
     <Major3>Mechanical Engineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
-    <BringingOwnLaptop/>
-    <MacModel/>
+    <BringingOwnLaptop></BringingOwnLaptop>
+    <MacModel></MacModel>
     <Showcasing>Yes</Showcasing>
     <ShowcasingNeeds>Table,Power</ShowcasingNeeds>
     <ShowcasingSpaceRequired>6 x 6</ShowcasingSpaceRequired>
     <Faculty1>Panthea Sepehrband</Faculty1>
     <FacultyDept1>Mechanical Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/3/15 22:07</DateSubmitted>
   </team>
   <team>
@@ -3237,18 +3162,18 @@
     <Phone5>(415)306-4434</Phone5>
     <Email5>tcastrucci@scu.edu</Email5>
     <Major5>Mechanical Engineering</Major5>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
-    <BringingOwnLaptop/>
-    <MacModel/>
+    <BringingOwnLaptop></BringingOwnLaptop>
+    <MacModel></MacModel>
     <Showcasing>Yes</Showcasing>
-    <ShowcasingNeeds/>
+    <ShowcasingNeeds></ShowcasingNeeds>
     <ShowcasingSpaceRequired>6 x 12</ShowcasingSpaceRequired>
     <Faculty1>Timothy Hight</Faculty1>
     <FacultyDept1>Mechanical Engineering</FacultyDept1>
@@ -3261,10 +3186,10 @@
     <Description>The project is a portable backpack cooler using thermoelectric modules to cool the chamber in order to provide a refrigeration system for off-grid communities. The cooler will be powered using a battery that will be charged using solar panels installed in the home.</Description>
     <Session>MECH 2</Session>
     <Time>4:05-4:40</Time>
-    <Location/>
+    <Location></Location>
     <Category>Mechanical Engineering</Category>
     <EngineeringSeniors>5</EngineeringSeniors>
-    <EstimatedBudget>$2,500.00 </EstimatedBudget>
+    <EstimatedBudget>$2,500.00</EstimatedBudget>
     <First1>Kaci</First1>
     <Last1>McCartan</Last1>
     <Phone1>(214)384-7558</Phone1>
@@ -3290,11 +3215,11 @@
     <Phone5>(480)280-6852</Phone5>
     <Email5>pcrane@scu.edu</Email5>
     <Major5>Mechanical Engineering</Major5>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
@@ -3305,8 +3230,8 @@
     <ShowcasingSpaceRequired>5x5</ShowcasingSpaceRequired>
     <Faculty1>Hohyun Lee</Faculty1>
     <FacultyDept1>Mechanical Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>1/21/15 13:36</DateSubmitted>
   </team>
   <team>
@@ -3338,28 +3263,28 @@
     <Phone4>(619)228-5595</Phone4>
     <Email4>dgrady@scu.edu</Email4>
     <Major4>Mechanical Engineering</Major4>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>Neither. We're bringing our own laptop.</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>We are bringing our own laptop.</SoftwareRequired>
     <BringingOwnLaptop>PC</BringingOwnLaptop>
-    <MacModel/>
+    <MacModel></MacModel>
     <Showcasing>Yes</Showcasing>
     <ShowcasingNeeds>Table,Power</ShowcasingNeeds>
     <ShowcasingSpaceRequired>5 x 4</ShowcasingSpaceRequired>
     <Faculty1>Christopher Kitts</Faculty1>
     <FacultyDept1>Mechanical Engineering</FacultyDept1>
-    <Faculty2/>
-    <FacultyDept2/>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
     <DateSubmitted>2/4/15 11:54</DateSubmitted>
   </team>
   <team>
@@ -3370,7 +3295,7 @@
     <Location>Benson Center, Parlor C</Location>
     <Category>Mechanical Engineering</Category>
     <EngineeringSeniors>4</EngineeringSeniors>
-    <EstimatedBudget>2,000.00</EstimatedBudget>
+    <EstimatedBudget>2000</EstimatedBudget>
     <First1>Robert</First1>
     <Last1>Llanos-Hinson</Last1>
     <Phone1>(831)869-8241</Phone1>
@@ -3379,33 +3304,33 @@
     <First2>Siosiua</First2>
     <Last2>Faleta</Last2>
     <Major2>Mechanical Engineering</Major2>
-    <Phone2/>
+    <Phone2></Phone2>
     <Email2>sfaleta@scu.edu</Email2>
     <First3>Mike</First3>
     <Last3>Dewane</Last3>
-    <Phone3/>
+    <Phone3></Phone3>
     <Email3>MDewane@scu.edu</Email3>
     <Major3>Mechanical Engineering</Major3>
     <First4>Thomas</First4>
     <Last4>Clark</Last4>
-    <Phone4/>
+    <Phone4></Phone4>
     <Email4>tdclark@scu.edu</Email4>
     <Major4>Mechanical Engineering</Major4>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
-    <BringingOwnLaptop/>
-    <MacModel/>
+    <BringingOwnLaptop></BringingOwnLaptop>
+    <MacModel></MacModel>
     <Showcasing>Yes</Showcasing>
     <ShowcasingNeeds>Table</ShowcasingNeeds>
     <ShowcasingSpaceRequired>5x4</ShowcasingSpaceRequired>
@@ -3423,7 +3348,7 @@
     <Location>Benson Center, Parlor C</Location>
     <Category>Mechanical Engineering</Category>
     <EngineeringSeniors>3</EngineeringSeniors>
-    <EstimatedBudget>$2,400 </EstimatedBudget>
+    <EstimatedBudget>$2,400.00</EstimatedBudget>
     <First1>Hector</First1>
     <Last1>Lopez</Last1>
     <Phone1>(650)630-3761</Phone1>
@@ -3439,26 +3364,26 @@
     <Phone3>(805)760-8830</Phone3>
     <Email3>vmagana@scu.edu</Email3>
     <Major3>Mechanical Engineering</Major3>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
     <PresentationMediaNeeds>None</PresentationMediaNeeds>
     <TypeofPresentationComputerNeededfromMediaServices>PC</TypeofPresentationComputerNeededfromMediaServices>
     <SoftwareRequired>No</SoftwareRequired>
-    <BringingOwnLaptop/>
-    <MacModel/>
+    <BringingOwnLaptop></BringingOwnLaptop>
+    <MacModel></MacModel>
     <Showcasing>Yes</Showcasing>
     <ShowcasingNeeds>Table</ShowcasingNeeds>
     <ShowcasingSpaceRequired>5ft. x 3ft.</ShowcasingSpaceRequired>
@@ -3467,83 +3392,58 @@
     <Faculty2>Christopher Kitts</Faculty2>
     <FacultyDept2>Mechanical Engineering</FacultyDept2>
     <DateSubmitted>2/4/15 13:26</DateSubmitted>
-    <forms>
-      <JudgeName>SixThree</JudgeName>
-      <TechnicalAccuracy>5</TechnicalAccuracy>
-      <CreativityandInnovation>1</CreativityandInnovation>
-      <SupportingAnalyticalWork>1</SupportingAnalyticalWork>
-      <MethodicalDesignProcessDemonstrated>1</MethodicalDesignProcessDemonstrated>
-      <AddressesProjectComplexityAppropriately>1</AddressesProjectComplexityAppropriately>
-      <ExpectationofCompletion>1</ExpectationofCompletion>
-      <DesignandAnalysisoftests>1</DesignandAnalysisoftests>
-      <QualityofResponseduringQA>1</QualityofResponseduringQA>
-      <Organization>1</Organization>
-      <UseofAllotedTime>1</UseofAllotedTime>
-      <VisualAids>1</VisualAids>
-      <ConfidenceandPoise>1</ConfidenceandPoise>
-      <Total>16</Total>
-      <Economic>0</Economic>
-      <Environmental>0</Environmental>
-      <Sustainability>0</Sustainability>
-      <Manufacturability>0</Manufacturability>
-      <Ethical>0</Ethical>
-      <HealthandSafety>1</HealthandSafety>
-      <Social>0</Social>
-      <Political>0</Political>
-      <Comments/>
-    </forms>
   </team>
   <team>
-    <Title/>
-    <Description/>
-    <Session/>
-    <Time/>
-    <Location/>
-    <Category/>
+    <Title></Title>
+    <Description></Description>
+    <Session></Session>
+    <Time></Time>
+    <Location></Location>
+    <Category></Category>
     <EngineeringSeniors>182</EngineeringSeniors>
-    <EstimatedBudget/>
-    <First1/>
-    <Last1/>
-    <Phone1/>
-    <Email1/>
-    <Major1/>
-    <First2/>
-    <Last2/>
-    <Major2/>
-    <Phone2/>
-    <Email2/>
-    <First3/>
-    <Last3/>
-    <Phone3/>
-    <Email3/>
-    <Major3/>
-    <First4/>
-    <Last4/>
-    <Phone4/>
-    <Email4/>
-    <Major4/>
-    <First5/>
-    <Last5/>
-    <Phone5/>
-    <Email5/>
-    <Major5/>
-    <First6/>
-    <Last6/>
-    <Phone6/>
-    <Email6/>
-    <Major6/>
-    <PresentationMediaNeeds/>
-    <TypeofPresentationComputerNeededfromMediaServices/>
-    <SoftwareRequired/>
-    <BringingOwnLaptop/>
-    <MacModel/>
-    <Showcasing/>
-    <ShowcasingNeeds/>
-    <ShowcasingSpaceRequired/>
-    <Faculty1/>
-    <FacultyDept1/>
-    <Faculty2/>
-    <FacultyDept2/>
-    <DateSubmitted/>
+    <EstimatedBudget></EstimatedBudget>
+    <First1></First1>
+    <Last1></Last1>
+    <Phone1></Phone1>
+    <Email1></Email1>
+    <Major1></Major1>
+    <First2></First2>
+    <Last2></Last2>
+    <Major2></Major2>
+    <Phone2></Phone2>
+    <Email2></Email2>
+    <First3></First3>
+    <Last3></Last3>
+    <Phone3></Phone3>
+    <Email3></Email3>
+    <Major3></Major3>
+    <First4></First4>
+    <Last4></Last4>
+    <Phone4></Phone4>
+    <Email4></Email4>
+    <Major4></Major4>
+    <First5></First5>
+    <Last5></Last5>
+    <Phone5></Phone5>
+    <Email5></Email5>
+    <Major5></Major5>
+    <First6></First6>
+    <Last6></Last6>
+    <Phone6></Phone6>
+    <Email6></Email6>
+    <Major6></Major6>
+    <PresentationMediaNeeds></PresentationMediaNeeds>
+    <TypeofPresentationComputerNeededfromMediaServices></TypeofPresentationComputerNeededfromMediaServices>
+    <SoftwareRequired></SoftwareRequired>
+    <BringingOwnLaptop></BringingOwnLaptop>
+    <MacModel></MacModel>
+    <Showcasing></Showcasing>
+    <ShowcasingNeeds></ShowcasingNeeds>
+    <ShowcasingSpaceRequired></ShowcasingSpaceRequired>
+    <Faculty1></Faculty1>
+    <FacultyDept1></FacultyDept1>
+    <Faculty2></Faculty2>
+    <FacultyDept2></FacultyDept2>
+    <DateSubmitted></DateSubmitted>
   </team>
 </teams>

@@ -10,13 +10,13 @@
             header('Location: index.php' . $_SERVER['PHP_SELF']);
         }
 
-        if(isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == true){
+        if(isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == 1){
           header("Location: sdashboard.php");
         }
 
         if(isset($_POST['username']) && isset($_POST['password'])){
             if($_POST['username'] == "swibeto" && $_POST['password'] == "1msaili3!") {
-                $_SESSION['logged_in'] = true;
+                $_SESSION['logged_in'] = 1;
                 header('Location: sdashboard.php');
             }
         }

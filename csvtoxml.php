@@ -1,16 +1,21 @@
 <?php
-     echo "<script>window.location.href = 'sdashboard.php'</script>";
+session_start();
+     if(isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == 1){
 ?>
 <!DOCTYPE html>
-<?php
-session_start()
-?>
 <html>
 <head> <title> Reading data </title> </head>
 <body>
 
 <?php
-	$inputFilename    = 'SeniorDesignDetails.csv';
+	if(isset($_POST['file'])){
+    	$fn = $_POST['file'];
+    }
+    else{
+    	echo "error";
+        exit();
+    }
+	$inputFilename    = $fn;
 	$outputFilename   = 'SDD.xml';
 
 	// Open csv to read
@@ -50,6 +55,14 @@ session_start()
 	$handle = fopen($outputFilename, "w");
 	fwrite($handle, $strxml);
 	fclose($handle);
+    
+    echo "<script>window.location.href = 'sdashboard.php'</script>";
 ?>
 </body>
 </html>
+<?php
+}
+else{ echo "-_____________-";} ?>
+
+
+
