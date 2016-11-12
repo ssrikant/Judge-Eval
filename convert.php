@@ -95,7 +95,7 @@
     		$HaS = $f[$i]->HealthandSafety;
     		$Soc = $f[$i]->Social;
     		$Pol = $f[$i]->Political;
-    		$Com = $f[$i]->Comments;
+    		$Com = filter_var($f[$i]->Comments, FILTER_SANITIZE_STRING);
         
         	echo "<p>Project Title: $title</p>";
         	echo "<p>Group Members: ";

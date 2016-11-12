@@ -1,260 +1,260 @@
 1.
 Electrochemical Detection of Nitrate
-PIN: 8ybv9t47
+PIN: z+us#u$
 
 2.
 Biological Applications of Scanning Thermal Microscopy
-PIN: o+2?3xv
+PIN: /xcjouv4
 
 3.
 ASSURED Bacterial Detection towards Paper-Based Microfluidic Chip for Resource-Limited Areas
-PIN: %ltjkpe+
+PIN: oh=g3r$x
 
 4.
 Redesigning Lp-PLA2 while Retaining Catalytic Function
-PIN: ahb$ov@#
+PIN: 34mybsw9
 
 5.
 Anti-tumor efficacy study in CT26 tumor model
-PIN: 0~oh0pb?
+PIN: hbv8hn~/
 
 6.
 A TALE of Two Nucleases: Using TALENs to Edit the Genome of C.elegans
-PIN: 7y3st90b
+PIN: ~20t@h91
 
 7.
 Engineering a Cell as a Biosensor
-PIN: 9%x7~6=b
+PIN: 1a4?/w7z
 
 8.
 Insulin Pump Housing Modification Project
-PIN: 6f693cd*
+PIN: 2q0t/49n
 
 9.
 Tongue Suspension Suture for Obstructive Sleep Apnea Patients
-PIN: 34ade0+i
+PIN: h!u3=813
 
 10.
 Micro Motion Controller
-PIN: xsv9hyn
+PIN: 8e1e58rq
 
 11.
 Micro-Controller: Part 2
-PIN: @l@eg@~
+PIN: r1!+dz/$
 
 12.
 Sustainable Design in Ghana
-PIN: ~#ph/qsc
+PIN: b8p0ph72
 
 13.
 Structural Housing Improvements in Oaxaca, Mexico Utilizing Arundo Donax
-PIN: #a0v@v4g
+PIN: $is%bl9~
 
 14.
 Interlocking CMU Geometry Design
-PIN: j%j=$ji
+PIN: mz2qnj28
 
 15.
 Designing With Bamboo: Frames and Connections in Underdeveloped Areas
-PIN: vqfiydm
+PIN: 89%ldxk
 
 16.
 Preliminary Design and Construction Planning of a New Santa Clara University Student Fitness and Recreational Center
-PIN: t9p=2+rt
+PIN: m62curxh
 
 17.
 Bannan Pedestrian Bridge
-PIN: $mcu8a6t
+PIN: %sl*vg+/
 
 18.
 Seismic Retrofit of Soft Story Building in San Francisco
-PIN: fhvh!k/4
+PIN: u#*y~rpp
 
 19.
 Santa Clara University Multicultural Center Redesign
-PIN: m+%vw@g#
+PIN: 8x5sa+sl
 
 20.
 Homeless Garden Project
-PIN: gwv$c#/u
+PIN: 6d2hsr8d
 
 21.
 Low-Environmental Impact Neighborhood District in Gilroy, California
-PIN: 5sx73*8c
+PIN: v3p~sv25
 
 22.
 Hearst Avenue Complete Street Design
-PIN: 7#4hbbs9
+PIN: *u0eoe8
 
 23.
 Hayward Shoreline Levee Design
-PIN: #g0b0ni~
+PIN: 8z+o9?!?
 
 24.
 Geomorphic Restoration and Stabilization of a Reach of Stevens Creek
-PIN: j*o7u5!i
+PIN: rs$o*xpp
 
 25.
 Santa Clara University Creek Restoration
-PIN: @+w*jh9*
+PIN: 4@np!psu
 
 26.
 iKure Health Worker Tracker
-PIN: b@$o*sys
+PIN: ++h19jyi
 
 27.
 Volunteer Connect for IkamvaYouth
-PIN: +~ug00r0
+PIN: #s%=otpd
 
 28.
 Beacon Pack
-PIN: v/oy4f!9
+PIN: n05!?wh
 
 29.
 Wakabi: On-Demand Ride Service for Rural Uganda
-PIN: bi?nfeje
+PIN: pw8c!0x~
 
 30.
 Sankara Eye Records: Eye-Health Tracker for Children in India
-PIN: b5q*ar%@
+PIN: e+@$0cka
 
 31.
 DyLMA
-PIN: b*50v!1a
+PIN: %ydtj3x
 
 32.
 GPU-Accelerated Lip-Tracking Library
-PIN: elc%fln8
+PIN: !$@lvf2p
 
 33.
 Using Virtual Reality for Anxiety Therapy
-PIN: w49f%69q
+PIN: 78zy%48m
 
 34.
 Explorable 3D Model fo SCU Campus
-PIN: n8snq@d
+PIN: xkiz?wzz
 
 35.
 GroupRight
-PIN: w#/+mtc5
+PIN: cwvnsdk8
 
 36.
 Serendipity
-PIN: n5!24lnn
+PIN: ygoa/!6y
 
 37.
 OmniSplit
-PIN: q5d2w@u
+PIN: d6~y$3*3
 
 38.
 FoodReader
-PIN: 7%$qk8%l
+PIN: l~4?4%fc
 
 39.
 Energy Management Tool Suite
-PIN: tdo0cixy
+PIN: ~0b8tpe+
 
 40.
 Code Girl
-PIN: ypstjfrz
+PIN: f#bmcr~3
 
 41.
 Bookster
-PIN: =f3*#lk*
+PIN: oe!~c0u~
 
 42.
 Low-Cost ECG for Rural Populations of Developing Countries
-PIN: ei3h17*k
+PIN: 418ai8~c
 
 43.
 WeJ Collaborative Playlists
-PIN: 5k=o4?77
+PIN: ew6~2%gr
 
 44.
 Smart Thermostat
-PIN: rnvxo$i
+PIN: 88tpblh1
 
 45.
 Dynamic Capacitor Bank
-PIN: zb5w5s/n
+PIN: ddp+oaun
 
 46.
 Assistive Reminder
-PIN: $61fcld$
+PIN: x1y%!~yd
 
 47.
 Electric Vibraphone
-PIN: ?obzalyf
+PIN: 7sxlyajc
 
 48.
 Pilot-1 Fixed Wing Drone Controller
-PIN: 9%ltgl
+PIN: =*it@0@!
 
 49.
 RSL Rover
-PIN: q1qi6pr6
+PIN: zjeamn2g
 
 50.
 UAVino
-PIN: @pvmtte?
+PIN: $5y*cm=v
 
 51.
 Mobile Music
-PIN: 6ym+7k6k
+PIN: =rl~ali$
 
 52.
 Might-E Wheel
-PIN: 8wsiao4a
+PIN: k200?g70
 
 53.
 Low Cost 3D Bioprinter
-PIN: od2=83@p
+PIN: scjyitc~
 
 54.
 AquaSift: Point-of-Use Microfluidic Detection System
-PIN: n?lm2phg
+PIN: 9r4%5+*u
 
 55.
 Sunplanter
-PIN: i2r%*b!r
+PIN: 4l?1j/2
 
 56.
 Legacy Borehole Project
-PIN: askn0bjg
+PIN: 4rfzg*x0
 
 57.
 One-Ride Human Powered Vehicle
-PIN: =hm=!e=j
+PIN: c$5?sq$t
 
 58.
 Planetary Landing Capsule
-PIN: #s0j3ixf
+PIN: lpik!txt
 
 59.
 AkaBot
-PIN: 85as3zws
+PIN: 4ekvslp
 
 60.
 Automated In-Row Weed Trimmer
-PIN: +!u662rb
+PIN: 488r/wuw
 
 61.
 Backpack Cooler
-PIN: oe0hav4i
+PIN: k3s#3bd8
 
 62.
 SkyPort: Controls
-PIN: ta$*d?7g
+PIN: ?ls?9cb3
 
 63.
 SkyPort: Airframe
-PIN: ~=j97+~l
+PIN: ~cvuggi~
 
 64.
 SkyPort: Payload
-PIN: !@9/6$!c
+PIN: =vsypx6l
 
 65.
 
-PIN: kf?eu$av
+PIN: $$s52c0/
 

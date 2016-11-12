@@ -73,7 +73,7 @@
     }
     
     if(isset($_POST['Com'])){
-    	$_SESSION['Com'] = $_POST['Com'];
+    	$_SESSION['Com'] = filter_var($_POST['Com'], FILTER_SANITIZE_STRING);
     }
     else{
     	$_SESSION['Com'] = 'None';

@@ -10,10 +10,18 @@ session_start();
 <?php
 	if(isset($_POST['file'])){
     	$fn = $_POST['file'];
+        $exp = explode(".",$fn);
     }
     else{
-    	echo "error";
+    	echo "Something went wrong...";
+    	echo "<script> setTimeout(function(){ window.location.href = 'sdashboard.php';}, 1000); </script>";
         exit();
+    }
+    
+    if(strcmp($exp[1], 'csv') != 0){
+    	echo "Please upload a .csv file. Redirecting...";
+    	echo "<script> setTimeout(function(){ window.location.href = 'sdashboard.php';}, 1000); </script>";
+    	exit();
     }
 	$inputFilename    = $fn;
 	$outputFilename   = 'SDD.xml';
