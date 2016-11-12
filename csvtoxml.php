@@ -62,7 +62,12 @@ session_start();
 </html>
 <?php
 }
-else{ echo "-_____________-";} ?>
+else{
+	echo "Please log in to view this information. Redirecting...";
+    echo "<script> setTimeout(function(){ window.location.href = 'slogin.php';}, 1000); </script>";
+}
+
+?>
 
 
 

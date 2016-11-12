@@ -55,7 +55,7 @@ session_start();
         }
 
         $title[$i] = $details->team[$i]->Title;
-
+		
         $advisor[$i][0] = $details->team[$i]->Faculty1;
         if(strcmp($details->team[$i]->Faculty2, '') != 0){
         	$advisor[$i][1] = $details->team[$i]->Faculty2;
@@ -84,7 +84,7 @@ session_start();
       ?>
       <p>
         Team <?php echo $t+1 . ": ";
-        	echo $title[$t] . "<br>";
+        	echo $title[$t + $index[$sn]] . "<br>";
             echo "Members: ";
         	for($k = 0; $k < $details->team[$t + $index[$sn]]->EngineeringSeniors; $k++){
             	if($k == $details->team[$t + $index[$sn]]->EngineeringSeniors-1){
@@ -337,9 +337,14 @@ session_start();
         ?>
     </div>
 <div><br/>
-  <a href="index.php">Logout</a> <br/>
+  <a href="slogout.php">Logout</a> <br/>
 </div>
   </body>
 
 </html>
-<?php } ?>
+<?php }
+else{
+	echo "Please log in to view this information. Redirecting...";
+    echo "<script> setTimeout(function(){ window.location.href = 'slogin.php';}, 1000); </script>";
+}
+?>

@@ -7,7 +7,7 @@
 <?php
 session_start();
 
-     if(isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == 1){
+if(isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == 1){
 
 		$details = simplexml_load_file("SDD.xml") or die("Error: Cannot create object");
     	$size = sizeof($details->team);//# of total teams
@@ -76,19 +76,40 @@ session_start();
 	}
 
 	echo "Random String Generator: <br><br>";
-	
+    
     for($g = 0, $gg = 1; $g < $size; $g++, $gg++){
 	
-    $h = genRandomString();
+    	$h = genRandomString();
 	
-    echo "Team $gg: " . $h . "<br>";
+    	echo "Team $gg: " . $h . "<br>";
+    	
+        if(isset($pin)){
+    		for($w = 0; $w < sizeof($pin); $w++){
+    			if(in_array($h, $pin)){
+                	$g--;
+                    $gg--;
+                    continue;
+    		    }
+    		}
+        }
     
-    $pin[$g] = $h;
-	}
+    	$pin[$g] = $h;
+    }
     
-    
-    
-} ?>
+		$results = serialize($pin);
+    	if($myfile = fopen("pins.txt", "w")){
+			file_put_contents('pins.txt', $results);
+			fclose($myfile);
+    	}
+    	else{
+    		echo "No file was created";
+    	}
+}
+else{
+	echo "Please log in to view this information. Redirecting...";
+    echo "<script> setTimeout(function(){ window.location.href = 'slogin.php';}, 1000); </script>";
+}
+?>
 
 </body>
 

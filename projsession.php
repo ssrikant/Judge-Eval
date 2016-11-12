@@ -29,6 +29,6 @@
         ?>
 
 <br/>
-  <a href="index.php">Logout</a> <br/>
+  <a href="slogout.php">Logout</a> <br/>
   </body>
 </html>

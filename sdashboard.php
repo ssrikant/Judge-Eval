@@ -32,10 +32,7 @@ if(isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == 1){ ?>
 <html>
 <head>
 </head>
-   <body><?php
-	//echo '<input type="hidden" id="refresh" value="no">';
-	//echo '<script type="text/javascript"> onload=function(){ var e=document.getElementById("refreshed"); if(e.value=="no")e.value="yes"; else{e.value="no";location.reload();}} </script>';
-   ?>
+   <body>
  	    <h1> Welcome Shane! Please upload Senior Design Team Information file or choose a session. </br> </h1>
         <p>
           Please Upload Senior Design Team Information in a .csv file format. </br>
@@ -74,7 +71,7 @@ if(isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == 1){ ?>
                         echo "<a href = 'session.php?session=$j'>$s[$i]</a> <br/>";
                 }
           ?>
-        <a href="index.php">Logout</a> </br>
+        <a href="slogout.php">Logout</a> </br>
       </p>
 
       <p>
@@ -86,4 +83,9 @@ if(isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == 1){ ?>
     </body>
 
 </html>
-<?php } ?>
+<?php }
+else{
+	echo "Please log in to view this information. Redirecting...";
+    echo "<script> setTimeout(function(){ window.location.href = 'slogin.php';}, 1000); </script>";
+}
+?>

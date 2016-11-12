@@ -8,6 +8,7 @@
  </head>
  <body>
 <?php
+	if(isset($confirmation) && $confirmation == 1){
 	$tn = $_SESSION['teamNum'];
 	$JN = $_POST["JN"];
     $TA = $_POST["TA"];
@@ -116,8 +117,15 @@
 	$element->appendChild($newItem);
 
 	$xml->save('SDD.xml');
-
-	echo "Data has been written. You can logout now. <a href='index.php'>Logout</a>";
+	
+	echo "Data has been written. You will automatically logout now.";
+    }
+    else{
+    	echo "Are you sure you want to submit the form? No more edits will be allowed after you press Yes.<br>";
+        echo "<button onclick='function(){ window.location.href = 'slogout.php';}'>Yes</button>";
+        echo "<button onclick=''>No</button>";
+    }
+    echo "<script> setTimeout(function(){ window.location.href = 'slogout.php';}, 1000); </script>";
 ?>
 
 
