@@ -98,8 +98,9 @@ session_start();
         <thead>
         <tr>
           <th>&nbsp </th><?php $judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
-          						for($i = 0, $j = 1; $i < $judgeNum; $i++, $j++){ ?>
-          <?php echo "<th>Judge $j</th>"; }?>
+          						for($i = 0, $j = 1; $i < $judgeNum; $i++, $j++){
+                                $name = $details->team[$t+$index[$sn]]->forms[$i]->JudgeName; ?>
+          <?php echo "<th>$name</th>"; }?>
         </tr>
       </thead>
       <tbody>
