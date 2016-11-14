@@ -65,8 +65,8 @@ if(isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == 1){ ?>
         float:right;
         position: absolute;
       }
-      a.button1:hover, a.button2:hover, a.button3:hover{
-        background-color: grey;
+      /* a.button1:hover, a.button2:hover, a.button3:hover{
+        background-color: grey; */
       }
     </style>
 
