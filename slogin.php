@@ -21,7 +21,7 @@
             }
         }
 ?>
-<?php if($_SESSION[$username]): ?>
+<?php if(isset($_SESSION['logged_in']) == true): ?>
     <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
     <html xmlns="http://www.w3.org/1999/xhtml">
 
@@ -36,12 +36,10 @@
             <title>Log In</title>
         </head>
         <body>
+            <img src= "missionlogo.png" alt="Mission" style="width:1100px;height:228px;">
             <h1>Please login:</h1>
             <form name="login" action="" method="post">
                 <table width="100%" border="0" cellpadding="3" cellspacing="1" bgcolor="#FFFFFF">
-                    <tr>
-                        <td colspan="3"><strong>System Login</strong></td>
-                    </tr>
                     <tr>
                         <td width="78">Username:</td>
                         <td width="294"><input name="username" type="text" id="username"></td>
@@ -57,5 +55,11 @@
                 </table>
             </form>
         </body>
+        <style>
+        body, table{
+          background-color: rgb(221,221,212);
+          font-family: "Helvetica Neue";
+        }
+        </style>
     </html>
 <?php endif; ?>
