@@ -15,32 +15,9 @@ session_start();
     </style>
 <?php
     
-    if($myfile = fopen("pinser.txt", "r")){
-    	$fileinfo = file_get_contents('pinser.txt');
-        $pinarray = unserialize($fileinfo);
-    }
-    else{
-    	echo "No file was found";
-        exit();
-    }
-    
-    if(isset($_POST['PIN'])){
-    	$pin = filter_var($_POST['PIN'], FILTER_SANITIZE_STRING);
-        $_SESSION['judge'] = 1;
-    }
-    
-    if(in_array($pin, $pinarray)){
-        $tn = array_search($pin,$pinarray);
-    }
-    else{
-    	echo "Please go back and enter the correct PIN. Redirecting...";
-        echo "<script> setTimeout(function(){ window.location.href = 'judgelogin.php';}, 1000); </script>";
-    	exit();
-    }
-    
-    $_SESSION['teamNum'] = $tn;
-    
 if(isset($_SESSION['judge']) && $_SESSION['judge'] == 1){
+    
+    $tn = $_SESSION['teamNum'];
     
 	$details = simplexml_load_file("SDD.xml") or die("Error: Cannot create object");
     

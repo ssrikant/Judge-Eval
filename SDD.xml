@@ -882,6 +882,31 @@
     <Faculty2/>
     <FacultyDept2/>
     <DateSubmitted>2/4/15 12:18</DateSubmitted>
+    <forms>
+      <JudgeName>m</JudgeName>
+      <TechnicalAccuracy>4</TechnicalAccuracy>
+      <CreativityandInnovation>4</CreativityandInnovation>
+      <SupportingAnalyticalWork>4</SupportingAnalyticalWork>
+      <MethodicalDesignProcessDemonstrated>4</MethodicalDesignProcessDemonstrated>
+      <AddressesProjectComplexityAppropriately>4</AddressesProjectComplexityAppropriately>
+      <ExpectationofCompletion>4</ExpectationofCompletion>
+      <DesignandAnalysisoftests>4</DesignandAnalysisoftests>
+      <QualityofResponseduringQA>4</QualityofResponseduringQA>
+      <Organization>5</Organization>
+      <UseofAllotedTime>4</UseofAllotedTime>
+      <VisualAids>4</VisualAids>
+      <ConfidenceandPoise>4</ConfidenceandPoise>
+      <Total>49</Total>
+      <Economic>0</Economic>
+      <Environmental>0</Environmental>
+      <Sustainability>0</Sustainability>
+      <Manufacturability>0</Manufacturability>
+      <Ethical>0</Ethical>
+      <HealthandSafety>1</HealthandSafety>
+      <Social>0</Social>
+      <Political>0</Political>
+      <Comments>s</Comments>
+    </forms>
   </team>
   <team>
     <Title>Sustainable Design in Ghana</Title>

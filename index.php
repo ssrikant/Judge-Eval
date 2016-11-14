@@ -4,7 +4,9 @@
   if(isset($_GET['logout'])){
   	$log = $_GET['logout'];
   }
-  
+  else{
+  	$log = 0;
+  }
 ?>
 
 <html>
