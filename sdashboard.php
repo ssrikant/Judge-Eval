@@ -6,13 +6,17 @@ if(isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == 1){ ?>
 <title>Dasbhoard</title>
 <head>
   <div class="logout">
-      <a href="index.php">Logout</a> </br>
+      <a href="slogout.php">Logout</a> </br>
   </div>
-  <img src= "missionlogo.png" alt="Mission" style="width:1100px;height:228px;">
-
+  <p>
+  <center><img src= "missionlogo.png" alt="Mission" align="middle" style="width:80%;height:228px;"></center>
+  </p>
 </head>
    <body>
- 	    <h1> Welcome Shane!</br> </h1>
+ 	    <h1> Welcome Shane! <?php
+        	if(isset($_GET['converted']) && $_GET['converted'] == 1){
+            	echo "Upload successful.";
+            } ?> </br></h1>
       <p>
           <a href="fileupload.php" class="button1">Upload Senior Design Team Details</a>
           <a href="pingen.php" class="button2">Generate Team Pins for Judge Login </a>
@@ -61,10 +65,15 @@ if(isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == 1){ ?>
         float:right;
         position: absolute;
       }
-      a.button1, a.button2, a.button3:hover{
+      a.button1:hover, a.button2:hover, a.button3:hover{
         background-color: grey;
       }
     </style>
 
 </html>
-<?php } ?>
+<?php }
+else{
+	echo "Please log in to view this information. Redirecting...";
+    echo "<script> setTimeout(function(){ window.location.href = 'slogin.php';}, 1000); </script>";
+}
+?>

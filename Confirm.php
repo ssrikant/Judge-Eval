@@ -8,9 +8,15 @@
  <title>Please confirm</title>
  </head>
  <body>
+     <style>
+      body{
+        background-color: rgb(221,221,212);
+        font-family: "Helvetica Neue";
+      }
+    </style>
 <?php
 	if(isset($_POST["JN"])){
-	$_SESSION['JN'] = $_POST["JN"];
+	$_SESSION['JN'] = filter_var($_POST["JN"], FILTER_SANITIZE_STRING);
     $_SESSION['TA'] = $_POST["TA"];
     $_SESSION['CI'] = $_POST["CI"];
     $_SESSION['SAW'] = $_POST["SAW"];

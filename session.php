@@ -73,13 +73,14 @@ session_start();
 <html>
 <head>
   <div class="logout">
-      <a href="slogin.php">Logout</a> </br>
+      <a href="slogout.php">Logout</a> </br>
   </div>
   <div class="sessionback">
       <a href="choosession.php">View Another Session</a> </br>
   </div>
-  <img src= "missionlogo.png" alt="Mission" style="width:1100px;height:228px;">
-</head>
+  <p>
+  <img src= "missionlogo.png" alt="Mission" align="middle" style="width:80%;height:228px;">
+  </p></head>
 <html>
   <h1>
     <?php echo "$session"; ?>
@@ -89,9 +90,8 @@ session_start();
       	for($t = 0; $t < $tn; $t++){
             //$t = $i - $index[$sn];
       ?>
-      <p>
-        Team <?php echo $t+1 . ": ";
-        	echo $title[$t] . "<br>";
+        <font size='+1'>Team <?php echo $t+1 . ": ";
+        	echo $title[$t + $index[$sn]] . "<br>";
             echo "Members: ";
         	for($k = 0; $k < $details->team[$t + $index[$sn]]->EngineeringSeniors; $k++){
             	if($k == $details->team[$t + $index[$sn]]->EngineeringSeniors-1){
@@ -100,15 +100,22 @@ session_start();
                 else{
             		echo $students[$t + $index[$sn]][$k] . ", ";
                 }
-            } ?> <br/>
-      <table style = "width:75%", border="1px, solid black">
+            } ?>
+    	</font>
+    <p>
+      <table style = "width:85%", border="1px, solid black">
         <thead>
         <tr>
-          <th>Judging Criteria </th><?php $judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
-          						for($i = 0, $j = 1; $i < $judgeNum; $i++, $j++){ ?>
-          <?php echo "<th>Judge $j</th>"; }?>
+          <th align='left'>Judging Criteria </th><?php
+          							$judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
+                                    for($i = 0, $j = 1; $i < $judgeNum; $i++, $j++){
+                                		$name = $details->team[$t+$index[$sn]]->forms[$i]->JudgeName;
+          								echo "<th>$name</th>";
+                                    }
+                                	?>
         </tr>
       </thead>
+
       <tbody>
       	<tr>
           <td>Technical Accuracy</td>
@@ -121,7 +128,7 @@ session_start();
            		 else{
             			echo '---';
            		 }
-       		     echo "<br/></td>";
+       		     echo "</td>";
         	}?>
         </tr>
         <tr>
@@ -135,7 +142,7 @@ session_start();
            		 else{
             			echo '---';
            		 }
-       		     echo "<br/></td>";
+       		     echo "</td>";
         	}?>
         </tr>
         <tr>
@@ -149,7 +156,7 @@ session_start();
            		 else{
             			echo '---';
            		 }
-       		     echo "<br/></td>";
+       		     echo "</td>";
         	}?>
         </tr>
         <tr>
@@ -163,7 +170,7 @@ session_start();
            		 else{
             			echo '---';
            		 }
-       		     echo "<br/></td>";
+       		     echo "</td>";
         	}?>
         </tr>
         <tr>
@@ -177,7 +184,7 @@ session_start();
            		 else{
             			echo '---';
            		 }
-       		     echo "<br/></td>";
+       		     echo "</td>";
         	}?>
         </tr>
         <tr>
@@ -191,7 +198,7 @@ session_start();
            		 else{
             			echo '---';
            		 }
-       		     echo "<br/></td>";
+       		     echo "</td>";
         	}?>
         </tr>
         <tr>
@@ -205,7 +212,7 @@ session_start();
            		 else{
             			echo '---';
            		 }
-       		     echo "<br/></td>";
+       		     echo "</td>";
         	}?>
         </tr>
         <tr>
@@ -219,7 +226,7 @@ session_start();
            		 else{
             			echo '---';
            		 }
-       		     echo "<br/></td>";
+       		     echo "</td>";
         	}?>
         </tr>
         <tr>
@@ -233,7 +240,7 @@ session_start();
            		 else{
             			echo '---';
            		 }
-       		     echo "<br/></td>";
+       		     echo "</td>";
         	}?>
         </tr>
         <tr>
@@ -247,7 +254,7 @@ session_start();
            		 else{
             			echo '---';
            		 }
-       		     echo "<br/></td>";
+       		     echo "</td>";
         	}?>
         </tr>
         <tr>
@@ -261,7 +268,7 @@ session_start();
            		 else{
             			echo '---';
            		 }
-       		     echo "<br/></td>";
+       		     echo "</td>";
         	}?>
         </tr>
         <tr>
@@ -275,29 +282,30 @@ session_start();
            		 else{
             			echo '---';
            		 }
-       		     echo "<br/></td>";
+       		     echo "</td>";
         	}?>
         </tr>
         <tr>
-          <td class="total">Total Score</td>
+          <td class="total"><b>Total Score</b></td>
           	<?php $judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
           		for($i = 0; $i < $judgeNum; $i++){
           			echo "<td align='center'>";
             		if(isset($details->team[$t + $index[$sn]]->forms[$i])){
-            			echo $details->team[$t + $index[$sn]]->forms[$i]->Total;
+            			echo "<b>" . $details->team[$t + $index[$sn]]->forms[$i]->Total . "</b>";
             		}
            		 else{
             			echo '---';
            		 }
-       		     echo "<br/></td>";
+       		     echo "</td>";
         	}?>
         </tr>
         <tr>
-          <td class="total">Raw Total</td>
+          <td class="total"><b>Raw Total</b></td>
           	<?php
             	$judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
                 $l = 0;
-                echo "<td  align='center' colspan='3'>";
+                if($judgeNum > 0){
+                echo "<td  align='center' colspan='$judgeNum'>";}
           		for($i = 0; $i < $judgeNum; $i++){
             		if(isset($details->team[$t + $index[$sn]]->forms[$i])){
                         $l += $details->team[$t + $index[$sn]]->forms[$i]->Total;
@@ -306,31 +314,33 @@ session_start();
             			echo '---';
            		 }}
                  if($l > 0){
-                 	echo $l;
+                 	echo "<b>" . $l . "</b>";
                  }
-       		     echo "<br/></td>";
+       		     echo "</td>";
         	?>
         </tr>
         <tr>
-          <td class="total">Average Score</td>
+          <td class="total"><b>Average Score</b></td>
           	<?php
-            echo "<td  align='center' colspan='3'>";
+            if($judgeNum > 0){
+            echo "<td  align='center' colspan='$judgeNum'>";}
             $k = 0;
             for($i = 0; $i < sizeof($details->team[$t + $index[$sn]]->forms); $i++){
             	$k += $details->team[$t + $index[$sn]]->forms[$i]->Total;
             }
             if(sizeof($details->team[$t + $index[$sn]]->forms) >= 1){
-            	echo round(($k/sizeof($details->team[$t + $index[$sn]]->forms)), 2);
+            	echo "<b>" . round(($k/sizeof($details->team[$t + $index[$sn]]->forms)), 2) . "</b>";
             }
             else{
             	echo '';
             }
-            echo "<br/></td>";
+            echo "</td>";
             ?>
         </tr>
       </tbody>
       </table>
     </p>
+    <br>
 <?php } ?>
 
     <div class = "reports">
@@ -339,7 +349,7 @@ session_start();
         </h2>
         <?php
         for($i = 0, $j = 1; $i < $tn; $i++, $j++){
-            echo "<a href='convert.php?team=$j&session=$ss'><button>  View Team $j </button></a><br>";
+            echo "<a href='convert.php?team=$j&session=$ss' target='_blank'><button>  View Team $j </button></a><br>";
         }
         ?>
     </div>
@@ -353,10 +363,6 @@ session_start();
       border: 1px solid black;
       }
       th{
-        text-align: left;
-        border:2px solid black;
-      }
-    td.total{
         border:2px solid black;
       }
     head,body{
@@ -375,4 +381,9 @@ session_start();
   </style>
 
 </html>
-<?php } ?>
+<?php }
+else{
+	echo "Please log in to view this information. Redirecting...";
+    echo "<script> setTimeout(function(){ window.location.href = 'slogin.php';}, 1000); </script>";
+}
+ ?>

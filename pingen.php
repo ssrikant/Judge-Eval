@@ -4,13 +4,14 @@
 <html>
 <head>
   <div class="logout">
-      <a href="slogin.php">Logout</a> </br>
+      <a href="slogout.php">Logout</a> </br>
   </div>
   <div class="dashback">
       <a href="sdashboard.php">Back to Dashboard</a> </br>
   </div>
-  <img src= "missionlogo.png" alt="Mission" style="width:1100px;height:228px;">
-
+  <p>
+  <center><img src= "missionlogo.png" alt="Mission" align="middle" style="width:80%;height:228px;"></center>
+  </p>
 </head>
 
 <body>
@@ -21,7 +22,7 @@ session_start();
 
      if(isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == 1){
 
-		$details = simplexml_load_file("SDD.xml") or die("Error: Cannot create object");
+		$details = simplexml_load_file("SDD.xml") or die("Please upload a csv file to view the sessions.");
     	$size = sizeof($details->team);//# of total teams
     	$j = 1;
     	$s[0] = $details->team[0]->Session;
@@ -87,20 +88,64 @@ session_start();
 	    return $string;
 	}
 
-	echo "Random String Generator: <br><br>";
+	echo "<div style='font-size:20px'>Random String Generator... <br> Warning: Do not click the Generate pins for judge login button again or the pins will reset, these pins can also be viewed from a text file. <br><br></div>";
 
-    for($g = 0, $gg = 1; $g < $size; $g++, $gg++){
+for($g = 0, $gg = 1; $g < $size; $g++, $gg++){
+	
+    	$h = genRandomString();
+		$ttl = $details->team[$g]->Title;
+    	if(strcmp($ttl,'') != 0){
+    	echo "Team $gg: " . $ttl . "<br>PIN: <b>" . $h . "</b><br><br>";
+    	
+        if(isset($pin)){
+    		for($w = 0; $w < sizeof($pin); $w++){
+    			if(in_array($h, $pin)){
+                	$g--;
+                    $gg--;
+                    continue;
+    		    }
+    		}
+        }
+    
+    	$pin[$g] = $h;
+        $titles[$g] = $details->team[$g]->Title;}
+    }
+    
+    	if($sfile = fopen("PINSforEveryTeam.txt", "w")){
+    
+        $ii = 1;
+        for($i = 0, $ii = 1; $i < sizeof($pin); $i++, $ii++){
+        fwrite($sfile, "$ii.");
+        fwrite($sfile, PHP_EOL);
+        fwrite($sfile, $titles[$i]);
+        fwrite($sfile, PHP_EOL);
+        fwrite($sfile, 'PIN: ');
+        fwrite($sfile, $pin[$i]);
+		fwrite($sfile, PHP_EOL);
+    	fwrite($sfile, PHP_EOL);
+    	}
+    
+        fclose($sfile);
+    	}
+    	else{
+    		echo "No file was created";
+    	}
+        
+		$results = serialize($pin);
+    	if($myfile = fopen("pinser.txt", "w")){
+			file_put_contents('pinser.txt', $results);
+			fclose($myfile);
+    	}
+    	else{
+    		echo "No file was created";
+    	}
+}
+else{
+	echo "Please log in to view this information. Redirecting...";
+    echo "<script> setTimeout(function(){ window.location.href = 'slogin.php';}, 1000); </script>";
+}
 
-    $h = genRandomString();
-
-    echo "Team $gg: " . $h . "<br>";
-
-    $pin[$g] = $h;
-	}
-
-
-
-} ?>
+?>
 
 </body>
 <style>

@@ -5,13 +5,14 @@ if(isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == 1){ ?>
 <html>
 <head>
   <div class="logout">
-      <a href="slogin.php">Logout</a> </br>
+      <a href="slogout.php">Logout</a> </br>
   </div>
   <div class="dashback">
       <a href="sdashboard.php">Back to Dashboard</a> </br>
   </div>
-  <img src= "missionlogo.png" alt="Mission" style="width:1100px;height:228px;">
-
+  <p>
+  <center><img src= "missionlogo.png" alt="Mission" align="middle" style="width:80%;height:228px;"></center>
+  </p>
 </head>
 
 <body>
@@ -56,4 +57,9 @@ img{
 }
 </style>
 </html>
-<?php } ?>
+<?php }
+else{
+	echo "Please log in to view this information. Redirecting...";
+    echo "<script> setTimeout(function(){ window.location.href = 'slogin.php';}, 1000); </script>";
+}
+?>

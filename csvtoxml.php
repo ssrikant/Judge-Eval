@@ -6,7 +6,12 @@ session_start();
 <html>
 <head> <title> Reading data </title> </head>
 <body>
-
+    <style>
+      body{
+        background-color: rgb(221,221,212);
+        font-family: "Helvetica Neue";
+      }
+    </style>
 <?php
 	if(isset($_POST['file'])){
     	$fn = $_POST['file'];
@@ -20,7 +25,7 @@ session_start();
     
     if(strcmp($exp[1], 'csv') != 0){
     	echo "Please upload a .csv file. Redirecting...";
-    	echo "<script> setTimeout(function(){ window.location.href = 'sdashboard.php';}, 1000); </script>";
+    	echo "<script> setTimeout(function(){ window.location.href = 'fileupload.php';}, 1000); </script>";
     	exit();
     }
 	$inputFilename    = $fn;

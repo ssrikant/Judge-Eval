@@ -69,8 +69,6 @@
 	    }
         
     	$f = $details->team[$te]->forms;
-        echo '<button style="height:50px; width:100px; font-size: 150%;" onclick="window.print();">Print</button>';
-        echo '<br><a href="projsession.php" onclick="window.history.back();">Back</a> <br><hr>';
 
         for($i = 0; $i < sizeof($f); $i++){
     		$JN = $f[$i]->JudgeName;

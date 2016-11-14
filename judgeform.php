@@ -7,11 +7,16 @@ session_start();
  <title>Senior Design: Judge Form</title>
  </head>
  <body>
-
+    <style>
+      body{
+        background-color: rgb(221,221,212);
+        font-family: "Helvetica Neue";
+      }
+    </style>
 <?php
     
-    if($myfile = fopen("pins.txt", "r")){
-    	$fileinfo = file_get_contents('pins.txt');
+    if($myfile = fopen("pinser.txt", "r")){
+    	$fileinfo = file_get_contents('pinser.txt');
         $pinarray = unserialize($fileinfo);
     }
     else{
@@ -20,7 +25,7 @@ session_start();
     }
     
     if(isset($_POST['PIN'])){
-    	$pin = $_POST['PIN'];
+    	$pin = filter_var($_POST['PIN'], FILTER_SANITIZE_STRING);
         $_SESSION['judge'] = 1;
     }
     

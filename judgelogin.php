@@ -6,11 +6,17 @@
 
 <html>
     <body>
+    <style>
+      body{
+        background-color: rgb(221,221,212);
+        font-family: "Helvetica Neue";
+      }
+    </style>
 	  <FORM name="judgelogin" method = "POST" Action="judgeform.php">
-		Please enter the pin number given<br>
+		Please enter the pin number.<br><br>
         PIN: <br/>
-        <input type = "password" name = "PIN"> <br/>
-        <input type="submit" name="Login" value="Login">
+        <input class="button1" type = "password" name = "PIN"> <br/>
+        <input class="button1" type="submit" name="Login" value="Login">
       </form>
     </body>
 </html>

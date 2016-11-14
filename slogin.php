@@ -15,7 +15,9 @@
         }
 
         if(isset($_POST['username']) && isset($_POST['password'])){
-            if($_POST['username'] == "swibeto" && $_POST['password'] == "1msaili3!") {
+            $uname = filter_var($_POST['username'], FILTER_SANITIZE_STRING);
+            $pwd = filter_var($_POST['password'], FILTER_SANITIZE_STRING);
+            if($uname == "swibeto" && $pwd == "1msaili3!") {
                 $_SESSION['logged_in'] = 1;
                 header('Location: sdashboard.php');
             }

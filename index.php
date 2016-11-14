@@ -8,7 +8,20 @@
 ?>
 
 <html>
-  <body><br/>
+  <body>
+	<style>
+	#jl{
+
+    }
+    #sl{
+
+    }
+      body{
+        background-color: rgb(221,221,212);
+        font-family: "Helvetica Neue";
+      }
+    </style>
+  <br/>
   <?php
   	session_unset();
     session_destroy();
@@ -16,8 +29,8 @@
     	echo "Successfully logged out.<br><br>";
     }
     ?>
-  <a href = "judgelogin.php">Judge Login</a> <br/>
-  <a href = "slogin.php">Admin Login</a> <br/>
+  <a id="jl" href = "judgelogin.php">Judge Login</a> <br/><br>
+  <a id="sl" href = "slogin.php">Admin Login</a> <br/>
 <br/>
 </body>
 </html>
