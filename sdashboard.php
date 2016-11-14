@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <?php
+  session_save_path("sessions");
   session_start();
 if(isset($_SESSION['logged_in']) && $_SESSION['logged_in'] == 1){ ?>
 <html>

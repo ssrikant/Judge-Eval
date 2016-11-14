@@ -53,132 +53,7 @@
     <FacultyDept2/>
     <DateSubmitted>1/27/15 9:19</DateSubmitted>
     <forms>
-      <JudgeName>Gon</JudgeName>
-      <TechnicalAccuracy>5</TechnicalAccuracy>
-      <CreativityandInnovation>1</CreativityandInnovation>
-      <SupportingAnalyticalWork>1</SupportingAnalyticalWork>
-      <MethodicalDesignProcessDemonstrated>1</MethodicalDesignProcessDemonstrated>
-      <AddressesProjectComplexityAppropriately>1</AddressesProjectComplexityAppropriately>
-      <ExpectationofCompletion>4</ExpectationofCompletion>
-      <DesignandAnalysisoftests>4</DesignandAnalysisoftests>
-      <QualityofResponseduringQA>4</QualityofResponseduringQA>
-      <Organization>4</Organization>
-      <UseofAllotedTime>4</UseofAllotedTime>
-      <VisualAids>4</VisualAids>
-      <ConfidenceandPoise>5</ConfidenceandPoise>
-      <Total>38</Total>
-      <Economic>0</Economic>
-      <Environmental>1</Environmental>
-      <Sustainability>1</Sustainability>
-      <Manufacturability>1</Manufacturability>
-      <Ethical>0</Ethical>
-      <HealthandSafety>0</HealthandSafety>
-      <Social>0</Social>
-      <Political>0</Political>
-      <Comments>Hello...</Comments>
-    </forms>
-    <forms>
-      <JudgeName>Killua</JudgeName>
-      <TechnicalAccuracy>5</TechnicalAccuracy>
-      <CreativityandInnovation>1</CreativityandInnovation>
-      <SupportingAnalyticalWork>1</SupportingAnalyticalWork>
-      <MethodicalDesignProcessDemonstrated>1</MethodicalDesignProcessDemonstrated>
-      <AddressesProjectComplexityAppropriately>1</AddressesProjectComplexityAppropriately>
-      <ExpectationofCompletion>1</ExpectationofCompletion>
-      <DesignandAnalysisoftests>1</DesignandAnalysisoftests>
-      <QualityofResponseduringQA>1</QualityofResponseduringQA>
-      <Organization>1</Organization>
-      <UseofAllotedTime>1</UseofAllotedTime>
-      <VisualAids>1</VisualAids>
-      <ConfidenceandPoise>1</ConfidenceandPoise>
-      <Total>16</Total>
-      <Economic>1</Economic>
-      <Environmental>1</Environmental>
-      <Sustainability>1</Sustainability>
-      <Manufacturability>1</Manufacturability>
-      <Ethical>1</Ethical>
-      <HealthandSafety>1</HealthandSafety>
-      <Social>1</Social>
-      <Political>1</Political>
-      <Comments>...</Comments>
-    </forms>
-    <forms>
-      <JudgeName>Kurapika</JudgeName>
-      <TechnicalAccuracy>1</TechnicalAccuracy>
-      <CreativityandInnovation>1</CreativityandInnovation>
-      <SupportingAnalyticalWork>1</SupportingAnalyticalWork>
-      <MethodicalDesignProcessDemonstrated>5</MethodicalDesignProcessDemonstrated>
-      <AddressesProjectComplexityAppropriately>4</AddressesProjectComplexityAppropriately>
-      <ExpectationofCompletion>5</ExpectationofCompletion>
-      <DesignandAnalysisoftests>5</DesignandAnalysisoftests>
-      <QualityofResponseduringQA>5</QualityofResponseduringQA>
-      <Organization>5</Organization>
-      <UseofAllotedTime>5</UseofAllotedTime>
-      <VisualAids>5</VisualAids>
-      <ConfidenceandPoise>5</ConfidenceandPoise>
-      <Total>47</Total>
-      <Economic>0</Economic>
-      <Environmental>0</Environmental>
-      <Sustainability>0</Sustainability>
-      <Manufacturability>0</Manufacturability>
-      <Ethical>0</Ethical>
-      <HealthandSafety>0</HealthandSafety>
-      <Social>0</Social>
-      <Political>0</Political>
-      <Comments>ok</Comments>
-    </forms>
-    <forms>
-      <JudgeName>Leorio</JudgeName>
-      <TechnicalAccuracy>1</TechnicalAccuracy>
-      <CreativityandInnovation>1</CreativityandInnovation>
-      <SupportingAnalyticalWork>1</SupportingAnalyticalWork>
-      <MethodicalDesignProcessDemonstrated>1</MethodicalDesignProcessDemonstrated>
-      <AddressesProjectComplexityAppropriately>1</AddressesProjectComplexityAppropriately>
-      <ExpectationofCompletion>1</ExpectationofCompletion>
-      <DesignandAnalysisoftests>1</DesignandAnalysisoftests>
-      <QualityofResponseduringQA>1</QualityofResponseduringQA>
-      <Organization>1</Organization>
-      <UseofAllotedTime>1</UseofAllotedTime>
-      <VisualAids>1</VisualAids>
-      <ConfidenceandPoise>1</ConfidenceandPoise>
-      <Total>12</Total>
-      <Economic>0</Economic>
-      <Environmental>0</Environmental>
-      <Sustainability>0</Sustainability>
-      <Manufacturability>0</Manufacturability>
-      <Ethical>0</Ethical>
-      <HealthandSafety>0</HealthandSafety>
-      <Social>0</Social>
-      <Political>0</Political>
-      <Comments/>
-    </forms>
-    <forms>
-      <JudgeName>Chrollo</JudgeName>
-      <TechnicalAccuracy>5</TechnicalAccuracy>
-      <CreativityandInnovation>4</CreativityandInnovation>
-      <SupportingAnalyticalWork>4</SupportingAnalyticalWork>
-      <MethodicalDesignProcessDemonstrated>4</MethodicalDesignProcessDemonstrated>
-      <AddressesProjectComplexityAppropriately>4</AddressesProjectComplexityAppropriately>
-      <ExpectationofCompletion>4</ExpectationofCompletion>
-      <DesignandAnalysisoftests>4</DesignandAnalysisoftests>
-      <QualityofResponseduringQA>4</QualityofResponseduringQA>
-      <Organization>4</Organization>
-      <UseofAllotedTime>4</UseofAllotedTime>
-      <VisualAids>3</VisualAids>
-      <ConfidenceandPoise>4</ConfidenceandPoise>
-      <Total>48</Total>
-      <Economic>0</Economic>
-      <Environmental>1</Environmental>
-      <Sustainability>0</Sustainability>
-      <Manufacturability>0</Manufacturability>
-      <Ethical>1</Ethical>
-      <HealthandSafety>1</HealthandSafety>
-      <Social>0</Social>
-      <Political>0</Political>
-      <Comments>:)</Comments>
-    </forms>
-    <forms>
-      <JudgeName>Meruem</JudgeName>
+      <JudgeName>Jordan Lai</JudgeName>
       <TechnicalAccuracy>5</TechnicalAccuracy>
       <CreativityandInnovation>5</CreativityandInnovation>
       <SupportingAnalyticalWork>5</SupportingAnalyticalWork>
@@ -192,140 +67,90 @@
       <VisualAids>5</VisualAids>
       <ConfidenceandPoise>5</ConfidenceandPoise>
       <Total>60</Total>
+      <Economic>1</Economic>
+      <Environmental>0</Environmental>
+      <Sustainability>0</Sustainability>
+      <Manufacturability>0</Manufacturability>
+      <Ethical>0</Ethical>
+      <HealthandSafety>0</HealthandSafety>
+      <Social>0</Social>
+      <Political>1</Political>
+      <Comments>Well done!</Comments>
+    </forms>
+    <forms>
+      <JudgeName>Malika</JudgeName>
+      <TechnicalAccuracy>5</TechnicalAccuracy>
+      <CreativityandInnovation>5</CreativityandInnovation>
+      <SupportingAnalyticalWork>5</SupportingAnalyticalWork>
+      <MethodicalDesignProcessDemonstrated>5</MethodicalDesignProcessDemonstrated>
+      <AddressesProjectComplexityAppropriately>4</AddressesProjectComplexityAppropriately>
+      <ExpectationofCompletion>4</ExpectationofCompletion>
+      <DesignandAnalysisoftests>4</DesignandAnalysisoftests>
+      <QualityofResponseduringQA>4</QualityofResponseduringQA>
+      <Organization>3</Organization>
+      <UseofAllotedTime>3</UseofAllotedTime>
+      <VisualAids>3</VisualAids>
+      <ConfidenceandPoise>3</ConfidenceandPoise>
+      <Total>48</Total>
       <Economic>0</Economic>
       <Environmental>0</Environmental>
       <Sustainability>0</Sustainability>
       <Manufacturability>0</Manufacturability>
       <Ethical>1</Ethical>
       <HealthandSafety>0</HealthandSafety>
-      <Social>0</Social>
+      <Social>1</Social>
       <Political>1</Political>
-      <Comments>Hey</Comments>
+      <Comments>Not bad!</Comments>
     </forms>
     <forms>
-      <JudgeName>Kalluto</JudgeName>
-      <TechnicalAccuracy>3</TechnicalAccuracy>
-      <CreativityandInnovation>1</CreativityandInnovation>
-      <SupportingAnalyticalWork>1</SupportingAnalyticalWork>
-      <MethodicalDesignProcessDemonstrated>4</MethodicalDesignProcessDemonstrated>
-      <AddressesProjectComplexityAppropriately>4</AddressesProjectComplexityAppropriately>
-      <ExpectationofCompletion>4</ExpectationofCompletion>
-      <DesignandAnalysisoftests>4</DesignandAnalysisoftests>
-      <QualityofResponseduringQA>4</QualityofResponseduringQA>
-      <Organization>4</Organization>
-      <UseofAllotedTime>4</UseofAllotedTime>
-      <VisualAids>4</VisualAids>
-      <ConfidenceandPoise>4</ConfidenceandPoise>
-      <Total>41</Total>
-      <Economic>0</Economic>
-      <Environmental>0</Environmental>
-      <Sustainability>0</Sustainability>
-      <Manufacturability>0</Manufacturability>
-      <Ethical>0</Ethical>
-      <HealthandSafety>0</HealthandSafety>
-      <Social>0</Social>
-      <Political>0</Political>
-      <Comments/>
-    </forms>
-    <forms>
-      <JudgeName>Feitan</JudgeName>
-      <TechnicalAccuracy>4</TechnicalAccuracy>
-      <CreativityandInnovation>4</CreativityandInnovation>
-      <SupportingAnalyticalWork>4</SupportingAnalyticalWork>
-      <MethodicalDesignProcessDemonstrated>4</MethodicalDesignProcessDemonstrated>
-      <AddressesProjectComplexityAppropriately>4</AddressesProjectComplexityAppropriately>
-      <ExpectationofCompletion>3</ExpectationofCompletion>
-      <DesignandAnalysisoftests>4</DesignandAnalysisoftests>
-      <QualityofResponseduringQA>4</QualityofResponseduringQA>
-      <Organization>3</Organization>
-      <UseofAllotedTime>4</UseofAllotedTime>
-      <VisualAids>4</VisualAids>
-      <ConfidenceandPoise>4</ConfidenceandPoise>
-      <Total>46</Total>
-      <Economic>0</Economic>
-      <Environmental>0</Environmental>
-      <Sustainability>0</Sustainability>
-      <Manufacturability>0</Manufacturability>
-      <Ethical>0</Ethical>
-      <HealthandSafety>1</HealthandSafety>
-      <Social>0</Social>
-      <Political>0</Political>
-      <Comments>Safety</Comments>
-    </forms>
-    <forms>
-      <JudgeName>Kortopi</JudgeName>
-      <TechnicalAccuracy>1</TechnicalAccuracy>
-      <CreativityandInnovation>1</CreativityandInnovation>
-      <SupportingAnalyticalWork>2</SupportingAnalyticalWork>
-      <MethodicalDesignProcessDemonstrated>2</MethodicalDesignProcessDemonstrated>
-      <AddressesProjectComplexityAppropriately>3</AddressesProjectComplexityAppropriately>
-      <ExpectationofCompletion>3</ExpectationofCompletion>
-      <DesignandAnalysisoftests>3</DesignandAnalysisoftests>
-      <QualityofResponseduringQA>4</QualityofResponseduringQA>
+      <JudgeName>Pres Test</JudgeName>
+      <TechnicalAccuracy>5</TechnicalAccuracy>
+      <CreativityandInnovation>5</CreativityandInnovation>
+      <SupportingAnalyticalWork>5</SupportingAnalyticalWork>
+      <MethodicalDesignProcessDemonstrated>5</MethodicalDesignProcessDemonstrated>
+      <AddressesProjectComplexityAppropriately>5</AddressesProjectComplexityAppropriately>
+      <ExpectationofCompletion>5</ExpectationofCompletion>
+      <DesignandAnalysisoftests>5</DesignandAnalysisoftests>
+      <QualityofResponseduringQA>5</QualityofResponseduringQA>
       <Organization>5</Organization>
-      <UseofAllotedTime>3</UseofAllotedTime>
-      <VisualAids>2</VisualAids>
-      <ConfidenceandPoise>1</ConfidenceandPoise>
-      <Total>30</Total>
+      <UseofAllotedTime>5</UseofAllotedTime>
+      <VisualAids>5</VisualAids>
+      <ConfidenceandPoise>5</ConfidenceandPoise>
+      <Total>60</Total>
       <Economic>1</Economic>
-      <Environmental>1</Environmental>
-      <Sustainability>0</Sustainability>
+      <Environmental>0</Environmental>
+      <Sustainability>1</Sustainability>
       <Manufacturability>0</Manufacturability>
       <Ethical>0</Ethical>
       <HealthandSafety>0</HealthandSafety>
-      <Social>0</Social>
+      <Social>1</Social>
       <Political>0</Political>
-      <Comments>.</Comments>
+      <Comments>Good job!</Comments>
     </forms>
     <forms>
-      <JudgeName>Machi</JudgeName>
-      <TechnicalAccuracy>4</TechnicalAccuracy>
-      <CreativityandInnovation>2</CreativityandInnovation>
-      <SupportingAnalyticalWork>2</SupportingAnalyticalWork>
-      <MethodicalDesignProcessDemonstrated>3</MethodicalDesignProcessDemonstrated>
-      <AddressesProjectComplexityAppropriately>2</AddressesProjectComplexityAppropriately>
-      <ExpectationofCompletion>4</ExpectationofCompletion>
-      <DesignandAnalysisoftests>2</DesignandAnalysisoftests>
-      <QualityofResponseduringQA>2</QualityofResponseduringQA>
-      <Organization>2</Organization>
-      <UseofAllotedTime>2</UseofAllotedTime>
-      <VisualAids>2</VisualAids>
-      <ConfidenceandPoise>2</ConfidenceandPoise>
-      <Total>29</Total>
-      <Economic>0</Economic>
+      <JudgeName>Test</JudgeName>
+      <TechnicalAccuracy>5</TechnicalAccuracy>
+      <CreativityandInnovation>5</CreativityandInnovation>
+      <SupportingAnalyticalWork>5</SupportingAnalyticalWork>
+      <MethodicalDesignProcessDemonstrated>5</MethodicalDesignProcessDemonstrated>
+      <AddressesProjectComplexityAppropriately>5</AddressesProjectComplexityAppropriately>
+      <ExpectationofCompletion>5</ExpectationofCompletion>
+      <DesignandAnalysisoftests>5</DesignandAnalysisoftests>
+      <QualityofResponseduringQA>5</QualityofResponseduringQA>
+      <Organization>5</Organization>
+      <UseofAllotedTime>5</UseofAllotedTime>
+      <VisualAids>5</VisualAids>
+      <ConfidenceandPoise>5</ConfidenceandPoise>
+      <Total>60</Total>
+      <Economic>1</Economic>
       <Environmental>0</Environmental>
-      <Sustainability>0</Sustainability>
+      <Sustainability>1</Sustainability>
       <Manufacturability>0</Manufacturability>
-      <Ethical>0</Ethical>
+      <Ethical>1</Ethical>
       <HealthandSafety>0</HealthandSafety>
       <Social>0</Social>
       <Political>0</Political>
-      <Comments/>
-    </forms>
-    <forms>
-      <JudgeName>Phinks</JudgeName>
-      <TechnicalAccuracy>4</TechnicalAccuracy>
-      <CreativityandInnovation>4</CreativityandInnovation>
-      <SupportingAnalyticalWork>4</SupportingAnalyticalWork>
-      <MethodicalDesignProcessDemonstrated>2</MethodicalDesignProcessDemonstrated>
-      <AddressesProjectComplexityAppropriately>3</AddressesProjectComplexityAppropriately>
-      <ExpectationofCompletion>4</ExpectationofCompletion>
-      <DesignandAnalysisoftests>4</DesignandAnalysisoftests>
-      <QualityofResponseduringQA>4</QualityofResponseduringQA>
-      <Organization>3</Organization>
-      <UseofAllotedTime>2</UseofAllotedTime>
-      <VisualAids>4</VisualAids>
-      <ConfidenceandPoise>3</ConfidenceandPoise>
-      <Total>41</Total>
-      <Economic>0</Economic>
-      <Environmental>0</Environmental>
-      <Sustainability>0</Sustainability>
-      <Manufacturability>1</Manufacturability>
-      <Ethical>0</Ethical>
-      <HealthandSafety>0</HealthandSafety>
-      <Social>0</Social>
-      <Political>0</Political>
-      <Comments/>
+      <Comments>wow so cool</Comments>
     </forms>
   </team>
   <team>
@@ -433,6 +258,31 @@
     <Faculty2/>
     <FacultyDept2/>
     <DateSubmitted>2/4/15 15:40</DateSubmitted>
+    <forms>
+      <JudgeName>Jordan</JudgeName>
+      <TechnicalAccuracy>5</TechnicalAccuracy>
+      <CreativityandInnovation>5</CreativityandInnovation>
+      <SupportingAnalyticalWork>4</SupportingAnalyticalWork>
+      <MethodicalDesignProcessDemonstrated>4</MethodicalDesignProcessDemonstrated>
+      <AddressesProjectComplexityAppropriately>4</AddressesProjectComplexityAppropriately>
+      <ExpectationofCompletion>4</ExpectationofCompletion>
+      <DesignandAnalysisoftests>4</DesignandAnalysisoftests>
+      <QualityofResponseduringQA>4</QualityofResponseduringQA>
+      <Organization>4</Organization>
+      <UseofAllotedTime>4</UseofAllotedTime>
+      <VisualAids>4</VisualAids>
+      <ConfidenceandPoise>4</ConfidenceandPoise>
+      <Total>50</Total>
+      <Economic>1</Economic>
+      <Environmental>0</Environmental>
+      <Sustainability>0</Sustainability>
+      <Manufacturability>0</Manufacturability>
+      <Ethical>0</Ethical>
+      <HealthandSafety>1</HealthandSafety>
+      <Social>0</Social>
+      <Political>1</Political>
+      <Comments>A strong presentation!</Comments>
+    </forms>
   </team>
   <team>
     <Title>Redesigning Lp-PLA2 while Retaining Catalytic Function</Title>
