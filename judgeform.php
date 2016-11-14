@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <?php 
-session_start();
+	session_save_path("sessions");
+	session_start();
 ?>
  <html>
  <head>
@@ -11,7 +12,23 @@ session_start();
       body{
         background-color: rgb(221,221,212);
         font-family: "Helvetica Neue";
-      }
+    }
+	p{
+	text-align: center;
+	font-size: 20px;
+	color: black;
+	font-family: "Helvetica Neue";
+	}
+input[type=radio]{
+	margin-left: 60px;
+	margin-right:30px;
+	color: black;
+	}
+input[type=checkbox]{
+	margin-left:180px;
+	margin-right:30px;
+	color: black;
+	}
     </style>
 <?php
     
@@ -73,107 +90,146 @@ if(isset($_SESSION['judge']) && $_SESSION['judge'] == 1){
 	<p> Session: <?php echo $session;?></p>
 	<p> Room: <?php echo $room;?></p>
 	<p> Advisor: <?php if(sizeof($advisor) == 1){ echo $advisor[0];} else{ echo $advisor[0] . ", " . $advisor[1];}?></p>
-	<p> Judge Name: <input type="text" name="JN" required> </input></p>
+	<p> Judge Name: <input type="text" name="JN" autocomplete='off' required> </input></p>
 	<p> Please evaluate senior engineering design projects and presentations using the following point system:<p>
 	<p> 1: Poor  2: Below Average 3: Average 4: Good 5: Excellent </p>
 
-	DESIGN PROJECT <br>
-	A. Technical Accuracy
-		<input type="radio" name="TA" value="5" required> 5
-		<input type="radio" name="TA" value="4" required> 4
-		<input type="radio" name="TA" value="3" required> 3
-		<input type="radio" name="TA" value="2" required> 2
-		<input type="radio" name="TA" value="1" required> 1
-	<br>
-	B. Creativity and Innovation
-		<input type="radio" name="CI" value="5" required> 5
-		<input type="radio" name="CI" value="4" required> 4
-		<input type="radio" name="CI" value="3" required> 3
-		<input type="radio" name="CI" value="2" required> 2
-		<input type="radio" name="CI" value="1" required> 1
-	<br>
-	C. Supporting Analytical Work
-		<input type="radio" name="SAW" value="5" required> 5
-		<input type="radio" name="SAW" value="4" required> 4
-		<input type="radio" name="SAW" value="3" required> 3
-		<input type="radio" name="SAW" value="2" required> 2
-		<input type="radio" name="SAW" value="1" required> 1
-	<br>
-	D. Methodical Design Process Demonstrated
-		<input type="radio" name="MDPD" value="5" required> 5
-		<input type="radio" name="MDPD" value="4" required> 4
-		<input type="radio" name="MDPD" value="3" required> 3
-		<input type="radio" name="MDPD" value="2" required> 2
-		<input type="radio" name="MDPD" value="1" required> 1
-	<br>
-	E. Addresses Project Complexity Appropriately
-		<input type="radio" name="APCA" value="5" required> 5
-        <input type="radio" name="APCA" value="4" required> 4
-		<input type="radio" name="APCA" value="3" required> 3
-		<input type="radio" name="APCA" value="2" required> 2
-		<input type="radio" name="APCA" value="1" required> 1
+	<strong>DESIGN PROJECT </strong><br>
+	<table style="width:100%" align="left">
+		<tr>
+			<td>A. Technical Accuracy</td>
+			<td><input type="radio" name="TA" value="5"><font color="black"> 5 </font>
+				<input type="radio" name="TA" value="4"> <font color="black"> 4 </font>
+				<input type="radio" name="TA" value="3"> <font color="black"> 3 </font>
+				<input type="radio" name="TA" value="2"> <font color="black"> 2 </font>
+				<input type="radio" name="TA" value="1"> <font color="black"> 1 </font>
+			</td>
+		</tr>
+		<tr>
+			<td>B. Creativity and Innovation</td>
+			<td><input type="radio" name="CI" value="5"> <font color="black"> 5 </font>
+				<input type="radio" name="CI" value="4"> <font color="black"> 4 </font>
+				<input type="radio" name="CI" value="3"> <font color="black"> 3 </font>
+				<input type="radio" name="CI" value="2"> <font color="black"> 2 </font>
+				<input type="radio" name="CI" value="1"> <font color="black"> 1 </font>
+			</td>
+		</tr>
+		<tr>
+			<td>C. Supporting Analytical Work</td>
+			<td><input type="radio" name="SAW" value="5"><font color="black"> 5 </font>
+				<input type="radio" name="SAW" value="4"><font color="black"> 4 </font>
+				<input type="radio" name="SAW" value="3"><font color="black"> 3 </font>
+				<input type="radio" name="SAW" value="2"><font color="black"> 2 </font>
+				<input type="radio" name="SAW" value="1"><font color="black"> 1 </font>
+			</td>
+		</tr>
+		<tr>
+			<td>D. Methodical Design Process Demonstrated</td>
+			<td><input type="radio" name="MDPD" value="5"><font color="black"> 5 </font>
+				<input type="radio" name="MDPD" value="4"><font color="black"> 4 </font>
+				<input type="radio" name="MDPD" value="3"><font color="black"> 3 </font>
+				<input type="radio" name="MDPD" value="2"><font color="black"> 2 </font>
+				<input type="radio" name="MDPD" value="1"><font color="black"> 1 </font>
+			</td>
+		</tr>
+		<tr>
+			<td>E. Addresses Project Complexity Appropriately</td>
+			<td><input type="radio" name="APCA" value="5"> <font color="black"> 5 </font>
+     		   	<input type="radio" name="APCA" value="4"> <font color="black"> 4 </font>
+				<input type="radio" name="APCA" value="3"> <font color="black"> 3 </font>
+				<input type="radio" name="APCA" value="2"> <font color="black"> 2 </font>
+				<input type="radio" name="APCA" value="1"><font color="black"> 1 </font>
+			</td>
+		</tr>
+		<tr>
+			<td>F. Expectation of Completion (by term's end)</td>
+			<td><input type="radio" name="EC" value="5"> <font color="black"> 5 </font>
+				<input type="radio" name="EC" value="4"> <font color="black"> 4 </font>
+				<input type="radio" name="EC" value="3"> <font color="black"> 3 </font>
+				<input type="radio" name="EC" value="2"> <font color="black"> 2 </font>
+				<input type="radio" name="EC" value="1"> <font color="black"> 1 </font>
+			</td>
+		</tr>
+		<tr>
+			<td>G. Design and Analysis of tests</td>
+			<td><input type="radio" name="DA" value="5"><font color="black"> 5 </font>
+				<input type="radio" name="DA" value="4"><font color="black"> 4 </font>
+				<input type="radio" name="DA" value="3"><font color="black"> 3 </font>
+				<input type="radio" name="DA" value="2"><font color="black"> 2 </font>
+				<input type="radio" name="DA" value="1"><font color="black"> 1 </font>
+			</td>
+		</tr>
+		<tr>
+			<td>H. Quality of Response during Q & A</td>
+			<td><input type="radio" name="R" value="5"> <font color="black"> 5 </font>
+				<input type="radio" name="R" value="4"> <font color="black"> 4 </font>
+				<input type="radio" name="R" value="3"> <font color="black"> 3 </font>
+				<input type="radio" name="R" value="2"> <font color="black"> 2 </font>
+				<input type="radio" name="R" value="1"> <font color="black"> 1 </font>
+			</td>
+		</tr>
+		</table>
 
-	<br>
-	F. Expectation of Completion (by term's end)
-		<input type="radio" name="EC" value="5" required> 5
-		<input type="radio" name="EC" value="4" required> 4
-		<input type="radio" name="EC" value="3" required> 3
-		<input type="radio" name="EC" value="2" required> 2
-		<input type="radio" name="EC" value="1" required> 1
-	<br>
-	G. Design and Analysis of tests
-		<input type="radio" name="DA" value="5" required> 5
-		<input type="radio" name="DA" value="4" required> 4
-		<input type="radio" name="DA" value="3" required> 3
-		<input type="radio" name="DA" value="2" required> 2
-		<input type="radio" name="DA" value="1" required> 1
-	<br>
-	H. Quality of Response during Q & A
-		<input type="radio" name="R" value="5" required> 5
-		<input type="radio" name="R" value="4" required> 4
-		<input type="radio" name="R" value="3" required> 3
-		<input type="radio" name="R" value="2" required> 2
-		<input type="radio" name="R" value="1" required> 1
 	<br><br>
-	PRESENTATION
-	<br>
-	A. Organization
-		<input type="radio" name="O" value="5" required> 5
-		<input type="radio" name="O" value="4" required> 4
-		<input type="radio" name="O" value="3" required> 3
-		<input type="radio" name="O" value="2" required> 2
-		<input type="radio" name="O" value="1" required> 1
-	<br>
-	B. Use of Alloted Time
-		<input type="radio" name="UAT" value="5" required> 5
-		<input type="radio" name="UAT" value="4" required> 4
-		<input type="radio" name="UAT" value="3" required> 3
-		<input type="radio" name="UAT" value="2" required> 2
-		<input type="radio" name="UAT" value="1" required> 1
-	<br>
-	C. Visual Aids
-		<input type="radio" name="VA" value="5" required> 5
-		<input type="radio" name="VA" value="4" required> 4
-		<input type="radio" name="VA" value="3" required> 3
-		<input type="radio" name="VA" value="2" required> 2
-		<input type="radio" name="VA" value="1" required> 1
-	<br>
-	D. Confidence and Poise
-		<input type="radio" name="CP" value="5" required> 5
-		<input type="radio" name="CP" value="4" required> 4
-		<input type="radio" name="CP" value="3" required> 3
-		<input type="radio" name="CP" value="2" required> 2
-		<input type="radio" name="CP" value="1" required> 1
+	<strong>PRESENTATION</strong><br>
+	<table style="width:100%">
+	<tr>
+		<td width="31.5%">A. Organization</td>
+		<td><input type="radio" name="O" value="5"><font color="black"> 5 </font>
+			<input type="radio" name="O" value="4"><font color="black"> 4 </font>
+			<input type="radio" name="O" value="3"><font color="black"> 3 </font>
+			<input type="radio" name="O" value="2"> <font color="black"> 2 </font>
+			<input type="radio" name="O" value="1"><font color="black"> 1 </font>
+		</td>
+	</tr>
+	<tr>
+		<td>B. Use of Alloted Time</td>
+		<td><input type="radio" name="UAT" value="5"> <font color="black"> 5 </font>
+			<input type="radio" name="UAT" value="4"> <font color="black"> 4 </font>
+			<input type="radio" name="UAT" value="3"> <font color="black"> 3 </font>
+			<input type="radio" name="UAT" value="2"> <font color="black"> 2 </font>
+			<input type="radio" name="UAT" value="1"> <font color="black"> 1 </font>
+		</td>
+	</tr>
+	<tr>
+		<td>C. Visual Aids</td>
+		<td><input type="radio" name="VA" value="5"> <font color="black"> 5 </font>
+			<input type="radio" name="VA" value="4"> <font color="black"> 4 </font>
+			<input type="radio" name="VA" value="3"> <font color="black"> 3 </font>
+			<input type="radio" name="VA" value="2"> <font color="black"> 2 </font>
+			<input type="radio" name="VA" value="1"> <font color="black"> 1 </font>
+		</td>
+	</tr>
+	<tr>
+		<td>D. Confidence and Poise</td>
+		<td><input type="radio" name="CP" value="5"> <font color="black"> 5 </font>
+			<input type="radio" name="CP" value="4"> <font color="black"> 4 </font>
+			<input type="radio" name="CP" value="3"> <font color="black"> 3 </font>
+			<input type="radio" name="CP" value="2"> <font color="black"> 2 </font>
+			<input type="radio" name="CP" value="1"> <font color="black"> 1 </font>
+		</td>
+	</tr>
+	</table>
 	<br><br>
 	<p>Please check off each of the following considerations that were addresssed by the presentation:</p>
-		<input type="checkbox" name="Ec" value="Yes">Economic <br>
-		<input type="checkbox" name="En" value="Yes">Environmental <br>
-		<input type="checkbox" name="Su" value="Yes">Sustainability <br>
-		<input type="checkbox" name="Ma" value="Yes">Manufacturability <br>
-		<input type="checkbox" name="Et" value="Yes">Ethical <br>
-		<input type="checkbox" name="HS" value="Yes">Health and Safety <br>
-		<input type="checkbox" name="So" value="Yes">Social <br>
-		<input type="checkbox" name="Po" value="Yes">Political <br>
+	<table style="width:100%">
+		<tr>	
+			<td><input type="checkbox" name="Ec" value="Yes">Economic </td>
+			<td><input type="checkbox" name="En" value="Yes">Environmental </td>
+		</tr>
+		<tr>
+			<td><input type="checkbox" name="Su" value="Yes">Sustainability </td>
+			<td><input type="checkbox" name="Ma" value="Yes">Manufacturability </td>
+		</tr>
+		<tr>
+			<td><input type="checkbox" name="Et" value="Yes">Ethical </td>
+			<td><input type="checkbox" name="HS" value="Yes">Health and Safety </td>
+		</tr>
+		<tr>
+		<td><input type="checkbox" name="So" value="Yes">Social </td>
+		<td><input type="checkbox" name="Po" value="Yes">Political </td>
+		</tr>
+		</table>
 		Comments:<br>
 	    <textarea rows="4" cols="50" name="Com" form="JudgeEval" placeholder="Enter Comments here..."></textarea></br>
 	    <input type="submit" value="Submit">

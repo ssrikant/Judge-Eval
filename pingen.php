@@ -17,6 +17,7 @@
 <body>
 
 <?php
+session_save_path("sessions");
 session_start();
 
 
@@ -34,6 +35,9 @@ session_start();
     	        $j++;
     	    }
     	}
+        $sn=0;
+        $in=0;
+        $t=0;
     	$index[$j] = $i;
 
     	$te = $index[$sn] + $t;//number of teams in the session
@@ -88,7 +92,7 @@ session_start();
 	    return $string;
 	}
 
-	echo "<div style='font-size:20px'>Random String Generator... <br> Warning: Do not click the Generate pins for judge login button again or the pins will reset, these pins can also be viewed from a text file. <br><br></div>";
+	echo "<div style='font-size:20px'>Random PIN Generator<br> Warning: Do not click the Generate pins for judge login button again or the pins will reset, these pins can also be viewed from a text file. <br><br></div>";
 
 for($g = 0, $gg = 1; $g < $size; $g++, $gg++){
 	
