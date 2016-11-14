@@ -55,7 +55,7 @@ session_start();
         }
 
         $title[$i] = $details->team[$i]->Title;
-		
+
         $advisor[$i][0] = $details->team[$i]->Faculty1;
         if(strcmp($details->team[$i]->Faculty2, '') != 0){
         	$advisor[$i][1] = $details->team[$i]->Faculty2;
@@ -72,19 +72,26 @@ session_start();
 
 <html>
 <head>
+  <div class="logout">
+      <a href="slogin.php">Logout</a> </br>
+  </div>
+  <div class="sessionback">
+      <a href="choosession.php">View Another Session</a> </br>
+  </div>
+  <img src= "missionlogo.png" alt="Mission" style="width:1100px;height:228px;">
 </head>
+<html>
   <h1>
     <?php echo "$session"; ?>
   </h1>
   <body>
-  	  <a href="sdashboard.php">Back</a> <br/>
       <?php
       	for($t = 0; $t < $tn; $t++){
             //$t = $i - $index[$sn];
       ?>
       <p>
         Team <?php echo $t+1 . ": ";
-        	echo $title[$t + $index[$sn]] . "<br>";
+        	echo $title[$t] . "<br>";
             echo "Members: ";
         	for($k = 0; $k < $details->team[$t + $index[$sn]]->EngineeringSeniors; $k++){
             	if($k == $details->team[$t + $index[$sn]]->EngineeringSeniors-1){
@@ -97,10 +104,9 @@ session_start();
       <table style = "width:75%", border="1px, solid black">
         <thead>
         <tr>
-          <th>&nbsp </th><?php $judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
-          						for($i = 0, $j = 1; $i < $judgeNum; $i++, $j++){
-                                $name = $details->team[$t+$index[$sn]]->forms[$i]->JudgeName; ?>
-          <?php echo "<th>$name</th>"; }?>
+          <th>Judging Criteria </th><?php $judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
+          						for($i = 0, $j = 1; $i < $judgeNum; $i++, $j++){ ?>
+          <?php echo "<th>Judge $j</th>"; }?>
         </tr>
       </thead>
       <tbody>
@@ -273,7 +279,7 @@ session_start();
         	}?>
         </tr>
         <tr>
-          <td>Total Score</td>
+          <td class="total">Total Score</td>
           	<?php $judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
           		for($i = 0; $i < $judgeNum; $i++){
           			echo "<td align='center'>";
@@ -287,7 +293,7 @@ session_start();
         	}?>
         </tr>
         <tr>
-          <td>Raw Total</td>
+          <td class="total">Raw Total</td>
           	<?php
             	$judgeNum = sizeof($details->team[$t + $index[$sn]]->forms);
                 $l = 0;
@@ -306,7 +312,7 @@ session_start();
         	?>
         </tr>
         <tr>
-          <td>Average Score</td>
+          <td class="total">Average Score</td>
           	<?php
             echo "<td  align='center' colspan='3'>";
             $k = 0;
@@ -337,15 +343,36 @@ session_start();
         }
         ?>
     </div>
-<div><br/>
-  <a href="slogout.php">Logout</a> <br/>
-</div>
   </body>
+  <style>
+  table {
+      border-collapse: collapse;
+    }
+
+  table, td {
+      border: 1px solid black;
+      }
+      th{
+        text-align: left;
+        border:2px solid black;
+      }
+    td.total{
+        border:2px solid black;
+      }
+    head,body{
+        font-family: "Helvetica Neue";
+        background-color: rgb(221,221,212);
+      }
+      div.logout{
+        float:right;
+      }
+      div.sessionback{
+        float:left;
+      }
+      img{
+        float:center;
+      }
+  </style>
 
 </html>
-<?php }
-else{
-	echo "Please log in to view this information. Redirecting...";
-    echo "<script> setTimeout(function(){ window.location.href = 'slogin.php';}, 1000); </script>";
-}
-?>
+<?php } ?>
